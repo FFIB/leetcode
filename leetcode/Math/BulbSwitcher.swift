@@ -1,5 +1,5 @@
 //
-//  test.swift
+//  BulbSwitcher.swift
 //  leetcode
 //
 //  Created by LISA on 2017/6/20.
@@ -8,3 +8,8 @@
 
 import Foundation
 
+extension Solution {
+    func bulbSwitch(_ n: Int) -> Int {
+        return Int(sqrt(Double(n)))
+    }
+}
