@@ -1,5 +1,5 @@
 //
-//  main.swift
+//  List.swift
 //  leetcode
 //
 //  Created by LISA on 2017/6/20.
@@ -8,18 +8,11 @@
 
 import Foundation
 
-class Solution {
-    
-}
-
-public class TreeNode {
+public class ListNode {
     public var val: Int
-    public var left: TreeNode?
-    public var right: TreeNode?
+    public var next: ListNode?
     public init(_ val: Int) {
         self.val = val
-        self.left = nil
-        self.right = nil
+        self.next = nil
     }
 }
-
