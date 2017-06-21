@@ -18,7 +18,6 @@ extension Solution {
         }
         var res = [[Int]]()
         var index = 0
-        var tmp = [Int]()
         let dimensionalArr = nums.reduce([], +)
         while index <= dimensionalArr.count - c {
             res.append([Int](dimensionalArr[index..<(index + c)]))

@@ -20,7 +20,7 @@ class BinaryTreeTilt {
             res += abs(lsum - rsum)
             return tree.val + lsum + rsum
         }
-        subTree(root)
+        let _ = subTree(root)
         return res
     }
 }
