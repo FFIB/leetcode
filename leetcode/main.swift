@@ -23,3 +23,4 @@ public class TreeNode {
     }
 }
 
+print(Solution().findMinII([10,1,10,10,10]))

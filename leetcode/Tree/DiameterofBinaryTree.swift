@@ -20,7 +20,7 @@ class DiameterofBinaryTree {
             res = max(res, left + right)
             return max(left, right) + 1
         }
-        traverse(tree: root)
+        let _ = traverse(tree: root)
         return res
     }
 }

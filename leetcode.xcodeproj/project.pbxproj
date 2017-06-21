@@ -180,6 +180,8 @@
 		42880D021EFA150700869089 /* SingleNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42880D011EFA150700869089 /* SingleNumber.swift */; };
 		42880D041EFA152100869089 /* FindAllNumbersDisappearedInArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42880D031EFA152100869089 /* FindAllNumbersDisappearedInArray.swift */; };
 		42880D061EFA157200869089 /* SingleNonDuplicate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42880D051EFA157200869089 /* SingleNonDuplicate.swift */; };
+		42880D081EFA1C9700869089 /* FindMinimuminRotatedSortedArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42880D071EFA1C9700869089 /* FindMinimuminRotatedSortedArray.swift */; };
+		42880D0A1EFA214C00869089 /* FindMinimumRotatedSortedArrayII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42880D091EFA214C00869089 /* FindMinimumRotatedSortedArrayII.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -369,6 +371,8 @@
 		42880D011EFA150700869089 /* SingleNumber.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SingleNumber.swift; sourceTree = "<group>"; };
 		42880D031EFA152100869089 /* FindAllNumbersDisappearedInArray.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FindAllNumbersDisappearedInArray.swift; sourceTree = "<group>"; };
 		42880D051EFA157200869089 /* SingleNonDuplicate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SingleNonDuplicate.swift; sourceTree = "<group>"; };
+		42880D071EFA1C9700869089 /* FindMinimuminRotatedSortedArray.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FindMinimuminRotatedSortedArray.swift; sourceTree = "<group>"; };
+		42880D091EFA214C00869089 /* FindMinimumRotatedSortedArrayII.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FindMinimumRotatedSortedArrayII.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -483,6 +487,8 @@
 				42880D011EFA150700869089 /* SingleNumber.swift */,
 				42880D031EFA152100869089 /* FindAllNumbersDisappearedInArray.swift */,
 				42880D051EFA157200869089 /* SingleNonDuplicate.swift */,
+				42880D071EFA1C9700869089 /* FindMinimuminRotatedSortedArray.swift */,
+				42880D091EFA214C00869089 /* FindMinimumRotatedSortedArrayII.swift */,
 			);
 			path = Array;
 			sourceTree = "<group>";
@@ -724,12 +730,14 @@
 				425DE4451EF91AB20079F9B3 /* DistributeCandies.swift in Sources */,
 				425DE4CB1EF926FB0079F9B3 /* ProductofArrayExceptSelf.swift in Sources */,
 				425DE4531EF91BE80079F9B3 /* RemoveDuplicatesfromSortedArrayII.swift in Sources */,
+				42880D081EFA1C9700869089 /* FindMinimuminRotatedSortedArray.swift in Sources */,
 				425DE4971EF922FB0079F9B3 /* ReorderList.swift in Sources */,
 				425DE4BD1EF925C40079F9B3 /* TopKFrequentElements.swift in Sources */,
 				425DE4691EF91EB00079F9B3 /* SingleNumberII.swift in Sources */,
 				42880CDA1EFA11D900869089 /* UglyNumber.swift in Sources */,
 				425DE4D31EF927B10079F9B3 /* FindAllDuplicatesinanArray.swift in Sources */,
 				425DE4D51EF927C80079F9B3 /* ArithmeticSlices.swift in Sources */,
+				42880D0A1EFA214C00869089 /* FindMinimumRotatedSortedArrayII.swift in Sources */,
 				42880CE21EFA122700869089 /* PowerofTwo.swift in Sources */,
 				425DE47D1EF921350079F9B3 /* ConvertaNumbertoHexadecimal.swift in Sources */,
 				42880CF81EFA144A00869089 /* TwoSum.swift in Sources */,
