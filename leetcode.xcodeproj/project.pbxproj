@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		422FF9CF1EFB672E0016B7B6 /* IncreasingTripletSubsequence.swift in Sources */ = {isa = PBXBuildFile; fileRef = 422FF9CE1EFB672E0016B7B6 /* IncreasingTripletSubsequence.swift */; };
 		425DE3A31EF906990079F9B3 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 425DE3A21EF906990079F9B3 /* main.swift */; };
 		425DE3AF1EF9093B0079F9B3 /* MaximumDistanceInArrays.swift in Sources */ = {isa = PBXBuildFile; fileRef = 425DE3AE1EF9093B0079F9B3 /* MaximumDistanceInArrays.swift */; };
 		425DE3B11EF909740079F9B3 /* ContainerWithMostWater.swift in Sources */ = {isa = PBXBuildFile; fileRef = 425DE3B01EF909740079F9B3 /* ContainerWithMostWater.swift */; };
@@ -197,6 +198,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		422FF9CE1EFB672E0016B7B6 /* IncreasingTripletSubsequence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IncreasingTripletSubsequence.swift; sourceTree = "<group>"; };
 		425DE39F1EF906990079F9B3 /* leetcode */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = leetcode; sourceTree = BUILT_PRODUCTS_DIR; };
 		425DE3A21EF906990079F9B3 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		425DE3AE1EF9093B0079F9B3 /* MaximumDistanceInArrays.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MaximumDistanceInArrays.swift; sourceTree = "<group>"; };
@@ -489,6 +491,7 @@
 				42880D051EFA157200869089 /* SingleNonDuplicate.swift */,
 				42880D071EFA1C9700869089 /* FindMinimuminRotatedSortedArray.swift */,
 				42880D091EFA214C00869089 /* FindMinimumRotatedSortedArrayII.swift */,
+				422FF9CE1EFB672E0016B7B6 /* IncreasingTripletSubsequence.swift */,
 			);
 			path = Array;
 			sourceTree = "<group>";
@@ -764,6 +767,7 @@
 				425DE4D11EF9279B0079F9B3 /* TeemoAttacking.swift in Sources */,
 				425DE3B91EF90B740079F9B3 /* MyPow.swift in Sources */,
 				425DE3A31EF906990079F9B3 /* main.swift in Sources */,
+				422FF9CF1EFB672E0016B7B6 /* IncreasingTripletSubsequence.swift in Sources */,
 				425DE4E31EF928BA0079F9B3 /* MergeSortedArray.swift in Sources */,
 				425DE4551EF91C190079F9B3 /* ArrayPartitionI.swift in Sources */,
 				425DE4A91EF924700079F9B3 /* KthLargestElementinanArray.swift in Sources */,
