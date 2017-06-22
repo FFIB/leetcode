@@ -25,7 +25,6 @@ extension Solution {
                 right = mid
             }
         }
-        
         return nums[left]
     }
 }
