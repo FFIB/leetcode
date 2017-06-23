@@ -24,4 +24,5 @@ public class TreeNode {
     }
 }
 
-print(Solution().findMinII([10,1,10,10,10]))
+print(Solution().findRightInterval([Interval(3, 4), Interval(2, 3), Interval(1, 2)]))
+
