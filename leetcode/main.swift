@@ -24,5 +24,5 @@ public class TreeNode {
     }
 }
 
-print(Solution().findRightInterval([Interval(3, 4), Interval(2, 3), Interval(1, 2)]))
+print(Solution().eraseOverlapIntervals([Interval(1, 100), Interval(11, 22), Interval(1, 11), Interval(2, 12)]))
 

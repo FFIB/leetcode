@@ -185,6 +185,7 @@
 		42880D061EFA157200869089 /* SingleNonDuplicate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42880D051EFA157200869089 /* SingleNonDuplicate.swift */; };
 		42880D081EFA1C9700869089 /* FindMinimuminRotatedSortedArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42880D071EFA1C9700869089 /* FindMinimuminRotatedSortedArray.swift */; };
 		42880D0A1EFA214C00869089 /* FindMinimumRotatedSortedArrayII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42880D091EFA214C00869089 /* FindMinimumRotatedSortedArrayII.swift */; };
+		42A8F9B01EFEBE9000D9863C /* NonoverlappingIntervals.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42A8F9AF1EFEBE9000D9863C /* NonoverlappingIntervals.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -379,6 +380,7 @@
 		42880D051EFA157200869089 /* SingleNonDuplicate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SingleNonDuplicate.swift; sourceTree = "<group>"; };
 		42880D071EFA1C9700869089 /* FindMinimuminRotatedSortedArray.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FindMinimuminRotatedSortedArray.swift; sourceTree = "<group>"; };
 		42880D091EFA214C00869089 /* FindMinimumRotatedSortedArrayII.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FindMinimumRotatedSortedArrayII.swift; sourceTree = "<group>"; };
+		42A8F9AF1EFEBE9000D9863C /* NonoverlappingIntervals.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NonoverlappingIntervals.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -497,6 +499,7 @@
 				42880D091EFA214C00869089 /* FindMinimumRotatedSortedArrayII.swift */,
 				422FF9CE1EFB672E0016B7B6 /* IncreasingTripletSubsequence.swift */,
 				426F28521EFCB5C300557CBB /* FindRightInterval.swift */,
+				42A8F9AF1EFEBE9000D9863C /* NonoverlappingIntervals.swift */,
 			);
 			path = Array;
 			sourceTree = "<group>";
@@ -816,6 +819,7 @@
 				425DE4891EF9220B0079F9B3 /* LongestUncommonSubsequenceI.swift in Sources */,
 				425DE4951EF922CD0079F9B3 /* OddEvenLinkedList.swift in Sources */,
 				42880CB81EFA0F6900869089 /* PalindromeNumber.swift in Sources */,
+				42A8F9B01EFEBE9000D9863C /* NonoverlappingIntervals.swift in Sources */,
 				425DE4AF1EF924EA0079F9B3 /* MinimumTimeDifference.swift in Sources */,
 				425DE3D11EF90F640079F9B3 /* QueueReconstructionbyHeight.swift in Sources */,
 				425DE4751EF9202C0079F9B3 /* CountPrimes.swift in Sources */,
