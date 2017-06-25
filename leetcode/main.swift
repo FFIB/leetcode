@@ -24,5 +24,5 @@ public class TreeNode {
     }
 }
 
-print(Solution().eraseOverlapIntervals([Interval(1, 100), Interval(11, 22), Interval(1, 11), Interval(2, 12)]))
+print(Solution().summaryRanges([-2147483648,-2147483647,2147483647]))
 
