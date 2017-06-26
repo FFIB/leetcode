@@ -24,5 +24,5 @@ public class TreeNode {
     }
 }
 
-print(Solution().summaryRanges([-2147483648,-2147483647,2147483647]))
+print(Solution().groupAnagrams(["tea","and","ace","ad","eat","dans"]))
 
