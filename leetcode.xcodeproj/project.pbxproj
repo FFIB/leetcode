@@ -190,6 +190,7 @@
 		42A8F9B41F00A3AD00D9863C /* GroupAnagrams.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42A8F9B31F00A3AD00D9863C /* GroupAnagrams.swift */; };
 		42AB97471F01FB770048A129 /* SearchforRange.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42AB97461F01FB770048A129 /* SearchforRange.swift */; };
 		42E19CBA1F0346B600E606BF /* MaximumProductofThreeNumbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42E19CB91F0346B600E606BF /* MaximumProductofThreeNumbers.swift */; };
+		42EB9F4D1F04995D00AA53CE /* RangeAdditionII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42EB9F4C1F04995D00AA53CE /* RangeAdditionII.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -389,6 +390,7 @@
 		42A8F9B31F00A3AD00D9863C /* GroupAnagrams.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GroupAnagrams.swift; sourceTree = "<group>"; };
 		42AB97461F01FB770048A129 /* SearchforRange.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchforRange.swift; sourceTree = "<group>"; };
 		42E19CB91F0346B600E606BF /* MaximumProductofThreeNumbers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumProductofThreeNumbers.swift; sourceTree = "<group>"; };
+		42EB9F4C1F04995D00AA53CE /* RangeAdditionII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RangeAdditionII.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -511,6 +513,7 @@
 				42A8F9B11EFFF07E00D9863C /* SummaryRanges.swift */,
 				42AB97461F01FB770048A129 /* SearchforRange.swift */,
 				42E19CB91F0346B600E606BF /* MaximumProductofThreeNumbers.swift */,
+				42EB9F4C1F04995D00AA53CE /* RangeAdditionII.swift */,
 			);
 			path = Array;
 			sourceTree = "<group>";
@@ -766,6 +769,7 @@
 				42880CE21EFA122700869089 /* PowerofTwo.swift in Sources */,
 				425DE47D1EF921350079F9B3 /* ConvertaNumbertoHexadecimal.swift in Sources */,
 				42880CF81EFA144A00869089 /* TwoSum.swift in Sources */,
+				42EB9F4D1F04995D00AA53CE /* RangeAdditionII.swift in Sources */,
 				425DE45B1EF91C970079F9B3 /* SubsetsII.swift in Sources */,
 				42880C9C1EFA0D3300869089 /* HouseRobber.swift in Sources */,
 				42880CFA1EFA146100869089 /* ExcelSheetColumnNumber.swift in Sources */,
