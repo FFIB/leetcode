@@ -24,5 +24,5 @@ public class TreeNode {
     }
 }
 
-print(Solution().groupAnagrams(["tea","and","ace","ad","eat","dans"]))
+print(Solution().maximumProduct([7,3,1,0,0,6]))
 
