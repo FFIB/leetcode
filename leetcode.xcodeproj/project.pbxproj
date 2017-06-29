@@ -191,6 +191,7 @@
 		42AB97471F01FB770048A129 /* SearchforRange.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42AB97461F01FB770048A129 /* SearchforRange.swift */; };
 		42E19CBA1F0346B600E606BF /* MaximumProductofThreeNumbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42E19CB91F0346B600E606BF /* MaximumProductofThreeNumbers.swift */; };
 		42EB9F4D1F04995D00AA53CE /* RangeAdditionII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42EB9F4C1F04995D00AA53CE /* RangeAdditionII.swift */; };
+		42EB9F4F1F049F2F00AA53CE /* MergeTwoBinaryTrees.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42EB9F4E1F049F2F00AA53CE /* MergeTwoBinaryTrees.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -391,6 +392,7 @@
 		42AB97461F01FB770048A129 /* SearchforRange.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchforRange.swift; sourceTree = "<group>"; };
 		42E19CB91F0346B600E606BF /* MaximumProductofThreeNumbers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumProductofThreeNumbers.swift; sourceTree = "<group>"; };
 		42EB9F4C1F04995D00AA53CE /* RangeAdditionII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RangeAdditionII.swift; sourceTree = "<group>"; };
+		42EB9F4E1F049F2F00AA53CE /* MergeTwoBinaryTrees.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MergeTwoBinaryTrees.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -637,6 +639,7 @@
 				425DE44C1EF91B380079F9B3 /* SameTree.swift */,
 				425DE4741EF9202C0079F9B3 /* CountPrimes.swift */,
 				425DE48C1EF9223F0079F9B3 /* InvertBinaryTree.swift */,
+				42EB9F4E1F049F2F00AA53CE /* MergeTwoBinaryTrees.swift */,
 			);
 			path = Tree;
 			sourceTree = "<group>";
@@ -901,6 +904,7 @@
 				425DE4911EF922620079F9B3 /* List.swift in Sources */,
 				425DE4C31EF9265D0079F9B3 /* BattleshipsinBoard.swift in Sources */,
 				42880D001EFA14A000869089 /* AddDigits.swift in Sources */,
+				42EB9F4F1F049F2F00AA53CE /* MergeTwoBinaryTrees.swift in Sources */,
 				425DE4611EF91D8B0079F9B3 /* SpiralMatrixII.swift in Sources */,
 				425DE4291EF916D50079F9B3 /* FindModeinBinarySearchTree.swift in Sources */,
 				42880C9E1EFA0D5100869089 /* MaximumSubarray.swift in Sources */,
