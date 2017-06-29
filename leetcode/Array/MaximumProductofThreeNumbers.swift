@@ -14,7 +14,6 @@ extension Solution {
             return 0
         }
         let sort = nums.sorted()
-        print(sort)
         if sort.count >= 3 {
             var res = sort[sort.count - 1] * sort[sort.count - 2] *  sort[sort.count - 3]
             res = max(res, sort[0] * sort[1] * sort[sort.count - 1])

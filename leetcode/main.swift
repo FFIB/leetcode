@@ -24,5 +24,5 @@ public class TreeNode {
     }
 }
 
-print(Solution().maximumProduct([7,3,1,0,0,6]))
+print(Solution().maxCount(3, 3, [[2,2], [3, 3]]))
 
