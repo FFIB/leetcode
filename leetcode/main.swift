@@ -23,6 +23,8 @@ public class TreeNode {
         self.right = nil
     }
 }
-
-print(Solution().maxCount(3, 3, [[2,2], [3, 3]]))
+print(Solution().maximalSquare([[Character("\(1)"), Character("\(0)"), Character("\(1)"), Character("\(0)"), Character("\(0)")],
+    [Character("\(1)"), Character("\(0)"), Character("\(1)"), Character("\(1)"), Character("\(1)")],
+    [Character("\(1)"), Character("\(1)"), Character("\(1)"), Character("\(1)"), Character("\(1)")],
+    [Character("\(1)"), Character("\(0)"), Character("\(0)"), Character("\(1)"), Character("\(0)")]]))
 
