@@ -23,8 +23,5 @@ public class TreeNode {
         self.right = nil
     }
 }
-print(Solution().maximalSquare([[Character("\(1)"), Character("\(0)"), Character("\(1)"), Character("\(0)"), Character("\(0)")],
-    [Character("\(1)"), Character("\(0)"), Character("\(1)"), Character("\(1)"), Character("\(1)")],
-    [Character("\(1)"), Character("\(1)"), Character("\(1)"), Character("\(1)"), Character("\(1)")],
-    [Character("\(1)"), Character("\(0)"), Character("\(0)"), Character("\(1)"), Character("\(0)")]]))
+print(ceil(10.5))
 
