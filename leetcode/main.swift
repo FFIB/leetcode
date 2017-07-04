@@ -23,5 +23,5 @@ public class TreeNode {
         self.right = nil
     }
 }
-print(ceil(10.5))
+print(Solution().detectCapitalUse("USa"))
 
