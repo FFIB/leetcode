@@ -23,5 +23,5 @@ public class TreeNode {
         self.right = nil
     }
 }
-print(Solution().detectCapitalUse("USa"))
+print(Solution().canPlaceFlowers([0,0,1,0,0], 1))
 
