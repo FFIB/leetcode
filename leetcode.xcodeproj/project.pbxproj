@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		422FF9CF1EFB672E0016B7B6 /* IncreasingTripletSubsequence.swift in Sources */ = {isa = PBXBuildFile; fileRef = 422FF9CE1EFB672E0016B7B6 /* IncreasingTripletSubsequence.swift */; };
 		425C972C1F0C80D900CAC4E2 /* CanPlaceFlowers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 425C972B1F0C80D900CAC4E2 /* CanPlaceFlowers.swift */; };
+		425C97301F0E156100CAC4E2 /* FindDuplicateFileinSystem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 425C972F1F0E156100CAC4E2 /* FindDuplicateFileinSystem.swift */; };
 		425DE3A31EF906990079F9B3 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 425DE3A21EF906990079F9B3 /* main.swift */; };
 		425DE3AF1EF9093B0079F9B3 /* MaximumDistanceInArrays.swift in Sources */ = {isa = PBXBuildFile; fileRef = 425DE3AE1EF9093B0079F9B3 /* MaximumDistanceInArrays.swift */; };
 		425DE3B11EF909740079F9B3 /* ContainerWithMostWater.swift in Sources */ = {isa = PBXBuildFile; fileRef = 425DE3B01EF909740079F9B3 /* ContainerWithMostWater.swift */; };
@@ -216,6 +217,7 @@
 /* Begin PBXFileReference section */
 		422FF9CE1EFB672E0016B7B6 /* IncreasingTripletSubsequence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IncreasingTripletSubsequence.swift; sourceTree = "<group>"; };
 		425C972B1F0C80D900CAC4E2 /* CanPlaceFlowers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CanPlaceFlowers.swift; sourceTree = "<group>"; };
+		425C972F1F0E156100CAC4E2 /* FindDuplicateFileinSystem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindDuplicateFileinSystem.swift; sourceTree = "<group>"; };
 		425DE39F1EF906990079F9B3 /* leetcode */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = leetcode; sourceTree = BUILT_PRODUCTS_DIR; };
 		425DE3A21EF906990079F9B3 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		425DE3AE1EF9093B0079F9B3 /* MaximumDistanceInArrays.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MaximumDistanceInArrays.swift; sourceTree = "<group>"; };
@@ -533,6 +535,7 @@
 				4293D0641F0949EC0034747E /* MaximalSquare.swift */,
 				4293D0681F09EFE80034747E /* MinimumIndexSumofTwoLists .swift */,
 				425C972B1F0C80D900CAC4E2 /* CanPlaceFlowers.swift */,
+				425C972F1F0E156100CAC4E2 /* FindDuplicateFileinSystem.swift */,
 			);
 			path = Array;
 			sourceTree = "<group>";
@@ -842,6 +845,7 @@
 				428BDE461F07FA7C00877D82 /* IntegerReplacement.swift in Sources */,
 				425DE4B11EF925000079F9B3 /* ContinuousSubarraySum.swift in Sources */,
 				42880CC81EFA10BE00869089 /* ValidAnagram.swift in Sources */,
+				425C97301F0E156100CAC4E2 /* FindDuplicateFileinSystem.swift in Sources */,
 				42880CB01EFA0EA400869089 /* IsomorphicStrings.swift in Sources */,
 				426F28551EFCDAA300557CBB /* SwapNodesinPairs.swift in Sources */,
 				425DE4411EF91A380079F9B3 /* SumofTwoIntegers.swift in Sources */,
