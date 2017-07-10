@@ -26,4 +26,5 @@ public class TreeNode {
 
 var buttonId = 0
 
-print(Solution().intToRoman(1))
+print(Solution().findLongestWord("wordgoodgoodgoodbestword",
+    ["word","good","best","good"]))
