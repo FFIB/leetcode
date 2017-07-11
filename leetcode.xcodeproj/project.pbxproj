@@ -131,6 +131,7 @@
 		425DE4E91EF9298A0079F9B3 /* LengthofLastWord.swift in Sources */ = {isa = PBXBuildFile; fileRef = 425DE4E81EF9298A0079F9B3 /* LengthofLastWord.swift */; };
 		426F28531EFCB5C300557CBB /* FindRightInterval.swift in Sources */ = {isa = PBXBuildFile; fileRef = 426F28521EFCB5C300557CBB /* FindRightInterval.swift */; };
 		426F28551EFCDAA300557CBB /* SwapNodesinPairs.swift in Sources */ = {isa = PBXBuildFile; fileRef = 426F28541EFCDAA300557CBB /* SwapNodesinPairs.swift */; };
+		427DF3981F1468AF0004B68E /* NextGreaterElementII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 427DF3971F1468AF0004B68E /* NextGreaterElementII.swift */; };
 		42880C961EFA0CA300869089 /* WordPattern.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42880C951EFA0CA300869089 /* WordPattern.swift */; };
 		42880C981EFA0CDB00869089 /* Pascal'sTriangleII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42880C971EFA0CDB00869089 /* Pascal'sTriangleII.swift */; };
 		42880C9A1EFA0D0B00869089 /* ClimbingStairs.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42880C991EFA0D0B00869089 /* ClimbingStairs.swift */; };
@@ -191,6 +192,7 @@
 		428BDE461F07FA7C00877D82 /* IntegerReplacement.swift in Sources */ = {isa = PBXBuildFile; fileRef = 428BDE451F07FA7C00877D82 /* IntegerReplacement.swift */; };
 		429308D91F1133B0001319D1 /* IntegertoRoman.swift in Sources */ = {isa = PBXBuildFile; fileRef = 429308D81F1133B0001319D1 /* IntegertoRoman.swift */; };
 		429308DB1F127478001319D1 /* LongestWordinDictionarythroughDeleting.swift in Sources */ = {isa = PBXBuildFile; fileRef = 429308DA1F127478001319D1 /* LongestWordinDictionarythroughDeleting.swift */; };
+		429308DD1F13196B001319D1 /* MostFrequentSubtreeSum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 429308DC1F13196B001319D1 /* MostFrequentSubtreeSum.swift */; };
 		4293D0651F0949EC0034747E /* MaximalSquare.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4293D0641F0949EC0034747E /* MaximalSquare.swift */; };
 		4293D0691F09EFE80034747E /* MinimumIndexSumofTwoLists .swift in Sources */ = {isa = PBXBuildFile; fileRef = 4293D0681F09EFE80034747E /* MinimumIndexSumofTwoLists .swift */; };
 		4293D06B1F09F4E20034747E /* SumofSquareNumbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4293D06A1F09F4E20034747E /* SumofSquareNumbers.swift */; };
@@ -343,6 +345,7 @@
 		425DE4E81EF9298A0079F9B3 /* LengthofLastWord.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LengthofLastWord.swift; sourceTree = "<group>"; };
 		426F28521EFCB5C300557CBB /* FindRightInterval.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindRightInterval.swift; sourceTree = "<group>"; };
 		426F28541EFCDAA300557CBB /* SwapNodesinPairs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwapNodesinPairs.swift; sourceTree = "<group>"; };
+		427DF3971F1468AF0004B68E /* NextGreaterElementII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NextGreaterElementII.swift; sourceTree = "<group>"; };
 		42880C951EFA0CA300869089 /* WordPattern.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WordPattern.swift; sourceTree = "<group>"; };
 		42880C971EFA0CDB00869089 /* Pascal'sTriangleII.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Pascal'sTriangleII.swift"; sourceTree = "<group>"; };
 		42880C991EFA0D0B00869089 /* ClimbingStairs.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ClimbingStairs.swift; sourceTree = "<group>"; };
@@ -403,6 +406,7 @@
 		428BDE451F07FA7C00877D82 /* IntegerReplacement.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IntegerReplacement.swift; sourceTree = "<group>"; };
 		429308D81F1133B0001319D1 /* IntegertoRoman.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IntegertoRoman.swift; sourceTree = "<group>"; };
 		429308DA1F127478001319D1 /* LongestWordinDictionarythroughDeleting.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongestWordinDictionarythroughDeleting.swift; sourceTree = "<group>"; };
+		429308DC1F13196B001319D1 /* MostFrequentSubtreeSum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MostFrequentSubtreeSum.swift; sourceTree = "<group>"; };
 		4293D0641F0949EC0034747E /* MaximalSquare.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximalSquare.swift; sourceTree = "<group>"; };
 		4293D0681F09EFE80034747E /* MinimumIndexSumofTwoLists .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "MinimumIndexSumofTwoLists .swift"; sourceTree = "<group>"; };
 		4293D06A1F09F4E20034747E /* SumofSquareNumbers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SumofSquareNumbers.swift; sourceTree = "<group>"; };
@@ -542,6 +546,7 @@
 				4293D0681F09EFE80034747E /* MinimumIndexSumofTwoLists .swift */,
 				425C972B1F0C80D900CAC4E2 /* CanPlaceFlowers.swift */,
 				425C972F1F0E156100CAC4E2 /* FindDuplicateFileinSystem.swift */,
+				427DF3971F1468AF0004B68E /* NextGreaterElementII.swift */,
 			);
 			path = Array;
 			sourceTree = "<group>";
@@ -673,6 +678,7 @@
 				425DE4741EF9202C0079F9B3 /* CountPrimes.swift */,
 				425DE48C1EF9223F0079F9B3 /* InvertBinaryTree.swift */,
 				42EB9F4E1F049F2F00AA53CE /* MergeTwoBinaryTrees.swift */,
+				429308DC1F13196B001319D1 /* MostFrequentSubtreeSum.swift */,
 			);
 			path = Tree;
 			sourceTree = "<group>";
@@ -730,7 +736,7 @@
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 0830;
-				LastUpgradeCheck = 0830;
+				LastUpgradeCheck = 0900;
 				ORGANIZATIONNAME = FFIB;
 				TargetAttributes = {
 					425DE39E1EF906990079F9B3 = {
@@ -774,6 +780,7 @@
 				425DE3B31EF909AD0079F9B3 /* ValidTriangleNumber.swift in Sources */,
 				425DE4651EF91DC70079F9B3 /* EliminationGame.swift in Sources */,
 				42880CE81EFA133E00869089 /* MajorityElement.swift in Sources */,
+				429308DD1F13196B001319D1 /* MostFrequentSubtreeSum.swift in Sources */,
 				425DE4A71EF9244B0079F9B3 /* Search2DMatrixII.swift in Sources */,
 				425DE42D1EF9174D0079F9B3 /* SymmetricTree.swift in Sources */,
 				425DE4AB1EF9248D0079F9B3 /* RotateImage.swift in Sources */,
@@ -883,6 +890,7 @@
 				42A8F9B01EFEBE9000D9863C /* NonoverlappingIntervals.swift in Sources */,
 				4293D06B1F09F4E20034747E /* SumofSquareNumbers.swift in Sources */,
 				425DE4AF1EF924EA0079F9B3 /* MinimumTimeDifference.swift in Sources */,
+				427DF3981F1468AF0004B68E /* NextGreaterElementII.swift in Sources */,
 				425DE3D11EF90F640079F9B3 /* QueueReconstructionbyHeight.swift in Sources */,
 				425DE4751EF9202C0079F9B3 /* CountPrimes.swift in Sources */,
 				425DE4C71EF926AD0079F9B3 /* FindtheDuplicateNumber.swift in Sources */,
@@ -974,7 +982,9 @@
 				CLANG_CXX_LIBRARY = "libc++";
 				CLANG_ENABLE_MODULES = YES;
 				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
 				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
 				CLANG_WARN_CONSTANT_CONVERSION = YES;
 				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
 				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
@@ -982,7 +992,11 @@
 				CLANG_WARN_ENUM_CONVERSION = YES;
 				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
 				CLANG_WARN_SUSPICIOUS_MOVE = YES;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
@@ -1023,7 +1037,9 @@
 				CLANG_CXX_LIBRARY = "libc++";
 				CLANG_ENABLE_MODULES = YES;
 				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
 				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
 				CLANG_WARN_CONSTANT_CONVERSION = YES;
 				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
 				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
@@ -1031,7 +1047,11 @@
 				CLANG_WARN_ENUM_CONVERSION = YES;
 				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
 				CLANG_WARN_SUSPICIOUS_MOVE = YES;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
@@ -1051,6 +1071,7 @@
 				MACOSX_DEPLOYMENT_TARGET = 10.12;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				SDKROOT = macosx;
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
 			};
 			name = Release;
 		};
