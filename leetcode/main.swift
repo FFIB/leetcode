@@ -26,4 +26,5 @@ public class TreeNode {
 
 var buttonId = 0
 
-print(Solution().nextGreaterElements([1,2,1]))
+print(Solution().convert("abcd", 3))
+
