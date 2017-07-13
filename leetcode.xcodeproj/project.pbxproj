@@ -189,6 +189,7 @@
 		42880D061EFA157200869089 /* SingleNonDuplicate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42880D051EFA157200869089 /* SingleNonDuplicate.swift */; };
 		42880D081EFA1C9700869089 /* FindMinimuminRotatedSortedArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42880D071EFA1C9700869089 /* FindMinimuminRotatedSortedArray.swift */; };
 		42880D0A1EFA214C00869089 /* FindMinimumRotatedSortedArrayII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42880D091EFA214C00869089 /* FindMinimumRotatedSortedArrayII.swift */; };
+		428B5C1A1F1715E70016F48B /* ZigZagConversion.swift in Sources */ = {isa = PBXBuildFile; fileRef = 428B5C191F1715E70016F48B /* ZigZagConversion.swift */; };
 		428BDE461F07FA7C00877D82 /* IntegerReplacement.swift in Sources */ = {isa = PBXBuildFile; fileRef = 428BDE451F07FA7C00877D82 /* IntegerReplacement.swift */; };
 		429308D91F1133B0001319D1 /* IntegertoRoman.swift in Sources */ = {isa = PBXBuildFile; fileRef = 429308D81F1133B0001319D1 /* IntegertoRoman.swift */; };
 		429308DB1F127478001319D1 /* LongestWordinDictionarythroughDeleting.swift in Sources */ = {isa = PBXBuildFile; fileRef = 429308DA1F127478001319D1 /* LongestWordinDictionarythroughDeleting.swift */; };
@@ -403,6 +404,7 @@
 		42880D051EFA157200869089 /* SingleNonDuplicate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SingleNonDuplicate.swift; sourceTree = "<group>"; };
 		42880D071EFA1C9700869089 /* FindMinimuminRotatedSortedArray.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FindMinimuminRotatedSortedArray.swift; sourceTree = "<group>"; };
 		42880D091EFA214C00869089 /* FindMinimumRotatedSortedArrayII.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FindMinimumRotatedSortedArrayII.swift; sourceTree = "<group>"; };
+		428B5C191F1715E70016F48B /* ZigZagConversion.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ZigZagConversion.swift; sourceTree = "<group>"; };
 		428BDE451F07FA7C00877D82 /* IntegerReplacement.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IntegerReplacement.swift; sourceTree = "<group>"; };
 		429308D81F1133B0001319D1 /* IntegertoRoman.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IntegertoRoman.swift; sourceTree = "<group>"; };
 		429308DA1F127478001319D1 /* LongestWordinDictionarythroughDeleting.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongestWordinDictionarythroughDeleting.swift; sourceTree = "<group>"; };
@@ -589,6 +591,7 @@
 				42BA2AF31F0B33E200608E06 /* DetectCapital.swift */,
 				42BA2AF51F0B383C00608E06 /* FindAllAnagramsinString.swift */,
 				429308DA1F127478001319D1 /* LongestWordinDictionarythroughDeleting.swift */,
+				428B5C191F1715E70016F48B /* ZigZagConversion.swift */,
 			);
 			path = String;
 			sourceTree = "<group>";
@@ -797,6 +800,7 @@
 				425DE4511EF91BAB0079F9B3 /* PermutationinString.swift in Sources */,
 				42880CBC1EFA0FA400869089 /* ArrangingCoins.swift in Sources */,
 				425DE4371EF918F00079F9B3 /* SubtreeofAnotherTree.swift in Sources */,
+				428B5C1A1F1715E70016F48B /* ZigZagConversion.swift in Sources */,
 				425DE4B31EF925200079F9B3 /* KthSmallestElementinSortedMatrix.swift in Sources */,
 				425DE4451EF91AB20079F9B3 /* DistributeCandies.swift in Sources */,
 				425DE4CB1EF926FB0079F9B3 /* ProductofArrayExceptSelf.swift in Sources */,
