@@ -26,5 +26,5 @@ public class TreeNode {
 
 var buttonId = 0
 
-print(Solution().convert("abcd", 3))
+print(Solution().lengthOfLongestSubstring("qt"))
 
