@@ -202,8 +202,10 @@
 		42A8F9B21EFFF07E00D9863C /* SummaryRanges.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42A8F9B11EFFF07E00D9863C /* SummaryRanges.swift */; };
 		42A8F9B41F00A3AD00D9863C /* GroupAnagrams.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42A8F9B31F00A3AD00D9863C /* GroupAnagrams.swift */; };
 		42AB97471F01FB770048A129 /* SearchforRange.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42AB97461F01FB770048A129 /* SearchforRange.swift */; };
+		42B47B1F1F1A76BA00560E5D /* Permutations.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42B47B1E1F1A76BA00560E5D /* Permutations.swift */; };
 		42BA2AF41F0B33E200608E06 /* DetectCapital.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42BA2AF31F0B33E200608E06 /* DetectCapital.swift */; };
 		42BA2AF61F0B383C00608E06 /* FindAllAnagramsinString.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42BA2AF51F0B383C00608E06 /* FindAllAnagramsinString.swift */; };
+		42E051A71F1B93BB00D2516C /* NextPermutation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42E051A61F1B93BB00D2516C /* NextPermutation.swift */; };
 		42E19CBA1F0346B600E606BF /* MaximumProductofThreeNumbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42E19CB91F0346B600E606BF /* MaximumProductofThreeNumbers.swift */; };
 		42EB9F4D1F04995D00AA53CE /* RangeAdditionII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42EB9F4C1F04995D00AA53CE /* RangeAdditionII.swift */; };
 		42EB9F4F1F049F2F00AA53CE /* MergeTwoBinaryTrees.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42EB9F4E1F049F2F00AA53CE /* MergeTwoBinaryTrees.swift */; };
@@ -418,8 +420,10 @@
 		42A8F9B11EFFF07E00D9863C /* SummaryRanges.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SummaryRanges.swift; sourceTree = "<group>"; };
 		42A8F9B31F00A3AD00D9863C /* GroupAnagrams.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GroupAnagrams.swift; sourceTree = "<group>"; };
 		42AB97461F01FB770048A129 /* SearchforRange.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchforRange.swift; sourceTree = "<group>"; };
+		42B47B1E1F1A76BA00560E5D /* Permutations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Permutations.swift; sourceTree = "<group>"; };
 		42BA2AF31F0B33E200608E06 /* DetectCapital.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetectCapital.swift; sourceTree = "<group>"; };
 		42BA2AF51F0B383C00608E06 /* FindAllAnagramsinString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindAllAnagramsinString.swift; sourceTree = "<group>"; };
+		42E051A61F1B93BB00D2516C /* NextPermutation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NextPermutation.swift; sourceTree = "<group>"; };
 		42E19CB91F0346B600E606BF /* MaximumProductofThreeNumbers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumProductofThreeNumbers.swift; sourceTree = "<group>"; };
 		42EB9F4C1F04995D00AA53CE /* RangeAdditionII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RangeAdditionII.swift; sourceTree = "<group>"; };
 		42EB9F4E1F049F2F00AA53CE /* MergeTwoBinaryTrees.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MergeTwoBinaryTrees.swift; sourceTree = "<group>"; };
@@ -551,6 +555,8 @@
 				425C972B1F0C80D900CAC4E2 /* CanPlaceFlowers.swift */,
 				425C972F1F0E156100CAC4E2 /* FindDuplicateFileinSystem.swift */,
 				427DF3971F1468AF0004B68E /* NextGreaterElementII.swift */,
+				42B47B1E1F1A76BA00560E5D /* Permutations.swift */,
+				42E051A61F1B93BB00D2516C /* NextPermutation.swift */,
 			);
 			path = Array;
 			sourceTree = "<group>";
@@ -781,6 +787,7 @@
 				42880CAC1EFA0E6A00869089 /* BestTimetoBuyandSellStockII.swift in Sources */,
 				425DE4B91EF925750079F9B3 /* ReverseStringII.swift in Sources */,
 				425DE4A11EF923B10079F9B3 /* RemoveLinkedListElements.swift in Sources */,
+				42E051A71F1B93BB00D2516C /* NextPermutation.swift in Sources */,
 				425DE49B1EF9233D0079F9B3 /* RemoveNthNodeFromEndofList.swift in Sources */,
 				42880CBE1EFA0FB600869089 /* RemoveElement.swift in Sources */,
 				425DE3B31EF909AD0079F9B3 /* ValidTriangleNumber.swift in Sources */,
@@ -845,6 +852,7 @@
 				425DE4D11EF9279B0079F9B3 /* TeemoAttacking.swift in Sources */,
 				425DE3B91EF90B740079F9B3 /* MyPow.swift in Sources */,
 				425DE3A31EF906990079F9B3 /* main.swift in Sources */,
+				42B47B1F1F1A76BA00560E5D /* Permutations.swift in Sources */,
 				422FF9CF1EFB672E0016B7B6 /* IncreasingTripletSubsequence.swift in Sources */,
 				425DE4E31EF928BA0079F9B3 /* MergeSortedArray.swift in Sources */,
 				425DE4551EF91C190079F9B3 /* ArrayPartitionI.swift in Sources */,
