@@ -206,6 +206,8 @@
 		42BA2AF41F0B33E200608E06 /* DetectCapital.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42BA2AF31F0B33E200608E06 /* DetectCapital.swift */; };
 		42BA2AF61F0B383C00608E06 /* FindAllAnagramsinString.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42BA2AF51F0B383C00608E06 /* FindAllAnagramsinString.swift */; };
 		42E051A71F1B93BB00D2516C /* NextPermutation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42E051A61F1B93BB00D2516C /* NextPermutation.swift */; };
+		42E051AD1F1C5A5900D2516C /* LongestPalindromicSubstring.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42E051AC1F1C5A5900D2516C /* LongestPalindromicSubstring.swift */; };
+		42E051AF1F1C5D7800D2516C /* LongestPalindromicSubsequence.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42E051AE1F1C5D7800D2516C /* LongestPalindromicSubsequence.swift */; };
 		42E19CBA1F0346B600E606BF /* MaximumProductofThreeNumbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42E19CB91F0346B600E606BF /* MaximumProductofThreeNumbers.swift */; };
 		42EB9F4D1F04995D00AA53CE /* RangeAdditionII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42EB9F4C1F04995D00AA53CE /* RangeAdditionII.swift */; };
 		42EB9F4F1F049F2F00AA53CE /* MergeTwoBinaryTrees.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42EB9F4E1F049F2F00AA53CE /* MergeTwoBinaryTrees.swift */; };
@@ -424,6 +426,8 @@
 		42BA2AF31F0B33E200608E06 /* DetectCapital.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetectCapital.swift; sourceTree = "<group>"; };
 		42BA2AF51F0B383C00608E06 /* FindAllAnagramsinString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindAllAnagramsinString.swift; sourceTree = "<group>"; };
 		42E051A61F1B93BB00D2516C /* NextPermutation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NextPermutation.swift; sourceTree = "<group>"; };
+		42E051AC1F1C5A5900D2516C /* LongestPalindromicSubstring.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongestPalindromicSubstring.swift; sourceTree = "<group>"; };
+		42E051AE1F1C5D7800D2516C /* LongestPalindromicSubsequence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongestPalindromicSubsequence.swift; sourceTree = "<group>"; };
 		42E19CB91F0346B600E606BF /* MaximumProductofThreeNumbers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumProductofThreeNumbers.swift; sourceTree = "<group>"; };
 		42EB9F4C1F04995D00AA53CE /* RangeAdditionII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RangeAdditionII.swift; sourceTree = "<group>"; };
 		42EB9F4E1F049F2F00AA53CE /* MergeTwoBinaryTrees.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MergeTwoBinaryTrees.swift; sourceTree = "<group>"; };
@@ -601,6 +605,8 @@
 				429308DA1F127478001319D1 /* LongestWordinDictionarythroughDeleting.swift */,
 				428B5C191F1715E70016F48B /* ZigZagConversion.swift */,
 				428B5C1D1F18628C0016F48B /* LongestSubstringWithoutRepeatingCharacters.swift */,
+				42E051AC1F1C5A5900D2516C /* LongestPalindromicSubstring.swift */,
+				42E051AE1F1C5D7800D2516C /* LongestPalindromicSubsequence.swift */,
 			);
 			path = String;
 			sourceTree = "<group>";
@@ -847,6 +853,7 @@
 				42880C981EFA0CDB00869089 /* Pascal'sTriangleII.swift in Sources */,
 				425DE47F1EF9214C0079F9B3 /* NthDigit.swift in Sources */,
 				425DE4DD1EF9284F0079F9B3 /* ThirdMaximumNumber.swift in Sources */,
+				42E051AF1F1C5D7800D2516C /* LongestPalindromicSubsequence.swift in Sources */,
 				425DE3C41EF90D5F0079F9B3 /* WiggleSubsequence.swift in Sources */,
 				425DE4271EF916B10079F9B3 /* LongestHarmoniousSubsequence.swift in Sources */,
 				425DE4D11EF9279B0079F9B3 /* TeemoAttacking.swift in Sources */,
@@ -866,6 +873,7 @@
 				425DE4251EF9168A0079F9B3 /* MinimumDepthofBinaryTree.swift in Sources */,
 				42880CD61EFA11B200869089 /* ValidPerfectSquare.swift in Sources */,
 				425DE4B51EF925470079F9B3 /* HammingDistance.swift in Sources */,
+				42E051AD1F1C5A5900D2516C /* LongestPalindromicSubstring.swift in Sources */,
 				42880CA01EFA0D7900869089 /* Pascal'sTriangle.swift in Sources */,
 				42880CE61EFA132600869089 /* TwoSumII-Inputarrayissorted.swift in Sources */,
 				425DE3C61EF90DF70079F9B3 /* MagicalString.swift in Sources */,

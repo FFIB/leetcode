@@ -26,5 +26,5 @@ public class TreeNode {
 
 var buttonId = 0
 
-print(Solution().permute([1,1,2]))
+print(Solution().longestPalindromeSubseq("bbbab"))
 
