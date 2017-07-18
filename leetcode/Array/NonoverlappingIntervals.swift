@@ -7,7 +7,14 @@
 //
 
 import Foundation
-
+public class Interval {
+    public var start: Int
+    public var end: Int
+    public init(_ start: Int, _ end: Int) {
+        self.start = start
+        self.end = end
+    }
+}
 extension Solution {
     func eraseOverlapIntervals(_ intervals: [Interval]) -> Int {
         var res = 0
