@@ -1,12 +1,5 @@
-
-| 一个普通标题 | 一个普通标题 | 一个普通标题 |
-| ------| ------ | ------ |
-| 短文本 | 中等文本 | 稍微长一点的文本 |
-| 稍微长一点的文本 | 短文本 | 中等文本 |
-
-
 #Array
-|#        | Title                       | Difficulty     |
+|num       | Title                       | Difficulty     |
 --------------------|-------------------|-----------------------|
 396	|[Rotate Function](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/RotateFunction.swift) |Medium|
 413|[Arithmetic Slices](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/ArithmeticSlices.swift)  |Medium|
@@ -33,7 +26,6 @@
 162	|[Find Peak Element](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/FindPeakElement.swift) |Medium|
 287	|[Find the Duplicate Number](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/FindtheDuplicateNumber.swift) |Medium|
 375	|[Guess Number Higher or Lower II](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/GuessNumberHigherorLowerII.swift) |Medium|
-374	|Guess Number Higher or Lower |Easy|
 475	|[Heaters](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/Heaters.swift)   |Easy|
 198	|[House Robber](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/HouseRobber.swift)  |Easy|
 350	|[Intersection of Two Arrays II](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/IntersectionofTwoArraysII.swift)  |Easy|
@@ -99,7 +91,7 @@
 
 
 #List
-\#        | Title                       | Difficulty     |
+|num       | Title                       | Difficulty     |
 --------------------|-------------------|-----------------------|
 2	|[Add Two Numbers](https://github.com/FFIB/leetcode/blob/master/leetcode/List/AddTwoNumberI.swift) |Medium	|
 445	|[Add Two Numbers II](https://github.com/FFIB/leetcode/blob/master/leetcode/List/AddTwoNumbersII.swift) |Medium|
@@ -115,7 +107,7 @@
 24	|[Swap Nodes in Pairs](https://github.com/FFIB/leetcode/blob/master/leetcode/List/SwapNodesinPairs.swift) |Medium|
 
 #Math
-\#        | Title                       | Difficulty     |
+|num         | Title                       | Difficulty     |
 --------------------|-------------------|-----------------------|
 367	|[Valid Perfect Square](https://github.com/FFIB/leetcode/blob/master/leetcode/Math/ValidPerfectSquare.swift) |Easy|
 65	|[Valid Number](https://github.com/FFIB/leetcode/blob/master/leetcode/Math/ValidNumber.swift) |Hard|
@@ -162,7 +154,7 @@
 204	|[Count Primes](https://github.com/FFIB/leetcode/blob/master/leetcode/Math/CountPrimes.swift) |Easy|
 
 #String
-\#        | Title                       | Difficulty     |
+|num        | Title                       | Difficulty     |
 --------------------|-------------------|-----------------------|
 67	|[Add Binary](https://github.com/FFIB/leetcode/blob/master/leetcode/String/AddBinary.swift) |Easy|
 415	|[Add Strings](https://github.com/FFIB/leetcode/blob/master/leetcode/String/AddStrings.swift) |Easy|
@@ -201,7 +193,7 @@
 6	|[ZigZag Conversion](https://github.com/FFIB/leetcode/blob/master/leetcode/String/ZigZagConversion.swift) |Medium|
 
 #Sort
-\#        | Title                       | Difficulty     |
+|num         | Title                       | Difficulty     |
 --------------------|-------------------|-----------------------|
 451	|[Sort Characters By Frequency](https://github.com/FFIB/leetcode/blob/master/leetcode/Sort/SortCharactersByFrequency.swift) |Medium|
 75	|[Sort Colors](https://github.com/FFIB/leetcode/blob/master/leetcode/Sort/SortColors.swift) |Medium|
@@ -209,7 +201,7 @@
 
 
 #Tree
-\#        | Title                       | Difficulty     |
+|num         | Title                       | Difficulty     |
 --------------------|-------------------|-----------------------|
 110	|[Balanced Binary Tree](https://github.com/FFIB/leetcode/blob/master/leetcode/Tree/BalancedBinaryTree.swift) |Easy|
 108	|[Convert Sorted Array to Binary Search Tree](https://github.com/FFIB/leetcode/blob/master/leetcode/Tree/ConvertSortedArraytoBinarySearchTree.swift) |Easy|
