@@ -1,8 +1,8 @@
 #Array
-\#        | Title                       | Difficulty     |
---------------------|-------------------|-----------------------|
-396	|[Rotate Function](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/RotateFunction.swift) |Medium|
-413|[Arithmetic Slices](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/ArithmeticSlices.swift)  |Medium|
+|\#        | Title                       | Difficulty     |
+|--------------------|-------------------|-----------------------|
+|396	|[Rotate Function](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/RotateFunction.swift) |Medium|
+|413|[Arithmetic Slices](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/ArithmeticSlices.swift)  |Medium|
 565	|[Array Nesting](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/ArrayNesting.swift)   |Medium|
 419	|[Battleships in a Board](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/BattleshipsinBoard.swift)  | Medium|
 523	|[Continuous Subarray Sum](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/ContinuousSubarraySum.swift)   |Medium|
