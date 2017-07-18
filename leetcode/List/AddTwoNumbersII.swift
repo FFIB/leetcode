@@ -9,7 +9,7 @@
 import Foundation
 
 extension Solution {
-    func addTwoNumbers(_ l1: ListNode?, _ l2: ListNode?) -> ListNode? {
+    func addTwoNumbersII(_ l1: ListNode?, _ l2: ListNode?) -> ListNode? {
         var list1 = l1
         var list2 = l2
         var arr1 = [Int]()
