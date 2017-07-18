@@ -1,5 +1,5 @@
 //
-//  SingleNonDuplicate.swift
+//  SingleElementinaSortedArray.swift
 //  leetcode
 //
 //  Created by LISA on 2017/6/20.

@@ -130,7 +130,6 @@
 		425DE4E51EF928E20079F9B3 /* LongestCommonPrefix.swift in Sources */ = {isa = PBXBuildFile; fileRef = 425DE4E41EF928E20079F9B3 /* LongestCommonPrefix.swift */; };
 		425DE4E71EF928FA0079F9B3 /* ValidPalindrome.swift in Sources */ = {isa = PBXBuildFile; fileRef = 425DE4E61EF928FA0079F9B3 /* ValidPalindrome.swift */; };
 		425DE4E91EF9298A0079F9B3 /* LengthofLastWord.swift in Sources */ = {isa = PBXBuildFile; fileRef = 425DE4E81EF9298A0079F9B3 /* LengthofLastWord.swift */; };
-		426F28531EFCB5C300557CBB /* FindRightInterval.swift in Sources */ = {isa = PBXBuildFile; fileRef = 426F28521EFCB5C300557CBB /* FindRightInterval.swift */; };
 		426F28551EFCDAA300557CBB /* SwapNodesinPairs.swift in Sources */ = {isa = PBXBuildFile; fileRef = 426F28541EFCDAA300557CBB /* SwapNodesinPairs.swift */; };
 		427DF3981F1468AF0004B68E /* NextGreaterElementII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 427DF3971F1468AF0004B68E /* NextGreaterElementII.swift */; };
 		42880C961EFA0CA300869089 /* WordPattern.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42880C951EFA0CA300869089 /* WordPattern.swift */; };
@@ -187,7 +186,7 @@
 		42880D001EFA14A000869089 /* AddDigits.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42880CFF1EFA14A000869089 /* AddDigits.swift */; };
 		42880D021EFA150700869089 /* SingleNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42880D011EFA150700869089 /* SingleNumber.swift */; };
 		42880D041EFA152100869089 /* FindAllNumbersDisappearedInArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42880D031EFA152100869089 /* FindAllNumbersDisappearedInArray.swift */; };
-		42880D061EFA157200869089 /* SingleNonDuplicate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42880D051EFA157200869089 /* SingleNonDuplicate.swift */; };
+		42880D061EFA157200869089 /* SingleElementinaSortedArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42880D051EFA157200869089 /* SingleElementinaSortedArray.swift */; };
 		42880D081EFA1C9700869089 /* FindMinimuminRotatedSortedArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42880D071EFA1C9700869089 /* FindMinimuminRotatedSortedArray.swift */; };
 		42880D0A1EFA214C00869089 /* FindMinimumRotatedSortedArrayII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42880D091EFA214C00869089 /* FindMinimumRotatedSortedArrayII.swift */; };
 		428B5C1A1F1715E70016F48B /* ZigZagConversion.swift in Sources */ = {isa = PBXBuildFile; fileRef = 428B5C191F1715E70016F48B /* ZigZagConversion.swift */; };
@@ -350,7 +349,6 @@
 		425DE4E41EF928E20079F9B3 /* LongestCommonPrefix.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LongestCommonPrefix.swift; sourceTree = "<group>"; };
 		425DE4E61EF928FA0079F9B3 /* ValidPalindrome.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ValidPalindrome.swift; sourceTree = "<group>"; };
 		425DE4E81EF9298A0079F9B3 /* LengthofLastWord.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LengthofLastWord.swift; sourceTree = "<group>"; };
-		426F28521EFCB5C300557CBB /* FindRightInterval.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindRightInterval.swift; sourceTree = "<group>"; };
 		426F28541EFCDAA300557CBB /* SwapNodesinPairs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwapNodesinPairs.swift; sourceTree = "<group>"; };
 		427DF3971F1468AF0004B68E /* NextGreaterElementII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NextGreaterElementII.swift; sourceTree = "<group>"; };
 		42880C951EFA0CA300869089 /* WordPattern.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WordPattern.swift; sourceTree = "<group>"; };
@@ -407,7 +405,7 @@
 		42880CFF1EFA14A000869089 /* AddDigits.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AddDigits.swift; sourceTree = "<group>"; };
 		42880D011EFA150700869089 /* SingleNumber.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SingleNumber.swift; sourceTree = "<group>"; };
 		42880D031EFA152100869089 /* FindAllNumbersDisappearedInArray.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FindAllNumbersDisappearedInArray.swift; sourceTree = "<group>"; };
-		42880D051EFA157200869089 /* SingleNonDuplicate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SingleNonDuplicate.swift; sourceTree = "<group>"; };
+		42880D051EFA157200869089 /* SingleElementinaSortedArray.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SingleElementinaSortedArray.swift; sourceTree = "<group>"; };
 		42880D071EFA1C9700869089 /* FindMinimuminRotatedSortedArray.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FindMinimuminRotatedSortedArray.swift; sourceTree = "<group>"; };
 		42880D091EFA214C00869089 /* FindMinimumRotatedSortedArrayII.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FindMinimumRotatedSortedArrayII.swift; sourceTree = "<group>"; };
 		428B5C191F1715E70016F48B /* ZigZagConversion.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ZigZagConversion.swift; sourceTree = "<group>"; };
@@ -544,11 +542,10 @@
 				42880CFD1EFA148B00869089 /* AssignCookies.swift */,
 				42880D011EFA150700869089 /* SingleNumber.swift */,
 				42880D031EFA152100869089 /* FindAllNumbersDisappearedInArray.swift */,
-				42880D051EFA157200869089 /* SingleNonDuplicate.swift */,
+				42880D051EFA157200869089 /* SingleElementinaSortedArray.swift */,
 				42880D071EFA1C9700869089 /* FindMinimuminRotatedSortedArray.swift */,
 				42880D091EFA214C00869089 /* FindMinimumRotatedSortedArrayII.swift */,
 				422FF9CE1EFB672E0016B7B6 /* IncreasingTripletSubsequence.swift */,
-				426F28521EFCB5C300557CBB /* FindRightInterval.swift */,
 				42A8F9AF1EFEBE9000D9863C /* NonoverlappingIntervals.swift */,
 				42A8F9B11EFFF07E00D9863C /* SummaryRanges.swift */,
 				42AB97461F01FB770048A129 /* SearchforRange.swift */,
@@ -878,7 +875,7 @@
 				42880CE61EFA132600869089 /* TwoSumII-Inputarrayissorted.swift in Sources */,
 				425DE3C61EF90DF70079F9B3 /* MagicalString.swift in Sources */,
 				425DE4931EF922A90079F9B3 /* AddTwoNumbersII.swift in Sources */,
-				42880D061EFA157200869089 /* SingleNonDuplicate.swift in Sources */,
+				42880D061EFA157200869089 /* SingleElementinaSortedArray.swift in Sources */,
 				425DE48D1EF9223F0079F9B3 /* InvertBinaryTree.swift in Sources */,
 				429308D91F1133B0001319D1 /* IntegertoRoman.swift in Sources */,
 				42A8F9B21EFFF07E00D9863C /* SummaryRanges.swift in Sources */,
@@ -901,7 +898,6 @@
 				425DE3BD1EF90C4C0079F9B3 /* WordSearch.swift in Sources */,
 				425DE43B1EF919550079F9B3 /* SearchinRotatedSortedArrayII.swift in Sources */,
 				425DE4771EF920CD0079F9B3 /* PerfectNumber.swift in Sources */,
-				426F28531EFCB5C300557CBB /* FindRightInterval.swift in Sources */,
 				425DE3D31EF90F840079F9B3 /* ArrayNesting.swift in Sources */,
 				425DE4331EF918910079F9B3 /* PathSumII.swift in Sources */,
 				42880CCC1EFA10F700869089 /* FirstUniqueCharacterinString.swift in Sources */,
