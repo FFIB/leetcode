@@ -1,7 +1,6 @@
 
-#Array
-     
-     
+#Array   
+
 |Num       | Title                       | Difficulty     |
 |--------------------|-------------------|-----------------------|
 396	|[Rotate Function](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/RotateFunction.swift) |Medium|
