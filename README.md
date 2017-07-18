@@ -1,4 +1,5 @@
 
+#Array#
 |Num       | Title                       | Difficulty     |
 |--------------------|-------------------|-----------------------|
 396	|[Rotate Function](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/RotateFunction.swift) |Medium|
@@ -12,7 +13,7 @@
 561	|[Array Partition I](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/ArrayPartitionI.swift)  |Easy|
 121|[Best Time to Buy and Sell Stock](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/BestTimetoBuyandSellStock.swift) |  Easy|	
 122	|[Best Time to Buy and Sell Stock II](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/BestTimetoBuyandSellStockII.swift)   |Easy|
-605	|[Can Place Flowers] (https://github.com/FFIB/leetcode/blob/master/leetcode/Array/CanPlaceFlowers.swift)  |Easy|
+605	|[Can Place Flowers](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/CanPlaceFlowers.swift)  |Easy|
 11	|[Container With Most Water](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/ContainerWithMostWater.swift)   |Medium|
 219	|[Contains Duplicate II](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/ContainsDuplicateII.swift) |  Easy|
 217	|[Contains Duplicate](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/ContainsDuplicate.swift) |Easy|
@@ -90,7 +91,7 @@
 
 
 
-#List
+#List#
 |Num       | Title                       | Difficulty     |
 |--------------------|-------------------|-----------------------|
 2	|[Add Two Numbers](https://github.com/FFIB/leetcode/blob/master/leetcode/List/AddTwoNumberI.swift) |Medium	|
@@ -106,7 +107,7 @@
 61	|[Rotate List](https://github.com/FFIB/leetcode/blob/master/leetcode/List/RotateList.swift) |Medium|
 24	|[Swap Nodes in Pairs](https://github.com/FFIB/leetcode/blob/master/leetcode/List/SwapNodesinPairs.swift) |Medium|
 
-#Math
+#Math#
 |Num         | Title                       | Difficulty     |
 |--------------------|-------------------|-----------------------|
 367	|[Valid Perfect Square](https://github.com/FFIB/leetcode/blob/master/leetcode/Math/ValidPerfectSquare.swift) |Easy|
@@ -153,7 +154,7 @@
 292	|[Nim Game](https://github.com/FFIB/leetcode/blob/master/leetcode/Math/NimGame.swift) |Easy|
 204	|[Count Primes](https://github.com/FFIB/leetcode/blob/master/leetcode/Math/CountPrimes.swift) |Easy|
 
-#String
+#String#
 |Num        | Title                       | Difficulty     |
 |--------------------|-------------------|-----------------------|
 67	|[Add Binary](https://github.com/FFIB/leetcode/blob/master/leetcode/String/AddBinary.swift) |Easy|
@@ -192,7 +193,7 @@
 79	|[Word Search](https://github.com/FFIB/leetcode/blob/master/leetcode/String/WordSearch.swift) |Medium|
 6	|[ZigZag Conversion](https://github.com/FFIB/leetcode/blob/master/leetcode/String/ZigZagConversion.swift) |Medium|
 
-#Sort
+#Sort#
 |Num         | Title                       | Difficulty     |
 |--------------------|-------------------|-----------------------|
 451	|[Sort Characters By Frequency](https://github.com/FFIB/leetcode/blob/master/leetcode/Sort/SortCharactersByFrequency.swift) |Medium|
@@ -200,7 +201,7 @@
 324	|[Wiggle Sort II](https://github.com/FFIB/leetcode/blob/master/leetcode/Sort/WiggleSortII.swift) |Medium|
 
 
-#Tree
+#Tree#
 |Num        | Title                       | Difficulty     |
 |--------------------|-------------------|-----------------------|
 110	|[Balanced Binary Tree](https://github.com/FFIB/leetcode/blob/master/leetcode/Tree/BalancedBinaryTree.swift) |Easy|
