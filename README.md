@@ -1,6 +1,7 @@
 
 #Array#
-/n
+     
+     
 |Num       | Title                       | Difficulty     |
 |--------------------|-------------------|-----------------------|
 396	|[Rotate Function](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/RotateFunction.swift) |Medium|
@@ -93,6 +94,8 @@
 
 
 #List#
+    
+    
 |Num       | Title                       | Difficulty     |
 |--------------------|-------------------|-----------------------|
 2	|[Add Two Numbers](https://github.com/FFIB/leetcode/blob/master/leetcode/List/AddTwoNumberI.swift) |Medium	|
@@ -109,6 +112,8 @@
 24	|[Swap Nodes in Pairs](https://github.com/FFIB/leetcode/blob/master/leetcode/List/SwapNodesinPairs.swift) |Medium|
 
 #Math#
+    
+    
 |Num         | Title                       | Difficulty     |
 |--------------------|-------------------|-----------------------|
 367	|[Valid Perfect Square](https://github.com/FFIB/leetcode/blob/master/leetcode/Math/ValidPerfectSquare.swift) |Easy|
@@ -156,6 +161,8 @@
 204	|[Count Primes](https://github.com/FFIB/leetcode/blob/master/leetcode/Math/CountPrimes.swift) |Easy|
 
 #String#
+    
+    
 |Num        | Title                       | Difficulty     |
 |--------------------|-------------------|-----------------------|
 67	|[Add Binary](https://github.com/FFIB/leetcode/blob/master/leetcode/String/AddBinary.swift) |Easy|
@@ -195,6 +202,8 @@
 6	|[ZigZag Conversion](https://github.com/FFIB/leetcode/blob/master/leetcode/String/ZigZagConversion.swift) |Medium|
 
 #Sort#
+    
+    
 |Num         | Title                       | Difficulty     |
 |--------------------|-------------------|-----------------------|
 451	|[Sort Characters By Frequency](https://github.com/FFIB/leetcode/blob/master/leetcode/Sort/SortCharactersByFrequency.swift) |Medium|
@@ -203,6 +212,8 @@
 
 
 #Tree#
+    
+    
 |Num        | Title                       | Difficulty     |
 |--------------------|-------------------|-----------------------|
 110	|[Balanced Binary Tree](https://github.com/FFIB/leetcode/blob/master/leetcode/Tree/BalancedBinaryTree.swift) |Easy|
