@@ -1,6 +1,6 @@
-#Array
-|num       | Title                       | Difficulty     |
---------------------|-------------------|-----------------------|
+
+|Num       | Title                       | Difficulty     |
+|--------------------|-------------------|-----------------------|
 396	|[Rotate Function](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/RotateFunction.swift) |Medium|
 413|[Arithmetic Slices](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/ArithmeticSlices.swift)  |Medium|
 565	|[Array Nesting](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/ArrayNesting.swift)   |Medium|
@@ -91,8 +91,8 @@
 
 
 #List
-|num       | Title                       | Difficulty     |
---------------------|-------------------|-----------------------|
+|Num       | Title                       | Difficulty     |
+|--------------------|-------------------|-----------------------|
 2	|[Add Two Numbers](https://github.com/FFIB/leetcode/blob/master/leetcode/List/AddTwoNumberI.swift) |Medium	|
 445	|[Add Two Numbers II](https://github.com/FFIB/leetcode/blob/master/leetcode/List/AddTwoNumbersII.swift) |Medium|
 21	|[Merge Two Sorted Lists](https://github.com/FFIB/leetcode/blob/master/leetcode/List/MergeTwoSortedLists.swift) |Easy|
@@ -107,8 +107,8 @@
 24	|[Swap Nodes in Pairs](https://github.com/FFIB/leetcode/blob/master/leetcode/List/SwapNodesinPairs.swift) |Medium|
 
 #Math
-|num         | Title                       | Difficulty     |
---------------------|-------------------|-----------------------|
+|Num         | Title                       | Difficulty     |
+|--------------------|-------------------|-----------------------|
 367	|[Valid Perfect Square](https://github.com/FFIB/leetcode/blob/master/leetcode/Math/ValidPerfectSquare.swift) |Easy|
 65	|[Valid Number](https://github.com/FFIB/leetcode/blob/master/leetcode/Math/ValidNumber.swift) |Hard|
 263	|[Ugly Number](https://github.com/FFIB/leetcode/blob/master/leetcode/Math/UglyNumber.swift) |Easy|	
@@ -154,8 +154,8 @@
 204	|[Count Primes](https://github.com/FFIB/leetcode/blob/master/leetcode/Math/CountPrimes.swift) |Easy|
 
 #String
-|num        | Title                       | Difficulty     |
---------------------|-------------------|-----------------------|
+|Num        | Title                       | Difficulty     |
+|--------------------|-------------------|-----------------------|
 67	|[Add Binary](https://github.com/FFIB/leetcode/blob/master/leetcode/String/AddBinary.swift) |Easy|
 415	|[Add Strings](https://github.com/FFIB/leetcode/blob/master/leetcode/String/AddStrings.swift) |Easy|
 299	|[Bulls and Cows](https://github.com/FFIB/leetcode/blob/master/leetcode/String/BullsandCows.swift) |Medium|
@@ -193,16 +193,16 @@
 6	|[ZigZag Conversion](https://github.com/FFIB/leetcode/blob/master/leetcode/String/ZigZagConversion.swift) |Medium|
 
 #Sort
-|num         | Title                       | Difficulty     |
---------------------|-------------------|-----------------------|
+|Num         | Title                       | Difficulty     |
+|--------------------|-------------------|-----------------------|
 451	|[Sort Characters By Frequency](https://github.com/FFIB/leetcode/blob/master/leetcode/Sort/SortCharactersByFrequency.swift) |Medium|
 75	|[Sort Colors](https://github.com/FFIB/leetcode/blob/master/leetcode/Sort/SortColors.swift) |Medium|
 324	|[Wiggle Sort II](https://github.com/FFIB/leetcode/blob/master/leetcode/Sort/WiggleSortII.swift) |Medium|
 
 
 #Tree
-|num         | Title                       | Difficulty     |
---------------------|-------------------|-----------------------|
+|Num        | Title                       | Difficulty     |
+|--------------------|-------------------|-----------------------|
 110	|[Balanced Binary Tree](https://github.com/FFIB/leetcode/blob/master/leetcode/Tree/BalancedBinaryTree.swift) |Easy|
 108	|[Convert Sorted Array to Binary Search Tree](https://github.com/FFIB/leetcode/blob/master/leetcode/Tree/ConvertSortedArraytoBinarySearchTree.swift) |Easy|
 102	|[Binary Tree Level Order Traversal](https://github.com/FFIB/leetcode/blob/master/leetcode/Tree/BinaryTreeLevelOrderTraversal.swift) |Medium|
