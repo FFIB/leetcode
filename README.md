@@ -195,7 +195,7 @@
 290	|[Word Pattern](https://github.com/FFIB/leetcode/blob/master/leetcode/String/WordPattern.swift) |Easy|
 79	|[Word Search](https://github.com/FFIB/leetcode/blob/master/leetcode/String/WordSearch.swift) |Medium|
 6	|[ZigZag Conversion](https://github.com/FFIB/leetcode/blob/master/leetcode/String/ZigZagConversion.swift) |Medium|
-
+438 |[Find All Anagrams in a String](https://github.com/FFIB/leetcode/blob/master/leetcode/String/FindAllAnaframsInString.swift)| Easy|
 # Sort   
 
 \#        | Title                       | Difficulty     |
