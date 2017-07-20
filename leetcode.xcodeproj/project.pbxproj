@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		422FF9CF1EFB672E0016B7B6 /* IncreasingTripletSubsequence.swift in Sources */ = {isa = PBXBuildFile; fileRef = 422FF9CE1EFB672E0016B7B6 /* IncreasingTripletSubsequence.swift */; };
+		4240E4381F2049900073B9E8 /* Triangle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4240E4371F2049900073B9E8 /* Triangle.swift */; };
 		4247BE101F1DA9860012C1F1 /* MaximumAverageSubarrayI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4247BE0F1F1DA9860012C1F1 /* MaximumAverageSubarrayI.swift */; };
 		4247BE151F1E0E5C0012C1F1 /* MinimumAbsoluteDifferenceinBST.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4247BE141F1E0E5C0012C1F1 /* MinimumAbsoluteDifferenceinBST.swift */; };
 		4247BE171F1E0FBD0012C1F1 /* SumofLeftLeaves.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4247BE161F1E0FBD0012C1F1 /* SumofLeftLeaves.swift */; };
@@ -228,6 +229,7 @@
 
 /* Begin PBXFileReference section */
 		422FF9CE1EFB672E0016B7B6 /* IncreasingTripletSubsequence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IncreasingTripletSubsequence.swift; sourceTree = "<group>"; };
+		4240E4371F2049900073B9E8 /* Triangle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Triangle.swift; sourceTree = "<group>"; };
 		4247BE0F1F1DA9860012C1F1 /* MaximumAverageSubarrayI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumAverageSubarrayI.swift; sourceTree = "<group>"; };
 		4247BE131F1E0BA50012C1F1 /* CountPrimes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountPrimes.swift; sourceTree = "<group>"; };
 		4247BE141F1E0E5C0012C1F1 /* MinimumAbsoluteDifferenceinBST.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumAbsoluteDifferenceinBST.swift; sourceTree = "<group>"; };
@@ -565,6 +567,7 @@
 				42E051A61F1B93BB00D2516C /* NextPermutation.swift */,
 				4247BE0F1F1DA9860012C1F1 /* MaximumAverageSubarrayI.swift */,
 				4247BE181F1E11610012C1F1 /* RotateFunction.swift */,
+				4240E4371F2049900073B9E8 /* Triangle.swift */,
 			);
 			path = Array;
 			sourceTree = "<group>";
@@ -942,6 +945,7 @@
 				425DE3C81EF90E460079F9B3 /* BeautifulArrangement.swift in Sources */,
 				425DE3CF1EF90EED0079F9B3 /* FindLargestValueinEachTreeRow.swift in Sources */,
 				425DE4AD1EF924B40079F9B3 /* CountAndSay.swift in Sources */,
+				4240E4381F2049900073B9E8 /* Triangle.swift in Sources */,
 				425DE42F1EF9182B0079F9B3 /* BinaryTreePaths.swift in Sources */,
 				425DE45D1EF91CBE0079F9B3 /* CompareVersionNumbers.swift in Sources */,
 				42880CAE1EFA0E8900869089 /* BestTimetoBuyandSellStock.swift in Sources */,
