@@ -89,7 +89,7 @@
 611	|[Valid Triangle Number](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/ValidTriangleNumber.swift) |Medium|
 376	|[Wiggle Subsequence](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/WiggleSubsequence.swift) |Medium|
 120 |[Triangle](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/Triangle.swift) |Medium|
-
+388 |[Longest Absolute File Path](https://github.com/FFIB/leetcode/blob/master/leetcode/String/LongestAbsoulteFilePath.swift) |Medium|
 
 # List   
 
