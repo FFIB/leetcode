@@ -27,10 +27,5 @@ public class TreeNode {
 
 var buttonId = 0
 
-print(Solution().minimumTotal([
-    [2],
-    [3,4],
-    [6,5,7],
-    [4,1,8,3]
-    ]))
+print(Solution().lengthLongestPath("dir\n\tsubdir1\n\t\tfile1.ext\n\t\tsubsubdir1\n\tsubdir2\n\t\tsubsubdir2\n\t\t\tfile2.ext"))
 
