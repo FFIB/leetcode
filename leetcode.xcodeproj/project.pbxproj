@@ -203,6 +203,7 @@
 		4293D0651F0949EC0034747E /* MaximalSquare.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4293D0641F0949EC0034747E /* MaximalSquare.swift */; };
 		4293D0691F09EFE80034747E /* MinimumIndexSumofTwoLists .swift in Sources */ = {isa = PBXBuildFile; fileRef = 4293D0681F09EFE80034747E /* MinimumIndexSumofTwoLists .swift */; };
 		4293D06B1F09F4E20034747E /* SumofSquareNumbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4293D06A1F09F4E20034747E /* SumofSquareNumbers.swift */; };
+		42A69D431F24B73900F73B43 /* EvaluateReversePolishNotation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42A69D421F24B73900F73B43 /* EvaluateReversePolishNotation.swift */; };
 		42A8F9B01EFEBE9000D9863C /* NonoverlappingIntervals.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42A8F9AF1EFEBE9000D9863C /* NonoverlappingIntervals.swift */; };
 		42A8F9B21EFFF07E00D9863C /* SummaryRanges.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42A8F9B11EFFF07E00D9863C /* SummaryRanges.swift */; };
 		42A8F9B41F00A3AD00D9863C /* GroupAnagrams.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42A8F9B31F00A3AD00D9863C /* GroupAnagrams.swift */; };
@@ -427,6 +428,7 @@
 		4293D0641F0949EC0034747E /* MaximalSquare.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximalSquare.swift; sourceTree = "<group>"; };
 		4293D0681F09EFE80034747E /* MinimumIndexSumofTwoLists .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "MinimumIndexSumofTwoLists .swift"; sourceTree = "<group>"; };
 		4293D06A1F09F4E20034747E /* SumofSquareNumbers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SumofSquareNumbers.swift; sourceTree = "<group>"; };
+		42A69D421F24B73900F73B43 /* EvaluateReversePolishNotation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EvaluateReversePolishNotation.swift; sourceTree = "<group>"; };
 		42A8F9AF1EFEBE9000D9863C /* NonoverlappingIntervals.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NonoverlappingIntervals.swift; sourceTree = "<group>"; };
 		42A8F9B11EFFF07E00D9863C /* SummaryRanges.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SummaryRanges.swift; sourceTree = "<group>"; };
 		42A8F9B31F00A3AD00D9863C /* GroupAnagrams.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GroupAnagrams.swift; sourceTree = "<group>"; };
@@ -667,6 +669,7 @@
 				4293D06A1F09F4E20034747E /* SumofSquareNumbers.swift */,
 				425C97311F0FE0AC00CAC4E2 /* LargestPalindromeProduct.swift */,
 				429308D81F1133B0001319D1 /* IntegertoRoman.swift */,
+				42A69D421F24B73900F73B43 /* EvaluateReversePolishNotation.swift */,
 			);
 			path = Math;
 			sourceTree = "<group>";
@@ -969,6 +972,7 @@
 				42880CFE1EFA148B00869089 /* AssignCookies.swift in Sources */,
 				42880CC61EFA10A900869089 /* MissingNumber.swift in Sources */,
 				425DE4571EF91C4A0079F9B3 /* StringtoInteger_atoi.swift in Sources */,
+				42A69D431F24B73900F73B43 /* EvaluateReversePolishNotation.swift in Sources */,
 				4247BE171F1E0FBD0012C1F1 /* SumofLeftLeaves.swift in Sources */,
 				425DE45F1EF91D030079F9B3 /* Subsets.swift in Sources */,
 				425DE4671EF91DE40079F9B3 /* LetterCombinationsofaPhoneNumber.swift in Sources */,
