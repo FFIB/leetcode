@@ -12,8 +12,6 @@ class Solution {
     
 }
 
-
-
 public class TreeNode {
     public var val: Int
     public var left: TreeNode?
@@ -25,7 +23,5 @@ public class TreeNode {
     }
 }
 
-var buttonId = 0
-
-print(Solution().lengthLongestPath("dir\n\tsubdir1\n\t\tfile1.ext\n\t\tsubsubdir1\n\tsubdir2\n\t\tsubsubdir2\n\t\t\tfile2.ext"))
+print(Solution().evalRPN(["4","3","-"]))
 
