@@ -92,7 +92,6 @@
 388 |[Longest Absolute File Path](https://github.com/FFIB/leetcode/blob/master/leetcode/String/LongestAbsoulteFilePath.swift) |Medium|
 290 |[Minimum Size Subarray Sum](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/MinimumSizeSubarraySum.swift) |Medium|
 # List   
-209. Minimum Size Subarray Sum
 \#        | Title                       | Difficulty     |
 --------------------|-------------------|-----------------------|
 2	|[Add Two Numbers](https://github.com/FFIB/leetcode/blob/master/leetcode/List/AddTwoNumberI.swift) |Medium	|
