@@ -23,5 +23,6 @@ public class TreeNode {
     }
 }
 
-print(Solution().evalRPN(["4","3","-"]))
+
+print(Solution().minSubArrayLen(7, [2,3,1,2,4,3]))
 
