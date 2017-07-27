@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		422024611F2842410068DC93 /* H_Index.swift in Sources */ = {isa = PBXBuildFile; fileRef = 422024601F2842410068DC93 /* H_Index.swift */; };
+		422024631F2981460068DC93 /* CombinationSum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 422024621F2981460068DC93 /* CombinationSum.swift */; };
 		422FF9CF1EFB672E0016B7B6 /* IncreasingTripletSubsequence.swift in Sources */ = {isa = PBXBuildFile; fileRef = 422FF9CE1EFB672E0016B7B6 /* IncreasingTripletSubsequence.swift */; };
 		4240E4381F2049900073B9E8 /* Triangle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4240E4371F2049900073B9E8 /* Triangle.swift */; };
 		4247BE101F1DA9860012C1F1 /* MaximumAverageSubarrayI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4247BE0F1F1DA9860012C1F1 /* MaximumAverageSubarrayI.swift */; };
@@ -234,6 +235,7 @@
 
 /* Begin PBXFileReference section */
 		422024601F2842410068DC93 /* H_Index.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = H_Index.swift; sourceTree = "<group>"; };
+		422024621F2981460068DC93 /* CombinationSum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CombinationSum.swift; sourceTree = "<group>"; };
 		422FF9CE1EFB672E0016B7B6 /* IncreasingTripletSubsequence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IncreasingTripletSubsequence.swift; sourceTree = "<group>"; };
 		4240E4371F2049900073B9E8 /* Triangle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Triangle.swift; sourceTree = "<group>"; };
 		4247BE0F1F1DA9860012C1F1 /* MaximumAverageSubarrayI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumAverageSubarrayI.swift; sourceTree = "<group>"; };
@@ -581,6 +583,7 @@
 				42A77B5E1F258EBC0032AFE5 /* MinimumSizeSubarraySum.swift */,
 				42A77B661F26E43D0032AFE5 /* MajorityElementII.swift */,
 				422024601F2842410068DC93 /* H_Index.swift */,
+				422024621F2981460068DC93 /* CombinationSum.swift */,
 			);
 			path = Array;
 			sourceTree = "<group>";
@@ -952,6 +955,7 @@
 				425DE4E11EF928A70079F9B3 /* RotateArray.swift in Sources */,
 				42880C961EFA0CA300869089 /* WordPattern.swift in Sources */,
 				425DE44D1EF91B380079F9B3 /* SameTree.swift in Sources */,
+				422024631F2981460068DC93 /* CombinationSum.swift in Sources */,
 				425DE49F1EF923870079F9B3 /* PalindromeLinkedList.swift in Sources */,
 				425DE4791EF920E90079F9B3 /* RepeatedSubstringPattern.swift in Sources */,
 				425DE4A51EF924380079F9B3 /* Search2DMatrix.swift in Sources */,
