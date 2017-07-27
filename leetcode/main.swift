@@ -24,5 +24,5 @@ public class TreeNode {
 }
 
 
-print(Solution().minSubArrayLen(7, [2,3,1,2,4,3]))
+print(Solution().combinationSum([2,3,6,7], 7))
 
