@@ -94,6 +94,7 @@
 229 |[Majority Element II](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/MajorityElementII.swift) |Medium|
 274 |[H-Index](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/H_Index.swift) |Medium|
 39  |[Combination Sum](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/CombinationSum.swift) |Medium|
+40  |[Combination Sum II](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/CombinationSumII.swift) |Medium|
 # List   
 \#        | Title                       | Difficulty     |
 --------------------|-------------------|-----------------------|
