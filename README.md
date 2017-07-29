@@ -95,6 +95,7 @@
 274 |[H-Index](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/H_Index.swift) |Medium|
 39  |[Combination Sum](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/CombinationSum.swift) |Medium|
 40  |[Combination Sum II](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/CombinationSumII.swift) |Medium|
+216 |[Combination Sum III](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/CombinationSumIII.swift) |Medium|
 # List   
 \#        | Title                       | Difficulty     |
 --------------------|-------------------|-----------------------|
