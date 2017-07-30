@@ -24,5 +24,5 @@ public class TreeNode {
 }
 
 
-print(Solution().combinationSum2([10, 1, 2, 7, 6, 1, 5], 8))
+print(Solution().combinationSum4([3,33,333], 10000))
 

@@ -18,6 +18,7 @@
 		4247BE1B1F1E127D0012C1F1 /* AddTwoNumberI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4247BE1A1F1E127D0012C1F1 /* AddTwoNumberI.swift */; };
 		4247BE1D1F1EF4CD0012C1F1 /* FindAllAnaframsInString.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4247BE1C1F1EF4CD0012C1F1 /* FindAllAnaframsInString.swift */; };
 		425C43421F2CE8490042DC46 /* CombinationSumIII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 425C43411F2CE8490042DC46 /* CombinationSumIII.swift */; };
+		425C43441F2DCD300042DC46 /* CombinationSumIIII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 425C43431F2DCD300042DC46 /* CombinationSumIIII.swift */; };
 		425C972C1F0C80D900CAC4E2 /* CanPlaceFlowers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 425C972B1F0C80D900CAC4E2 /* CanPlaceFlowers.swift */; };
 		425C97301F0E156100CAC4E2 /* FindDuplicateFileinSystem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 425C972F1F0E156100CAC4E2 /* FindDuplicateFileinSystem.swift */; };
 		425C97321F0FE0AC00CAC4E2 /* LargestPalindromeProduct.swift in Sources */ = {isa = PBXBuildFile; fileRef = 425C97311F0FE0AC00CAC4E2 /* LargestPalindromeProduct.swift */; };
@@ -248,6 +249,7 @@
 		4247BE1A1F1E127D0012C1F1 /* AddTwoNumberI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddTwoNumberI.swift; sourceTree = "<group>"; };
 		4247BE1C1F1EF4CD0012C1F1 /* FindAllAnaframsInString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindAllAnaframsInString.swift; sourceTree = "<group>"; };
 		425C43411F2CE8490042DC46 /* CombinationSumIII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CombinationSumIII.swift; sourceTree = "<group>"; };
+		425C43431F2DCD300042DC46 /* CombinationSumIIII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CombinationSumIIII.swift; sourceTree = "<group>"; };
 		425C972B1F0C80D900CAC4E2 /* CanPlaceFlowers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CanPlaceFlowers.swift; sourceTree = "<group>"; };
 		425C972F1F0E156100CAC4E2 /* FindDuplicateFileinSystem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindDuplicateFileinSystem.swift; sourceTree = "<group>"; };
 		425C97311F0FE0AC00CAC4E2 /* LargestPalindromeProduct.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LargestPalindromeProduct.swift; sourceTree = "<group>"; };
@@ -590,6 +592,7 @@
 				422024621F2981460068DC93 /* CombinationSum.swift */,
 				42D43E971F2AD4A600252B02 /* CombinationSumII.swift */,
 				425C43411F2CE8490042DC46 /* CombinationSumIII.swift */,
+				425C43431F2DCD300042DC46 /* CombinationSumIIII.swift */,
 			);
 			path = Array;
 			sourceTree = "<group>";
@@ -1007,6 +1010,7 @@
 				425C97321F0FE0AC00CAC4E2 /* LargestPalindromeProduct.swift in Sources */,
 				425DE4C91EF926D00079F9B3 /* BulbSwitcher.swift in Sources */,
 				42880CDE1EFA11FE00869089 /* SearchInsertPosition.swift in Sources */,
+				425C43441F2DCD300042DC46 /* CombinationSumIIII.swift in Sources */,
 				4247BE1B1F1E127D0012C1F1 /* AddTwoNumberI.swift in Sources */,
 				42880D041EFA152100869089 /* FindAllNumbersDisappearedInArray.swift in Sources */,
 				425DE44B1EF91B150079F9B3 /* ConvertSortedArraytoBinarySearchTree.swift in Sources */,
