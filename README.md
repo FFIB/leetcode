@@ -97,7 +97,7 @@
 40  |[Combination Sum II](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/CombinationSumII.swift) |Medium|
 216 |[Combination Sum III](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/CombinationSumIII.swift) |Medium|
 377 |[Combination Sum IV](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/CombinationSumIIII.swift) |Medium|
-645 |[Set Mismatch]|(https://github.com/FFIB/leetcode/blob/master/leetcode/Array/SetMismatch.swift) |Easy|
+645 |[Set Mismatch](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/SetMismatch.swift) |Easy|
 # List   
 \#        | Title                       | Difficulty     |
 --------------------|-------------------|-----------------------|
