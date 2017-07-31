@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		420CAF0A1F2EC92F0020B842 /* SetMismatch.swift in Sources */ = {isa = PBXBuildFile; fileRef = 420CAF091F2EC92F0020B842 /* SetMismatch.swift */; };
 		422024611F2842410068DC93 /* H_Index.swift in Sources */ = {isa = PBXBuildFile; fileRef = 422024601F2842410068DC93 /* H_Index.swift */; };
 		422024631F2981460068DC93 /* CombinationSum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 422024621F2981460068DC93 /* CombinationSum.swift */; };
 		422FF9CF1EFB672E0016B7B6 /* IncreasingTripletSubsequence.swift in Sources */ = {isa = PBXBuildFile; fileRef = 422FF9CE1EFB672E0016B7B6 /* IncreasingTripletSubsequence.swift */; };
@@ -237,6 +238,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		420CAF091F2EC92F0020B842 /* SetMismatch.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SetMismatch.swift; sourceTree = "<group>"; };
 		422024601F2842410068DC93 /* H_Index.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = H_Index.swift; sourceTree = "<group>"; };
 		422024621F2981460068DC93 /* CombinationSum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CombinationSum.swift; sourceTree = "<group>"; };
 		422FF9CE1EFB672E0016B7B6 /* IncreasingTripletSubsequence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IncreasingTripletSubsequence.swift; sourceTree = "<group>"; };
@@ -593,6 +595,7 @@
 				42D43E971F2AD4A600252B02 /* CombinationSumII.swift */,
 				425C43411F2CE8490042DC46 /* CombinationSumIII.swift */,
 				425C43431F2DCD300042DC46 /* CombinationSumIIII.swift */,
+				420CAF091F2EC92F0020B842 /* SetMismatch.swift */,
 			);
 			path = Array;
 			sourceTree = "<group>";
@@ -979,6 +982,7 @@
 				4240E4381F2049900073B9E8 /* Triangle.swift in Sources */,
 				425DE42F1EF9182B0079F9B3 /* BinaryTreePaths.swift in Sources */,
 				425DE45D1EF91CBE0079F9B3 /* CompareVersionNumbers.swift in Sources */,
+				420CAF0A1F2EC92F0020B842 /* SetMismatch.swift in Sources */,
 				42880CAE1EFA0E8900869089 /* BestTimetoBuyandSellStock.swift in Sources */,
 				425DE47B1EF9210A0079F9B3 /* StudentAttendanceRecordI.swift in Sources */,
 				425DE4811EF921800079F9B3 /* PlusOne.swift in Sources */,
