@@ -24,5 +24,5 @@ public class TreeNode {
 }
 
 
-print(Solution().combinationSum4([3,33,333], 10000))
+print(Solution().findErrorNums([2,2]))
 
