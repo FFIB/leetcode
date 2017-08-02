@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		420CAF0A1F2EC92F0020B842 /* SetMismatch.swift in Sources */ = {isa = PBXBuildFile; fileRef = 420CAF091F2EC92F0020B842 /* SetMismatch.swift */; };
+		420FF8671F3028FE00E6DBF6 /* ThreeSum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 420FF8661F3028FE00E6DBF6 /* ThreeSum.swift */; };
 		422024611F2842410068DC93 /* H_Index.swift in Sources */ = {isa = PBXBuildFile; fileRef = 422024601F2842410068DC93 /* H_Index.swift */; };
 		422024631F2981460068DC93 /* CombinationSum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 422024621F2981460068DC93 /* CombinationSum.swift */; };
 		422FF9CF1EFB672E0016B7B6 /* IncreasingTripletSubsequence.swift in Sources */ = {isa = PBXBuildFile; fileRef = 422FF9CE1EFB672E0016B7B6 /* IncreasingTripletSubsequence.swift */; };
@@ -239,6 +240,7 @@
 
 /* Begin PBXFileReference section */
 		420CAF091F2EC92F0020B842 /* SetMismatch.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SetMismatch.swift; sourceTree = "<group>"; };
+		420FF8661F3028FE00E6DBF6 /* ThreeSum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThreeSum.swift; sourceTree = "<group>"; };
 		422024601F2842410068DC93 /* H_Index.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = H_Index.swift; sourceTree = "<group>"; };
 		422024621F2981460068DC93 /* CombinationSum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CombinationSum.swift; sourceTree = "<group>"; };
 		422FF9CE1EFB672E0016B7B6 /* IncreasingTripletSubsequence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IncreasingTripletSubsequence.swift; sourceTree = "<group>"; };
@@ -565,6 +567,7 @@
 				42880CEF1EFA13FB00869089 /* MaxConsecutiveOnes.swift */,
 				42880CF11EFA140D00869089 /* IslandPerimeter.swift */,
 				42880CF71EFA144A00869089 /* TwoSum.swift */,
+				420FF8661F3028FE00E6DBF6 /* ThreeSum.swift */,
 				42880CFB1EFA147500869089 /* IntersectionofTwoArrays.swift */,
 				42880CFD1EFA148B00869089 /* AssignCookies.swift */,
 				42880D011EFA150700869089 /* SingleNumber.swift */,
@@ -851,6 +854,7 @@
 				42880CB21EFA0EBD00869089 /* FactorialTrailingZeroes.swift in Sources */,
 				425DE49D1EF923620079F9B3 /* SortColors.swift in Sources */,
 				425DE42B1EF916F80079F9B3 /* ShortestUnsortedContinuousSubarray.swift in Sources */,
+				420FF8671F3028FE00E6DBF6 /* ThreeSum.swift in Sources */,
 				425DE4511EF91BAB0079F9B3 /* PermutationinString.swift in Sources */,
 				42880CBC1EFA0FA400869089 /* ArrangingCoins.swift in Sources */,
 				425DE4371EF918F00079F9B3 /* SubtreeofAnotherTree.swift in Sources */,
