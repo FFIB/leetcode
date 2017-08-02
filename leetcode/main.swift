@@ -24,5 +24,6 @@ public class TreeNode {
 }
 
 
-print(Solution().findErrorNums([2,2]))
+print(Solution().threeSum([-1,0,1,2,-1,-4]))
+print(Solution().fourSum([1, 0, -1, 0, -2, 2], 0))
 
