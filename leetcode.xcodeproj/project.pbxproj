@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		059E11631F3400D800EC13D4 /* FourSum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 059E11621F3400D800EC13D4 /* FourSum.swift */; };
 		420CAF0A1F2EC92F0020B842 /* SetMismatch.swift in Sources */ = {isa = PBXBuildFile; fileRef = 420CAF091F2EC92F0020B842 /* SetMismatch.swift */; };
 		420FF8671F3028FE00E6DBF6 /* ThreeSum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 420FF8661F3028FE00E6DBF6 /* ThreeSum.swift */; };
 		422024611F2842410068DC93 /* H_Index.swift in Sources */ = {isa = PBXBuildFile; fileRef = 422024601F2842410068DC93 /* H_Index.swift */; };
@@ -239,6 +240,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		059E11621F3400D800EC13D4 /* FourSum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FourSum.swift; sourceTree = "<group>"; };
 		420CAF091F2EC92F0020B842 /* SetMismatch.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SetMismatch.swift; sourceTree = "<group>"; };
 		420FF8661F3028FE00E6DBF6 /* ThreeSum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThreeSum.swift; sourceTree = "<group>"; };
 		422024601F2842410068DC93 /* H_Index.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = H_Index.swift; sourceTree = "<group>"; };
@@ -568,6 +570,7 @@
 				42880CF11EFA140D00869089 /* IslandPerimeter.swift */,
 				42880CF71EFA144A00869089 /* TwoSum.swift */,
 				420FF8661F3028FE00E6DBF6 /* ThreeSum.swift */,
+				059E11621F3400D800EC13D4 /* FourSum.swift */,
 				42880CFB1EFA147500869089 /* IntersectionofTwoArrays.swift */,
 				42880CFD1EFA148B00869089 /* AssignCookies.swift */,
 				42880D011EFA150700869089 /* SingleNumber.swift */,
@@ -924,6 +927,7 @@
 				425DE3C61EF90DF70079F9B3 /* MagicalString.swift in Sources */,
 				425DE4931EF922A90079F9B3 /* AddTwoNumbersII.swift in Sources */,
 				42880D061EFA157200869089 /* SingleElementinaSortedArray.swift in Sources */,
+				059E11631F3400D800EC13D4 /* FourSum.swift in Sources */,
 				425DE48D1EF9223F0079F9B3 /* InvertBinaryTree.swift in Sources */,
 				429308D91F1133B0001319D1 /* IntegertoRoman.swift in Sources */,
 				42A8F9B21EFFF07E00D9863C /* SummaryRanges.swift in Sources */,
