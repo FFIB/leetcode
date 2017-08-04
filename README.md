@@ -99,6 +99,7 @@
 377 |[Combination Sum IV](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/CombinationSumIIII.swift) |Medium|
 645 |[Set Mismatch](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/SetMismatch.swift) |Easy|
 15  |[3Sum](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/ThreeSum.swift) |Medium| 
+18  |[4Sum](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/FourSum.swift) |Medium|
 # List   
 \#        | Title                       | Difficulty     |
 --------------------|-------------------|-----------------------|
