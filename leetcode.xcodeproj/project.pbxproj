@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		059E11631F3400D800EC13D4 /* FourSum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 059E11621F3400D800EC13D4 /* FourSum.swift */; };
+		059E11651F3595A600EC13D4 /* SubarraySumEqualsK.swift in Sources */ = {isa = PBXBuildFile; fileRef = 059E11641F3595A600EC13D4 /* SubarraySumEqualsK.swift */; };
 		420CAF0A1F2EC92F0020B842 /* SetMismatch.swift in Sources */ = {isa = PBXBuildFile; fileRef = 420CAF091F2EC92F0020B842 /* SetMismatch.swift */; };
 		420FF8671F3028FE00E6DBF6 /* ThreeSum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 420FF8661F3028FE00E6DBF6 /* ThreeSum.swift */; };
 		422024611F2842410068DC93 /* H_Index.swift in Sources */ = {isa = PBXBuildFile; fileRef = 422024601F2842410068DC93 /* H_Index.swift */; };
@@ -241,6 +242,7 @@
 
 /* Begin PBXFileReference section */
 		059E11621F3400D800EC13D4 /* FourSum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FourSum.swift; sourceTree = "<group>"; };
+		059E11641F3595A600EC13D4 /* SubarraySumEqualsK.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SubarraySumEqualsK.swift; sourceTree = "<group>"; };
 		420CAF091F2EC92F0020B842 /* SetMismatch.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SetMismatch.swift; sourceTree = "<group>"; };
 		420FF8661F3028FE00E6DBF6 /* ThreeSum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThreeSum.swift; sourceTree = "<group>"; };
 		422024601F2842410068DC93 /* H_Index.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = H_Index.swift; sourceTree = "<group>"; };
@@ -602,6 +604,7 @@
 				425C43411F2CE8490042DC46 /* CombinationSumIII.swift */,
 				425C43431F2DCD300042DC46 /* CombinationSumIIII.swift */,
 				420CAF091F2EC92F0020B842 /* SetMismatch.swift */,
+				059E11641F3595A600EC13D4 /* SubarraySumEqualsK.swift */,
 			);
 			path = Array;
 			sourceTree = "<group>";
@@ -1020,6 +1023,7 @@
 				42880C9A1EFA0D0B00869089 /* ClimbingStairs.swift in Sources */,
 				42880CF01EFA13FB00869089 /* MaxConsecutiveOnes.swift in Sources */,
 				425C97321F0FE0AC00CAC4E2 /* LargestPalindromeProduct.swift in Sources */,
+				059E11651F3595A600EC13D4 /* SubarraySumEqualsK.swift in Sources */,
 				425DE4C91EF926D00079F9B3 /* BulbSwitcher.swift in Sources */,
 				42880CDE1EFA11FE00869089 /* SearchInsertPosition.swift in Sources */,
 				425C43441F2DCD300042DC46 /* CombinationSumIIII.swift in Sources */,
