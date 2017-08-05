@@ -100,6 +100,7 @@
 645 |[Set Mismatch](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/SetMismatch.swift) |Easy|
 15  |[3Sum](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/ThreeSum.swift) |Medium| 
 18  |[4Sum](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/FourSum.swift) |Medium|
+560 |[Subarray Sum Equals K](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/SubarraySumEqualsK.swift) |Medium|
 # List   
 \#        | Title                       | Difficulty     |
 --------------------|-------------------|-----------------------|
