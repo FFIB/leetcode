@@ -23,7 +23,4 @@ public class TreeNode {
     }
 }
 
-
-//print(Solution().threeSum([-1,0,1,2,-1,-4]))
-print(Solution().fourSum([-1,-5,-5,-3,2,5,0,4], -7))
-
+print(Solution().subarraySum([1,2,3], 3))
