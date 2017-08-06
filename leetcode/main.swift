@@ -23,4 +23,4 @@ public class TreeNode {
     }
 }
 
-print(Solution().subarraySum([1,2,3], 3))
+print(Solution().canJump([2,3,1,1,4]))
