@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0544CFBB1F372E6E000B1918 /* JumpGame.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0544CFBA1F372E6E000B1918 /* JumpGame.swift */; };
 		059E11631F3400D800EC13D4 /* FourSum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 059E11621F3400D800EC13D4 /* FourSum.swift */; };
 		059E11651F3595A600EC13D4 /* SubarraySumEqualsK.swift in Sources */ = {isa = PBXBuildFile; fileRef = 059E11641F3595A600EC13D4 /* SubarraySumEqualsK.swift */; };
 		420CAF0A1F2EC92F0020B842 /* SetMismatch.swift in Sources */ = {isa = PBXBuildFile; fileRef = 420CAF091F2EC92F0020B842 /* SetMismatch.swift */; };
@@ -241,6 +242,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		0544CFBA1F372E6E000B1918 /* JumpGame.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JumpGame.swift; sourceTree = "<group>"; };
 		059E11621F3400D800EC13D4 /* FourSum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FourSum.swift; sourceTree = "<group>"; };
 		059E11641F3595A600EC13D4 /* SubarraySumEqualsK.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SubarraySumEqualsK.swift; sourceTree = "<group>"; };
 		420CAF091F2EC92F0020B842 /* SetMismatch.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SetMismatch.swift; sourceTree = "<group>"; };
@@ -605,6 +607,7 @@
 				425C43431F2DCD300042DC46 /* CombinationSumIIII.swift */,
 				420CAF091F2EC92F0020B842 /* SetMismatch.swift */,
 				059E11641F3595A600EC13D4 /* SubarraySumEqualsK.swift */,
+				0544CFBA1F372E6E000B1918 /* JumpGame.swift */,
 			);
 			path = Array;
 			sourceTree = "<group>";
@@ -932,6 +935,7 @@
 				42880D061EFA157200869089 /* SingleElementinaSortedArray.swift in Sources */,
 				059E11631F3400D800EC13D4 /* FourSum.swift in Sources */,
 				425DE48D1EF9223F0079F9B3 /* InvertBinaryTree.swift in Sources */,
+				0544CFBB1F372E6E000B1918 /* JumpGame.swift in Sources */,
 				429308D91F1133B0001319D1 /* IntegertoRoman.swift in Sources */,
 				42A8F9B21EFFF07E00D9863C /* SummaryRanges.swift in Sources */,
 				428BDE461F07FA7C00877D82 /* IntegerReplacement.swift in Sources */,
