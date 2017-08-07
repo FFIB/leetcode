@@ -101,7 +101,8 @@
 15  |[3Sum](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/ThreeSum.swift) |Medium| 
 18  |[4Sum](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/FourSum.swift) |Medium|
 560 |[Subarray Sum Equals K](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/SubarraySumEqualsK.swift) |Medium|
-55  |[Jump Game](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/JumpGame.swift)
+55  |[Jump Game](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/JumpGame.swift) |Medium|
+73  |[Set Matrix Zeroes](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/SetMatrixZeroes.swift) |Medium|
 # List   
 \#        | Title                       | Difficulty     |
 --------------------|-------------------|-----------------------|
