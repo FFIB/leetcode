@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		0544CFBB1F372E6E000B1918 /* JumpGame.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0544CFBA1F372E6E000B1918 /* JumpGame.swift */; };
+		056EAF521F3804AB00975950 /* SetMatrixZeroes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 056EAF511F3804AB00975950 /* SetMatrixZeroes.swift */; };
 		059E11631F3400D800EC13D4 /* FourSum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 059E11621F3400D800EC13D4 /* FourSum.swift */; };
 		059E11651F3595A600EC13D4 /* SubarraySumEqualsK.swift in Sources */ = {isa = PBXBuildFile; fileRef = 059E11641F3595A600EC13D4 /* SubarraySumEqualsK.swift */; };
 		420CAF0A1F2EC92F0020B842 /* SetMismatch.swift in Sources */ = {isa = PBXBuildFile; fileRef = 420CAF091F2EC92F0020B842 /* SetMismatch.swift */; };
@@ -243,6 +244,7 @@
 
 /* Begin PBXFileReference section */
 		0544CFBA1F372E6E000B1918 /* JumpGame.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JumpGame.swift; sourceTree = "<group>"; };
+		056EAF511F3804AB00975950 /* SetMatrixZeroes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SetMatrixZeroes.swift; sourceTree = "<group>"; };
 		059E11621F3400D800EC13D4 /* FourSum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FourSum.swift; sourceTree = "<group>"; };
 		059E11641F3595A600EC13D4 /* SubarraySumEqualsK.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SubarraySumEqualsK.swift; sourceTree = "<group>"; };
 		420CAF091F2EC92F0020B842 /* SetMismatch.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SetMismatch.swift; sourceTree = "<group>"; };
@@ -608,6 +610,7 @@
 				420CAF091F2EC92F0020B842 /* SetMismatch.swift */,
 				059E11641F3595A600EC13D4 /* SubarraySumEqualsK.swift */,
 				0544CFBA1F372E6E000B1918 /* JumpGame.swift */,
+				056EAF511F3804AB00975950 /* SetMatrixZeroes.swift */,
 			);
 			path = Array;
 			sourceTree = "<group>";
@@ -917,6 +920,7 @@
 				425DE4E31EF928BA0079F9B3 /* MergeSortedArray.swift in Sources */,
 				425DE4551EF91C190079F9B3 /* ArrayPartitionI.swift in Sources */,
 				425DE4A91EF924700079F9B3 /* KthLargestElementinanArray.swift in Sources */,
+				056EAF521F3804AB00975950 /* SetMatrixZeroes.swift in Sources */,
 				42880CA41EFA0DFC00869089 /* IntersectionofTwoArraysII.swift in Sources */,
 				425DE4711EF91FAB0079F9B3 /* IntegerBreak.swift in Sources */,
 				425DE4851EF921C40079F9B3 /* AddStrings.swift in Sources */,
