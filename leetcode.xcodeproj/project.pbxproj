@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		0544CFBB1F372E6E000B1918 /* JumpGame.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0544CFBA1F372E6E000B1918 /* JumpGame.swift */; };
+		054E9D8B1F3AC22E00D6B1DF /* PalindromicSubstrings.swift in Sources */ = {isa = PBXBuildFile; fileRef = 054E9D8A1F3AC22E00D6B1DF /* PalindromicSubstrings.swift */; };
 		056EAF521F3804AB00975950 /* SetMatrixZeroes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 056EAF511F3804AB00975950 /* SetMatrixZeroes.swift */; };
 		059E11631F3400D800EC13D4 /* FourSum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 059E11621F3400D800EC13D4 /* FourSum.swift */; };
 		059E11651F3595A600EC13D4 /* SubarraySumEqualsK.swift in Sources */ = {isa = PBXBuildFile; fileRef = 059E11641F3595A600EC13D4 /* SubarraySumEqualsK.swift */; };
@@ -244,6 +245,7 @@
 
 /* Begin PBXFileReference section */
 		0544CFBA1F372E6E000B1918 /* JumpGame.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JumpGame.swift; sourceTree = "<group>"; };
+		054E9D8A1F3AC22E00D6B1DF /* PalindromicSubstrings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PalindromicSubstrings.swift; sourceTree = "<group>"; };
 		056EAF511F3804AB00975950 /* SetMatrixZeroes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SetMatrixZeroes.swift; sourceTree = "<group>"; };
 		059E11621F3400D800EC13D4 /* FourSum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FourSum.swift; sourceTree = "<group>"; };
 		059E11641F3595A600EC13D4 /* SubarraySumEqualsK.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SubarraySumEqualsK.swift; sourceTree = "<group>"; };
@@ -499,7 +501,6 @@
 			isa = PBXGroup;
 			children = (
 				425DE3E51EF912700079F9B3 /* List */,
-				425DE3D81EF9107E0079F9B3 /* Stack */,
 				425DE3CB1EF90E8F0079F9B3 /* Tree */,
 				425DE3BE1EF90C800079F9B3 /* Sort */,
 				425DE3B71EF90B5E0079F9B3 /* Math */,
@@ -656,6 +657,7 @@
 				42E051AE1F1C5D7800D2516C /* LongestPalindromicSubsequence.swift */,
 				4247BE1C1F1EF4CD0012C1F1 /* FindAllAnaframsInString.swift */,
 				427B998F1F21ADB500F5E29F /* LongestAbsoulteFilePath.swift */,
+				054E9D8A1F3AC22E00D6B1DF /* PalindromicSubstrings.swift */,
 			);
 			path = String;
 			sourceTree = "<group>";
@@ -751,13 +753,6 @@
 				4247BE161F1E0FBD0012C1F1 /* SumofLeftLeaves.swift */,
 			);
 			path = Tree;
-			sourceTree = "<group>";
-		};
-		425DE3D81EF9107E0079F9B3 /* Stack */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = Stack;
 			sourceTree = "<group>";
 		};
 		425DE3E51EF912700079F9B3 /* List */ = {
@@ -1005,6 +1000,7 @@
 				42880CAE1EFA0E8900869089 /* BestTimetoBuyandSellStock.swift in Sources */,
 				425DE47B1EF9210A0079F9B3 /* StudentAttendanceRecordI.swift in Sources */,
 				425DE4811EF921800079F9B3 /* PlusOne.swift in Sources */,
+				054E9D8B1F3AC22E00D6B1DF /* PalindromicSubstrings.swift in Sources */,
 				425DE46F1EF91F840079F9B3 /* GenerateParentheses.swift in Sources */,
 				425DE4471EF91AC80079F9B3 /* BalancedBinaryTree.swift in Sources */,
 				425DE44F1EF91B7E0079F9B3 /* ValidNumber.swift in Sources */,
