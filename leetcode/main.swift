@@ -22,6 +22,7 @@ public class TreeNode {
         self.right = nil
     }
 }
-var arr = [[0,0,0,5],[4,3,1,4],[0,1,1,4],[1,2,1,3],[0,0,1,1]]
-print(Solution().setZeroes(&arr))
-print(arr)
+
+print(Solution().validIPAddress("172.16.254.1"))
+print(UInt("-0", radix: 16))
+
