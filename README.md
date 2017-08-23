@@ -167,9 +167,10 @@
 292	|[Nim Game](https://github.com/FFIB/leetcode/blob/master/leetcode/Math/NimGame.swift) |Easy|
 204	|[Count Primes](https://github.com/FFIB/leetcode/blob/master/leetcode/Math/CountPrimes.swift) |Easy|
 150 |[Evaluate Reverse Polish Notation](https://github.com/FFIB/leetcode/blob/master/leetcode/Math/EvaluateReversePolishNotation.swift) |Medium|
-368|[Largest Divisible Subset](https://github.com/FFIB/leetcode/blob/master/leetcode/Math/LargestDivisibleSubset.swift) | Medium|
-223|[Rectangle Area](https://github.com/FFIB/leetcode/blob/master/leetcode/Math/RectangleArea.swift) |Medium|
-372|[Super Pow](https://github.com/FFIB/leetcode/blob/master/leetcode/Math/SuperPow.swift) |Medium|
+368 |[Largest Divisible Subset](https://github.com/FFIB/leetcode/blob/master/leetcode/Math/LargestDivisibleSubset.swift) | Medium|
+223 |[Rectangle Area](https://github.com/FFIB/leetcode/blob/master/leetcode/Math/RectangleArea.swift) |Medium|
+372 |[Super Pow](https://github.com/FFIB/leetcode/blob/master/leetcode/Math/SuperPow.swift) |Medium|
+593 |[Valid Square](https://github.com/FFIB/leetcode/blob/master/leetcode/Math/ValidSquare.swift) |Medium|
 # String   
 
 \#        | Title                       | Difficulty     |
