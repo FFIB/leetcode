@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		052B9B851F519C44008F0824 /* ReplaceWords.swift in Sources */ = {isa = PBXBuildFile; fileRef = 052B9B841F519C44008F0824 /* ReplaceWords.swift */; };
 		0544CFBB1F372E6E000B1918 /* JumpGame.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0544CFBA1F372E6E000B1918 /* JumpGame.swift */; };
 		054AA8D31F40A4A80000C49E /* LargestDivisibleSubset.swift in Sources */ = {isa = PBXBuildFile; fileRef = 054AA8D21F40A4A80000C49E /* LargestDivisibleSubset.swift */; };
 		054E9D8B1F3AC22E00D6B1DF /* PalindromicSubstrings.swift in Sources */ = {isa = PBXBuildFile; fileRef = 054E9D8A1F3AC22E00D6B1DF /* PalindromicSubstrings.swift */; };
@@ -249,6 +250,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		052B9B841F519C44008F0824 /* ReplaceWords.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReplaceWords.swift; sourceTree = "<group>"; };
 		0544CFBA1F372E6E000B1918 /* JumpGame.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JumpGame.swift; sourceTree = "<group>"; };
 		054AA8D21F40A4A80000C49E /* LargestDivisibleSubset.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LargestDivisibleSubset.swift; sourceTree = "<group>"; };
 		054E9D8A1F3AC22E00D6B1DF /* PalindromicSubstrings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PalindromicSubstrings.swift; sourceTree = "<group>"; };
@@ -669,6 +671,7 @@
 				427B998F1F21ADB500F5E29F /* LongestAbsoulteFilePath.swift */,
 				054E9D8A1F3AC22E00D6B1DF /* PalindromicSubstrings.swift */,
 				0599AF391F3D46FF0090B9F4 /* VaildateIPAdress.swift */,
+				052B9B841F519C44008F0824 /* ReplaceWords.swift */,
 			);
 			path = String;
 			sourceTree = "<group>";
@@ -857,6 +860,7 @@
 				425DE4B91EF925750079F9B3 /* ReverseStringII.swift in Sources */,
 				425DE4A11EF923B10079F9B3 /* RemoveLinkedListElements.swift in Sources */,
 				42E051A71F1B93BB00D2516C /* NextPermutation.swift in Sources */,
+				052B9B851F519C44008F0824 /* ReplaceWords.swift in Sources */,
 				425DE49B1EF9233D0079F9B3 /* RemoveNthNodeFromEndofList.swift in Sources */,
 				42880CBE1EFA0FB600869089 /* RemoveElement.swift in Sources */,
 				425DE3B31EF909AD0079F9B3 /* ValidTriangleNumber.swift in Sources */,
