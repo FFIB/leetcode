@@ -118,6 +118,8 @@
 206	|[Reverse Linked List](https://github.com/FFIB/leetcode/blob/master/leetcode/List/ReverseLinkedList.swift) |Easy|
 61	|[Rotate List](https://github.com/FFIB/leetcode/blob/master/leetcode/List/RotateList.swift) |Medium|
 24	|[Swap Nodes in Pairs](https://github.com/FFIB/leetcode/blob/master/leetcode/List/SwapNodesinPairs.swift) |Medium|
+86  |[Partition List](https://github.com/FFIB/leetcode/blob/master/leetcode/List/PartitionList.swift) |Medium|
+
 
 # Math   
 
