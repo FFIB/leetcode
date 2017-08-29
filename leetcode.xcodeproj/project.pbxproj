@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		052B9B851F519C44008F0824 /* ReplaceWords.swift in Sources */ = {isa = PBXBuildFile; fileRef = 052B9B841F519C44008F0824 /* ReplaceWords.swift */; };
+		052B9B891F5513BA008F0824 /* PartitionList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 052B9B881F5513BA008F0824 /* PartitionList.swift */; };
 		0544CFBB1F372E6E000B1918 /* JumpGame.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0544CFBA1F372E6E000B1918 /* JumpGame.swift */; };
 		054AA8D31F40A4A80000C49E /* LargestDivisibleSubset.swift in Sources */ = {isa = PBXBuildFile; fileRef = 054AA8D21F40A4A80000C49E /* LargestDivisibleSubset.swift */; };
 		054E9D8B1F3AC22E00D6B1DF /* PalindromicSubstrings.swift in Sources */ = {isa = PBXBuildFile; fileRef = 054E9D8A1F3AC22E00D6B1DF /* PalindromicSubstrings.swift */; };
@@ -251,6 +252,7 @@
 
 /* Begin PBXFileReference section */
 		052B9B841F519C44008F0824 /* ReplaceWords.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReplaceWords.swift; sourceTree = "<group>"; };
+		052B9B881F5513BA008F0824 /* PartitionList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PartitionList.swift; sourceTree = "<group>"; };
 		0544CFBA1F372E6E000B1918 /* JumpGame.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JumpGame.swift; sourceTree = "<group>"; };
 		054AA8D21F40A4A80000C49E /* LargestDivisibleSubset.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LargestDivisibleSubset.swift; sourceTree = "<group>"; };
 		054E9D8A1F3AC22E00D6B1DF /* PalindromicSubstrings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PalindromicSubstrings.swift; sourceTree = "<group>"; };
@@ -789,6 +791,7 @@
 				42880CBF1EFA104D00869089 /* ReverseLinkedList.swift */,
 				426F28541EFCDAA300557CBB /* SwapNodesinPairs.swift */,
 				4247BE1A1F1E127D0012C1F1 /* AddTwoNumberI.swift */,
+				052B9B881F5513BA008F0824 /* PartitionList.swift */,
 			);
 			path = List;
 			sourceTree = "<group>";
@@ -913,6 +916,7 @@
 				42880CCE1EFA111200869089 /* KeyboardRow.swift in Sources */,
 				425DE4871EF921DB0079F9B3 /* ReverseVowelsofString.swift in Sources */,
 				0556271B1F43E04400C718CE /* SuperPow.swift in Sources */,
+				052B9B891F5513BA008F0824 /* PartitionList.swift in Sources */,
 				425DE3D51EF90FAD0079F9B3 /* FindBottomLeftTreeValue.swift in Sources */,
 				42880CBA1EFA0F8500869089 /* ContainsDuplicateII.swift in Sources */,
 				425DE3B11EF909740079F9B3 /* ContainerWithMostWater.swift in Sources */,
