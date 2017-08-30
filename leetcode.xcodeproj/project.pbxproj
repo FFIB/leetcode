@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		051C4D901F56584B00935D43 /* InsertionSortList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 051C4D8F1F56584B00935D43 /* InsertionSortList.swift */; };
 		052B9B851F519C44008F0824 /* ReplaceWords.swift in Sources */ = {isa = PBXBuildFile; fileRef = 052B9B841F519C44008F0824 /* ReplaceWords.swift */; };
 		052B9B891F5513BA008F0824 /* PartitionList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 052B9B881F5513BA008F0824 /* PartitionList.swift */; };
 		0544CFBB1F372E6E000B1918 /* JumpGame.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0544CFBA1F372E6E000B1918 /* JumpGame.swift */; };
@@ -251,6 +252,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		051C4D8F1F56584B00935D43 /* InsertionSortList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InsertionSortList.swift; sourceTree = "<group>"; };
 		052B9B841F519C44008F0824 /* ReplaceWords.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReplaceWords.swift; sourceTree = "<group>"; };
 		052B9B881F5513BA008F0824 /* PartitionList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PartitionList.swift; sourceTree = "<group>"; };
 		0544CFBA1F372E6E000B1918 /* JumpGame.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JumpGame.swift; sourceTree = "<group>"; };
@@ -792,6 +794,7 @@
 				426F28541EFCDAA300557CBB /* SwapNodesinPairs.swift */,
 				4247BE1A1F1E127D0012C1F1 /* AddTwoNumberI.swift */,
 				052B9B881F5513BA008F0824 /* PartitionList.swift */,
+				051C4D8F1F56584B00935D43 /* InsertionSortList.swift */,
 			);
 			path = List;
 			sourceTree = "<group>";
@@ -892,6 +895,7 @@
 				425DE4451EF91AB20079F9B3 /* DistributeCandies.swift in Sources */,
 				425DE4CB1EF926FB0079F9B3 /* ProductofArrayExceptSelf.swift in Sources */,
 				425DE4531EF91BE80079F9B3 /* RemoveDuplicatesfromSortedArrayII.swift in Sources */,
+				051C4D901F56584B00935D43 /* InsertionSortList.swift in Sources */,
 				42880D081EFA1C9700869089 /* FindMinimuminRotatedSortedArray.swift in Sources */,
 				055E1C411F4D459E0000A25C /* ValidSquare.swift in Sources */,
 				425DE4971EF922FB0079F9B3 /* ReorderList.swift in Sources */,
