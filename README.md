@@ -119,7 +119,7 @@
 61	|[Rotate List](https://github.com/FFIB/leetcode/blob/master/leetcode/List/RotateList.swift) |Medium|
 24	|[Swap Nodes in Pairs](https://github.com/FFIB/leetcode/blob/master/leetcode/List/SwapNodesinPairs.swift) |Medium|
 86  |[Partition List](https://github.com/FFIB/leetcode/blob/master/leetcode/List/PartitionList.swift) |Medium|
-
+147 |[Insertion Sort List](https://github.com/FFIB/leetcode/blob/master/leetcode/List/InsertionSortList.swift) |Medium|
 
 # Math   
 
