@@ -23,12 +23,5 @@ public class TreeNode {
     }
 }
 
-let date = Date()
-print(type(of: date))
-
-struct TestOptions: OptionSet {
-    let rawValue: Int
-    static let none = TestOptions(rawValue: 0)
-    static let option1 = TestOptions(rawValue: 1)
-}
+print(Solution().maxSlidingWindow([], 0))
 
