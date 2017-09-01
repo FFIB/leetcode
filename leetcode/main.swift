@@ -23,5 +23,5 @@ public class TreeNode {
     }
 }
 
-print(Solution().maxSlidingWindow([], 0))
+print(Solution().kInversePairs(3, 3))
 
