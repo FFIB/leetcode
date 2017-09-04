@@ -23,5 +23,6 @@ public class TreeNode {
     }
 }
 
-print(Solution().kInversePairs(3, 3))
+print(Solution().findSubstring("wordgoodgoodgoodbestword"
+    ,["word","good","best","good"]))
 
