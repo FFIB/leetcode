@@ -222,6 +222,7 @@
 647 |[Palindromic Substrings](https://github.com/FFIB/leetcode/blob/master/leetcode/String/PalindromicSubstrings.swift) |Medium|
 468 |[Validate IP Address](https://github.com/FFIB/leetcode/blob/master/leetcode/String/VaildateIPAdress.swift) |Medium|
 648 |[Replace Words](https://github.com/FFIB/leetcode/blob/master/leetcode/String/ReplaceWords.swift) |Medium|
+30  |[Substring with Concatenation of All Words](https://github.com/FFIB/leetcode/blob/master/leetcode/String/SubstringwithConcatenationofAllWords.swift) |Hard|
 
 
 # Sort   
