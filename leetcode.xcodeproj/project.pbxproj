@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		051091FF1F5E40E200BB392B /* PartitionEqualSubsetSum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 051091FE1F5E40E200BB392B /* PartitionEqualSubsetSum.swift */; };
 		051C4D901F56584B00935D43 /* InsertionSortList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 051C4D8F1F56584B00935D43 /* InsertionSortList.swift */; };
 		052B9B851F519C44008F0824 /* ReplaceWords.swift in Sources */ = {isa = PBXBuildFile; fileRef = 052B9B841F519C44008F0824 /* ReplaceWords.swift */; };
 		052B9B891F5513BA008F0824 /* PartitionList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 052B9B881F5513BA008F0824 /* PartitionList.swift */; };
@@ -256,6 +257,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		051091FE1F5E40E200BB392B /* PartitionEqualSubsetSum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PartitionEqualSubsetSum.swift; sourceTree = "<group>"; };
 		051C4D8F1F56584B00935D43 /* InsertionSortList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InsertionSortList.swift; sourceTree = "<group>"; };
 		052B9B841F519C44008F0824 /* ReplaceWords.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReplaceWords.swift; sourceTree = "<group>"; };
 		052B9B881F5513BA008F0824 /* PartitionList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PartitionList.swift; sourceTree = "<group>"; };
@@ -639,6 +641,7 @@
 				05E2EC751F57A84100D8EF6B /* SlidingWindowMaximum.swift */,
 				05E2EC7F1F59087F00D8EF6B /* KInversePairsArray.swift */,
 				05E2ECC11F5A718F00D8EF6B /* InsertInterval.swift */,
+				051091FE1F5E40E200BB392B /* PartitionEqualSubsetSum.swift */,
 			);
 			path = Array;
 			sourceTree = "<group>";
@@ -930,6 +933,7 @@
 				42A77B671F26E43D0032AFE5 /* MajorityElementII.swift in Sources */,
 				425DE45B1EF91C970079F9B3 /* SubsetsII.swift in Sources */,
 				42880C9C1EFA0D3300869089 /* HouseRobber.swift in Sources */,
+				051091FF1F5E40E200BB392B /* PartitionEqualSubsetSum.swift in Sources */,
 				42880CFA1EFA146100869089 /* ExcelSheetColumnNumber.swift in Sources */,
 				42880CA61EFA0E1300869089 /* RomantoInteger.swift in Sources */,
 				42880CCE1EFA111200869089 /* KeyboardRow.swift in Sources */,

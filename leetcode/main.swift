@@ -23,6 +23,5 @@ public class TreeNode {
     }
 }
 
-print(Solution().findSubstring("wordgoodgoodgoodbestword"
-    ,["word","good","best","good"]))
+print(Solution().canPartition([1,2,5]))
 
