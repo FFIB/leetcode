@@ -23,5 +23,4 @@ public class TreeNode {
     }
 }
 
-print(Solution().canPartition([1,2,5]))
-
+print(Solution().constructArray(3, 2))
