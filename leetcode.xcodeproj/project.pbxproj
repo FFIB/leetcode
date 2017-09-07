@@ -21,6 +21,7 @@
 		0599AF3A1F3D46FF0090B9F4 /* VaildateIPAdress.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0599AF391F3D46FF0090B9F4 /* VaildateIPAdress.swift */; };
 		059E11631F3400D800EC13D4 /* FourSum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 059E11621F3400D800EC13D4 /* FourSum.swift */; };
 		059E11651F3595A600EC13D4 /* SubarraySumEqualsK.swift in Sources */ = {isa = PBXBuildFile; fileRef = 059E11641F3595A600EC13D4 /* SubarraySumEqualsK.swift */; };
+		05DCFBEE1F60EF3B0027C35A /* BeautifulArrangementII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05DCFBED1F60EF3B0027C35A /* BeautifulArrangementII.swift */; };
 		05E2EC761F57A84100D8EF6B /* SlidingWindowMaximum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05E2EC751F57A84100D8EF6B /* SlidingWindowMaximum.swift */; };
 		05E2EC801F59087F00D8EF6B /* KInversePairsArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05E2EC7F1F59087F00D8EF6B /* KInversePairsArray.swift */; };
 		05E2ECC21F5A718F00D8EF6B /* InsertInterval.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05E2ECC11F5A718F00D8EF6B /* InsertInterval.swift */; };
@@ -271,6 +272,7 @@
 		0599AF391F3D46FF0090B9F4 /* VaildateIPAdress.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VaildateIPAdress.swift; sourceTree = "<group>"; };
 		059E11621F3400D800EC13D4 /* FourSum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FourSum.swift; sourceTree = "<group>"; };
 		059E11641F3595A600EC13D4 /* SubarraySumEqualsK.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SubarraySumEqualsK.swift; sourceTree = "<group>"; };
+		05DCFBED1F60EF3B0027C35A /* BeautifulArrangementII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BeautifulArrangementII.swift; sourceTree = "<group>"; };
 		05E2EC751F57A84100D8EF6B /* SlidingWindowMaximum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SlidingWindowMaximum.swift; sourceTree = "<group>"; };
 		05E2EC7F1F59087F00D8EF6B /* KInversePairsArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KInversePairsArray.swift; sourceTree = "<group>"; };
 		05E2ECC11F5A718F00D8EF6B /* InsertInterval.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InsertInterval.swift; sourceTree = "<group>"; };
@@ -748,6 +750,7 @@
 				057CE6AE1F429BB60084DF5F /* RectangleArea.swift */,
 				0556271A1F43E04400C718CE /* SuperPow.swift */,
 				055E1C401F4D459E0000A25C /* ValidSquare.swift */,
+				05DCFBED1F60EF3B0027C35A /* BeautifulArrangementII.swift */,
 			);
 			path = Math;
 			sourceTree = "<group>";
@@ -971,6 +974,7 @@
 				425DE3AF1EF9093B0079F9B3 /* MaximumDistanceInArrays.swift in Sources */,
 				425DE3C21EF90D0D0079F9B3 /* ThreeSumClosest.swift in Sources */,
 				4247BE101F1DA9860012C1F1 /* MaximumAverageSubarrayI.swift in Sources */,
+				05DCFBEE1F60EF3B0027C35A /* BeautifulArrangementII.swift in Sources */,
 				425DE4DB1EF9282B0079F9B3 /* K-diffPairsinanArray.swift in Sources */,
 				425DE4251EF9168A0079F9B3 /* MinimumDepthofBinaryTree.swift in Sources */,
 				42880CD61EFA11B200869089 /* ValidPerfectSquare.swift in Sources */,
