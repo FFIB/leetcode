@@ -23,4 +23,4 @@ public class TreeNode {
     }
 }
 
-print(Solution().constructArray(3, 2))
+print(Solution().fractionToDecimal(2147483647,37))
