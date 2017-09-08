@@ -180,6 +180,7 @@
 372 |[Super Pow](https://github.com/FFIB/leetcode/blob/master/leetcode/Math/SuperPow.swift) |Medium|
 593 |[Valid Square](https://github.com/FFIB/leetcode/blob/master/leetcode/Math/ValidSquare.swift) |Medium|
 416 |[Partition Equal Subset Sum](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/PartitionEqualSubsetSum.swift) |Medium|
+667 |[Beautiful Arrangement II](https://github.com/FFIB/leetcode/blob/master/leetcode/Math/BeautifulArrangementII.swift) |Medium|
 
 # String   
 
