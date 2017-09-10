@@ -23,4 +23,4 @@ public class TreeNode {
     }
 }
 
-
+print(Solution().minWindow("ADOBECODEBANC", "ABC"))
