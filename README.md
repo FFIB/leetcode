@@ -106,6 +106,7 @@
 239 |[Sliding Window Maximum](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/SlidingWindowMaximum.swift) |Hard|
 629 |[K Inverse Pairs Array](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/KInversePairsArray.swift) |Hard|
 57  |[Insert Interval](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/InsertInterval.swift) |Hard|
+554 |[Brick Wall](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/BrickWall.swift) |Medium|
 
 
 # List   
