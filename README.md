@@ -107,6 +107,7 @@
 629 |[K Inverse Pairs Array](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/KInversePairsArray.swift) |Hard|
 57  |[Insert Interval](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/InsertInterval.swift) |Hard|
 554 |[Brick Wall](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/BrickWall.swift) |Medium|
+632 |[Smallest Range](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/SmallestRange.swift) |Hard|
 
 
 # List   
