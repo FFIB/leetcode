@@ -185,6 +185,7 @@
 416 |[Partition Equal Subset Sum](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/PartitionEqualSubsetSum.swift) |Medium|
 667 |[Beautiful Arrangement II](https://github.com/FFIB/leetcode/blob/master/leetcode/Math/BeautifulArrangementII.swift) |Medium|
 166 |[Fraction to Recurring Decimal](https://github.com/FFIB/leetcode/blob/master/leetcode/Math/FractiontoRecurringDecimal.swift) |Medium|
+77  |[Combinations](https://github.com/FFIB/leetcode/blob/master/leetcode/Math/Combinations.swift) |Medium|
 
 
 # String   
