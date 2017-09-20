@@ -23,4 +23,6 @@ public class TreeNode {
     }
 }
 
-print(Solution().combine(4, 2))
+//print(Solution().nextGreaterElement(1000001))
+
+print(Solution().validPalindrome("abc"))
