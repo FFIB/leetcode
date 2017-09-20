@@ -1,6 +1,6 @@
 # Array   
 
-|\#        | Title                       | Difficulty     |
+\#        | Title                       | Difficulty     |
 --------------------|-------------------|-----------------------|
 396	|[Rotate Function](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/RotateFunction.swift) |Medium|
 413|[Arithmetic Slices](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/ArithmeticSlices.swift)  |Medium|
@@ -233,7 +233,7 @@
 648 |[Replace Words](https://github.com/FFIB/leetcode/blob/master/leetcode/String/ReplaceWords.swift) |Medium|
 30  |[Substring with Concatenation of All Words](https://github.com/FFIB/leetcode/blob/master/leetcode/String/SubstringwithConcatenationofAllWords.swift) |Hard|
 76  |[Minimum Window Substring](https://github.com/FFIB/leetcode/blob/master/leetcode/String/MinimumWindowSubstring.swift) |Hard|
-
+657 |[Judge Route Circle](https://github.com/FFIB/leetcode/blob/master/leetcode/String/JudgeRouteCircle.swift)|Easy|
 
 # Sort   
 
