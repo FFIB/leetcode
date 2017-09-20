@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		051091FF1F5E40E200BB392B /* PartitionEqualSubsetSum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 051091FE1F5E40E200BB392B /* PartitionEqualSubsetSum.swift */; };
+		0516CE241F729D7E00E1459A /* ValidPalindromeII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0516CE231F729D7E00E1459A /* ValidPalindromeII.swift */; };
 		0517C3681F68CBCD0035FE45 /* PalindromePairs.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0517C3671F68CBCD0035FE45 /* PalindromePairs.swift */; };
 		051C4D901F56584B00935D43 /* InsertionSortList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 051C4D8F1F56584B00935D43 /* InsertionSortList.swift */; };
 		052B9B851F519C44008F0824 /* ReplaceWords.swift in Sources */ = {isa = PBXBuildFile; fileRef = 052B9B841F519C44008F0824 /* ReplaceWords.swift */; };
@@ -266,6 +267,7 @@
 
 /* Begin PBXFileReference section */
 		051091FE1F5E40E200BB392B /* PartitionEqualSubsetSum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PartitionEqualSubsetSum.swift; sourceTree = "<group>"; };
+		0516CE231F729D7E00E1459A /* ValidPalindromeII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ValidPalindromeII.swift; sourceTree = "<group>"; };
 		0517C3671F68CBCD0035FE45 /* PalindromePairs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PalindromePairs.swift; sourceTree = "<group>"; };
 		051C4D8F1F56584B00935D43 /* InsertionSortList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InsertionSortList.swift; sourceTree = "<group>"; };
 		052B9B841F519C44008F0824 /* ReplaceWords.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReplaceWords.swift; sourceTree = "<group>"; };
@@ -714,6 +716,7 @@
 				05E2ECC31F5C403200D8EF6B /* SubstringwithConcatenationofAllWords.swift */,
 				05A461771F65202600D00745 /* MinimumWindowSubstring.swift */,
 				05B4DBF51F6D7DF400CDFDEF /* JudgeRouteCircle.swift */,
+				0516CE231F729D7E00E1459A /* ValidPalindromeII.swift */,
 			);
 			path = String;
 			sourceTree = "<group>";
@@ -1064,6 +1067,7 @@
 				42880C961EFA0CA300869089 /* WordPattern.swift in Sources */,
 				425DE44D1EF91B380079F9B3 /* SameTree.swift in Sources */,
 				422024631F2981460068DC93 /* CombinationSum.swift in Sources */,
+				0516CE241F729D7E00E1459A /* ValidPalindromeII.swift in Sources */,
 				425DE49F1EF923870079F9B3 /* PalindromeLinkedList.swift in Sources */,
 				425DE4791EF920E90079F9B3 /* RepeatedSubstringPattern.swift in Sources */,
 				05B5555E1F6A1A4C00A84910 /* TrappingRainWater.swift in Sources */,
