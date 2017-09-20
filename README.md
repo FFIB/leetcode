@@ -234,6 +234,7 @@
 30  |[Substring with Concatenation of All Words](https://github.com/FFIB/leetcode/blob/master/leetcode/String/SubstringwithConcatenationofAllWords.swift) |Hard|
 76  |[Minimum Window Substring](https://github.com/FFIB/leetcode/blob/master/leetcode/String/MinimumWindowSubstring.swift) |Hard|
 657 |[Judge Route Circle](https://github.com/FFIB/leetcode/blob/master/leetcode/String/JudgeRouteCircle.swift)|Easy|
+680 |[Valid Palindrome II](https://github.com/FFIB/leetcode/blob/master/leetcode/String/ValidPalindromeII.swift) |Easy|
 
 # Sort   
 
