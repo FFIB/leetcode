@@ -25,4 +25,4 @@ public class TreeNode {
 
 //print(Solution().nextGreaterElement(1000001))
 
-print(Solution().validPalindrome("abc"))
+print(Solution().simplifyPath("/home/foo/.ssh/../.ssh2/authorized_keys/"))
