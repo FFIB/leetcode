@@ -23,13 +23,10 @@ extension Solution {
             return true
         }
         var chars = Array(s.unicodeScalars.map{$0.value})
-        print(chars)
         var left = 0
         var right = s.characters.count - 1
         while left < right {
             if chars[left] != chars[right] {
-                print(left)
-                print(right)
                 return isPalindrome(chars: chars[left+1...right]) || isPalindrome(chars: chars[left...right - 1])
             }
             left += 1
