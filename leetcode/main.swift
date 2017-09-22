@@ -23,6 +23,5 @@ public class TreeNode {
     }
 }
 
-//print(Solution().nextGreaterElement(1000001))
 
-print(Solution().simplifyPath("/home/foo/.ssh/../.ssh2/authorized_keys/"))
+print(Solution().checkValidString("(*))"))
