@@ -237,6 +237,10 @@
 680 |[Valid Palindrome II](https://github.com/FFIB/leetcode/blob/master/leetcode/String/ValidPalindromeII.swift) |Easy|
 71  |[Simplify Path](https://github.com/FFIB/leetcode/blob/master/leetcode/String/SimplifyPath.swift) |Medium|
 678 |[Valid Parenthesis String](https://github.com/FFIB/leetcode/blob/master/leetcode/String/ValidParenthesisString.swift) |Medium|
+670 |[Maximum Swap](https://github.com/FFIB/leetcode/blob/master/leetcode/Math/MaximumSwap.swift) |Medium|
+
+
+
 # Sort   
 
 \#        | Title                       | Difficulty     |
