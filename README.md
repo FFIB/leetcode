@@ -186,6 +186,7 @@
 667 |[Beautiful Arrangement II](https://github.com/FFIB/leetcode/blob/master/leetcode/Math/BeautifulArrangementII.swift) |Medium|
 166 |[Fraction to Recurring Decimal](https://github.com/FFIB/leetcode/blob/master/leetcode/Math/FractiontoRecurringDecimal.swift) |Medium|
 77  |[Combinations](https://github.com/FFIB/leetcode/blob/master/leetcode/Math/Combinations.swift) |Medium|
+640 |[Solve the Equation](https://github.com/FFIB/leetcode/blob/master/leetcode/Math/%20SolvetheEquation.swift) |Medium|
 
 
 # String   
