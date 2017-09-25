@@ -24,4 +24,4 @@ public class TreeNode {
 }
 
 
-print(Solution().maximumSwap(1993))
+print(Solution().solveEquation("1-x+x-x+x=-99-x+x-x+x"))
