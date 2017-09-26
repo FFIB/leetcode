@@ -187,6 +187,7 @@
 166 |[Fraction to Recurring Decimal](https://github.com/FFIB/leetcode/blob/master/leetcode/Math/FractiontoRecurringDecimal.swift) |Medium|
 77  |[Combinations](https://github.com/FFIB/leetcode/blob/master/leetcode/Math/Combinations.swift) |Medium|
 640 |[Solve the Equation](https://github.com/FFIB/leetcode/blob/master/leetcode/Math/%20SolvetheEquation.swift) |Medium|
+672 |[Bulb Switcher II](https://github.com/FFIB/leetcode/blob/master/leetcode/Math/BulbSwitcherII.swift) |Medium|
 
 
 # String   
