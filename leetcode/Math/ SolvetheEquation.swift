@@ -41,12 +41,6 @@ extension Solution {
         
         let x = leftX - rightX
         let n = rightNum - leftNum
-        print(x)
-        print(n)
-        print(leftNum)
-        print(rightNum)
-        print(leftX)
-        print(rightX)
         if x != 0 {
             return "x=\(n / x)"
         }else if n > 0 {
