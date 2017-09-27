@@ -24,4 +24,4 @@ public class TreeNode {
 }
 
 
-print(Solution().solveEquation("1-x+x-x+x=-99-x+x-x+x"))
+print(Solution().calculate("(1+(4+5+2)-3)+(6+8)"))
