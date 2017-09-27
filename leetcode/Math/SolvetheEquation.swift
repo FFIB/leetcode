@@ -1,5 +1,5 @@
 //
-//   SolvetheEquation.swift
+//  SolvetheEquation.swift
 //  leetcode
 //
 //  Created by FFIB on 2017/9/25.

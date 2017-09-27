@@ -16,13 +16,14 @@
 		051C4D901F56584B00935D43 /* InsertionSortList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 051C4D8F1F56584B00935D43 /* InsertionSortList.swift */; };
 		052B9B851F519C44008F0824 /* ReplaceWords.swift in Sources */ = {isa = PBXBuildFile; fileRef = 052B9B841F519C44008F0824 /* ReplaceWords.swift */; };
 		052B9B891F5513BA008F0824 /* PartitionList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 052B9B881F5513BA008F0824 /* PartitionList.swift */; };
-		053A918E1F791288002E5B0D /*  SolvetheEquation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 053A918D1F791288002E5B0D /*  SolvetheEquation.swift */; };
+		053A918E1F791288002E5B0D /* SolvetheEquation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 053A918D1F791288002E5B0D /* SolvetheEquation.swift */; };
 		053A91901F79ECE6002E5B0D /* BulbSwitcherII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 053A918F1F79ECE6002E5B0D /* BulbSwitcherII.swift */; };
 		0544CFBB1F372E6E000B1918 /* JumpGame.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0544CFBA1F372E6E000B1918 /* JumpGame.swift */; };
 		054AA8D31F40A4A80000C49E /* LargestDivisibleSubset.swift in Sources */ = {isa = PBXBuildFile; fileRef = 054AA8D21F40A4A80000C49E /* LargestDivisibleSubset.swift */; };
 		054E9D8B1F3AC22E00D6B1DF /* PalindromicSubstrings.swift in Sources */ = {isa = PBXBuildFile; fileRef = 054E9D8A1F3AC22E00D6B1DF /* PalindromicSubstrings.swift */; };
 		0556271B1F43E04400C718CE /* SuperPow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0556271A1F43E04400C718CE /* SuperPow.swift */; };
 		055E1C411F4D459E0000A25C /* ValidSquare.swift in Sources */ = {isa = PBXBuildFile; fileRef = 055E1C401F4D459E0000A25C /* ValidSquare.swift */; };
+		05663DA81F7B3D0B00C5C387 /* BasicCalculator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05663DA71F7B3D0B00C5C387 /* BasicCalculator.swift */; };
 		056EAF521F3804AB00975950 /* SetMatrixZeroes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 056EAF511F3804AB00975950 /* SetMatrixZeroes.swift */; };
 		057CE6AF1F429BB60084DF5F /* RectangleArea.swift in Sources */ = {isa = PBXBuildFile; fileRef = 057CE6AE1F429BB60084DF5F /* RectangleArea.swift */; };
 		0599AF3A1F3D46FF0090B9F4 /* VaildateIPAdress.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0599AF391F3D46FF0090B9F4 /* VaildateIPAdress.swift */; };
@@ -280,13 +281,14 @@
 		051C4D8F1F56584B00935D43 /* InsertionSortList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InsertionSortList.swift; sourceTree = "<group>"; };
 		052B9B841F519C44008F0824 /* ReplaceWords.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReplaceWords.swift; sourceTree = "<group>"; };
 		052B9B881F5513BA008F0824 /* PartitionList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PartitionList.swift; sourceTree = "<group>"; };
-		053A918D1F791288002E5B0D /*  SolvetheEquation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = " SolvetheEquation.swift"; sourceTree = "<group>"; };
+		053A918D1F791288002E5B0D /* SolvetheEquation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SolvetheEquation.swift; sourceTree = "<group>"; };
 		053A918F1F79ECE6002E5B0D /* BulbSwitcherII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BulbSwitcherII.swift; sourceTree = "<group>"; };
 		0544CFBA1F372E6E000B1918 /* JumpGame.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JumpGame.swift; sourceTree = "<group>"; };
 		054AA8D21F40A4A80000C49E /* LargestDivisibleSubset.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LargestDivisibleSubset.swift; sourceTree = "<group>"; };
 		054E9D8A1F3AC22E00D6B1DF /* PalindromicSubstrings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PalindromicSubstrings.swift; sourceTree = "<group>"; };
 		0556271A1F43E04400C718CE /* SuperPow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SuperPow.swift; sourceTree = "<group>"; };
 		055E1C401F4D459E0000A25C /* ValidSquare.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ValidSquare.swift; sourceTree = "<group>"; };
+		05663DA71F7B3D0B00C5C387 /* BasicCalculator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BasicCalculator.swift; sourceTree = "<group>"; };
 		056EAF511F3804AB00975950 /* SetMatrixZeroes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SetMatrixZeroes.swift; sourceTree = "<group>"; };
 		057CE6AE1F429BB60084DF5F /* RectangleArea.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RectangleArea.swift; sourceTree = "<group>"; };
 		0599AF391F3D46FF0090B9F4 /* VaildateIPAdress.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VaildateIPAdress.swift; sourceTree = "<group>"; };
@@ -790,8 +792,9 @@
 				05DCFBED1F60EF3B0027C35A /* BeautifulArrangementII.swift */,
 				05B4DBF31F6B713100CDFDEF /* Combinations.swift */,
 				0516CE321F768C0600E1459A /* MaximumSwap.swift */,
-				053A918D1F791288002E5B0D /*  SolvetheEquation.swift */,
+				053A918D1F791288002E5B0D /* SolvetheEquation.swift */,
 				053A918F1F79ECE6002E5B0D /* BulbSwitcherII.swift */,
+				05663DA71F7B3D0B00C5C387 /* BasicCalculator.swift */,
 			);
 			path = Math;
 			sourceTree = "<group>";
@@ -1015,6 +1018,7 @@
 				42880CA41EFA0DFC00869089 /* IntersectionofTwoArraysII.swift in Sources */,
 				425DE4711EF91FAB0079F9B3 /* IntegerBreak.swift in Sources */,
 				425DE4851EF921C40079F9B3 /* AddStrings.swift in Sources */,
+				05663DA81F7B3D0B00C5C387 /* BasicCalculator.swift in Sources */,
 				4247BE1D1F1EF4CD0012C1F1 /* FindAllAnaframsInString.swift in Sources */,
 				425DE3AF1EF9093B0079F9B3 /* MaximumDistanceInArrays.swift in Sources */,
 				425DE3C21EF90D0D0079F9B3 /* ThreeSumClosest.swift in Sources */,
@@ -1088,7 +1092,7 @@
 				422024631F2981460068DC93 /* CombinationSum.swift in Sources */,
 				0516CE241F729D7E00E1459A /* ValidPalindromeII.swift in Sources */,
 				425DE49F1EF923870079F9B3 /* PalindromeLinkedList.swift in Sources */,
-				053A918E1F791288002E5B0D /*  SolvetheEquation.swift in Sources */,
+				053A918E1F791288002E5B0D /* SolvetheEquation.swift in Sources */,
 				425DE4791EF920E90079F9B3 /* RepeatedSubstringPattern.swift in Sources */,
 				05B5555E1F6A1A4C00A84910 /* TrappingRainWater.swift in Sources */,
 				425DE4A51EF924380079F9B3 /* Search2DMatrix.swift in Sources */,
