@@ -36,6 +36,7 @@
 		05B4DBF61F6D7DF400CDFDEF /* JudgeRouteCircle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05B4DBF51F6D7DF400CDFDEF /* JudgeRouteCircle.swift */; };
 		05B5555E1F6A1A4C00A84910 /* TrappingRainWater.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05B5555D1F6A1A4C00A84910 /* TrappingRainWater.swift */; };
 		05DCFBEE1F60EF3B0027C35A /* BeautifulArrangementII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05DCFBED1F60EF3B0027C35A /* BeautifulArrangementII.swift */; };
+		05DF62951F7D3D4F000A836A /* Non-decreasingArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05DF62941F7D3D4F000A836A /* Non-decreasingArray.swift */; };
 		05E2EC761F57A84100D8EF6B /* SlidingWindowMaximum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05E2EC751F57A84100D8EF6B /* SlidingWindowMaximum.swift */; };
 		05E2EC801F59087F00D8EF6B /* KInversePairsArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05E2EC7F1F59087F00D8EF6B /* KInversePairsArray.swift */; };
 		05E2ECC21F5A718F00D8EF6B /* InsertInterval.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05E2ECC11F5A718F00D8EF6B /* InsertInterval.swift */; };
@@ -302,6 +303,7 @@
 		05B4DBF51F6D7DF400CDFDEF /* JudgeRouteCircle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JudgeRouteCircle.swift; sourceTree = "<group>"; };
 		05B5555D1F6A1A4C00A84910 /* TrappingRainWater.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TrappingRainWater.swift; sourceTree = "<group>"; };
 		05DCFBED1F60EF3B0027C35A /* BeautifulArrangementII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BeautifulArrangementII.swift; sourceTree = "<group>"; };
+		05DF62941F7D3D4F000A836A /* Non-decreasingArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Non-decreasingArray.swift"; sourceTree = "<group>"; };
 		05E2EC751F57A84100D8EF6B /* SlidingWindowMaximum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SlidingWindowMaximum.swift; sourceTree = "<group>"; };
 		05E2EC7F1F59087F00D8EF6B /* KInversePairsArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KInversePairsArray.swift; sourceTree = "<group>"; };
 		05E2ECC11F5A718F00D8EF6B /* InsertInterval.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InsertInterval.swift; sourceTree = "<group>"; };
@@ -677,6 +679,7 @@
 				05A461791F6621F000D00745 /* SmallestRange.swift */,
 				0517C3671F68CBCD0035FE45 /* PalindromePairs.swift */,
 				05B5555D1F6A1A4C00A84910 /* TrappingRainWater.swift */,
+				05DF62941F7D3D4F000A836A /* Non-decreasingArray.swift */,
 			);
 			path = Array;
 			sourceTree = "<group>";
@@ -950,6 +953,7 @@
 				42880CB21EFA0EBD00869089 /* FactorialTrailingZeroes.swift in Sources */,
 				425DE49D1EF923620079F9B3 /* SortColors.swift in Sources */,
 				425DE42B1EF916F80079F9B3 /* ShortestUnsortedContinuousSubarray.swift in Sources */,
+				05DF62951F7D3D4F000A836A /* Non-decreasingArray.swift in Sources */,
 				05A4617A1F6621F000D00745 /* SmallestRange.swift in Sources */,
 				420FF8671F3028FE00E6DBF6 /* ThreeSum.swift in Sources */,
 				425DE4511EF91BAB0079F9B3 /* PermutationinString.swift in Sources */,
