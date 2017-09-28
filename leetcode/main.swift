@@ -24,4 +24,4 @@ public class TreeNode {
 }
 
 
-print(Solution().calculate("(1+(4+5+2)-3)+(6+8)"))
+print(Solution().checkPossibility([1,3,2]))
