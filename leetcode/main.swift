@@ -24,4 +24,4 @@ public class TreeNode {
 }
 
 
-print(Solution().checkPossibility([1,3,2]))
+print(Solution().findLengthOfLCIS([1,3,5,4,7]))

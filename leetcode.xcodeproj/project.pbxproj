@@ -37,6 +37,7 @@
 		05B5555E1F6A1A4C00A84910 /* TrappingRainWater.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05B5555D1F6A1A4C00A84910 /* TrappingRainWater.swift */; };
 		05DCFBEE1F60EF3B0027C35A /* BeautifulArrangementII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05DCFBED1F60EF3B0027C35A /* BeautifulArrangementII.swift */; };
 		05DF62951F7D3D4F000A836A /* Non-decreasingArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05DF62941F7D3D4F000A836A /* Non-decreasingArray.swift */; };
+		05DF62991F7DDEF8000A836A /* LongestContinuousIncreasingSubsequence.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05DF62981F7DDEF8000A836A /* LongestContinuousIncreasingSubsequence.swift */; };
 		05E2EC761F57A84100D8EF6B /* SlidingWindowMaximum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05E2EC751F57A84100D8EF6B /* SlidingWindowMaximum.swift */; };
 		05E2EC801F59087F00D8EF6B /* KInversePairsArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05E2EC7F1F59087F00D8EF6B /* KInversePairsArray.swift */; };
 		05E2ECC21F5A718F00D8EF6B /* InsertInterval.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05E2ECC11F5A718F00D8EF6B /* InsertInterval.swift */; };
@@ -304,6 +305,7 @@
 		05B5555D1F6A1A4C00A84910 /* TrappingRainWater.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TrappingRainWater.swift; sourceTree = "<group>"; };
 		05DCFBED1F60EF3B0027C35A /* BeautifulArrangementII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BeautifulArrangementII.swift; sourceTree = "<group>"; };
 		05DF62941F7D3D4F000A836A /* Non-decreasingArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Non-decreasingArray.swift"; sourceTree = "<group>"; };
+		05DF62981F7DDEF8000A836A /* LongestContinuousIncreasingSubsequence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongestContinuousIncreasingSubsequence.swift; sourceTree = "<group>"; };
 		05E2EC751F57A84100D8EF6B /* SlidingWindowMaximum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SlidingWindowMaximum.swift; sourceTree = "<group>"; };
 		05E2EC7F1F59087F00D8EF6B /* KInversePairsArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KInversePairsArray.swift; sourceTree = "<group>"; };
 		05E2ECC11F5A718F00D8EF6B /* InsertInterval.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InsertInterval.swift; sourceTree = "<group>"; };
@@ -680,6 +682,7 @@
 				0517C3671F68CBCD0035FE45 /* PalindromePairs.swift */,
 				05B5555D1F6A1A4C00A84910 /* TrappingRainWater.swift */,
 				05DF62941F7D3D4F000A836A /* Non-decreasingArray.swift */,
+				05DF62981F7DDEF8000A836A /* LongestContinuousIncreasingSubsequence.swift */,
 			);
 			path = Array;
 			sourceTree = "<group>";
@@ -1043,6 +1046,7 @@
 				429308D91F1133B0001319D1 /* IntegertoRoman.swift in Sources */,
 				42A8F9B21EFFF07E00D9863C /* SummaryRanges.swift in Sources */,
 				428BDE461F07FA7C00877D82 /* IntegerReplacement.swift in Sources */,
+				05DF62991F7DDEF8000A836A /* LongestContinuousIncreasingSubsequence.swift in Sources */,
 				425DE4B11EF925000079F9B3 /* ContinuousSubarraySum.swift in Sources */,
 				42880CC81EFA10BE00869089 /* ValidAnagram.swift in Sources */,
 				425C97301F0E156100CAC4E2 /* FindDuplicateFileinSystem.swift in Sources */,

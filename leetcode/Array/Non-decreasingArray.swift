@@ -18,15 +18,15 @@ extension Solution {
                 if isChanced {
                     return false
                 }
-                if i+1 == nums.count {
+                if i + 1 == nums.count {
                     return true
                 }
                 
                 isChanced = true
                 
-                if (i-2 < 0 || nums[i-2] <= nums[i]) {
+                if (i < 2 || nums[i - 2] <= nums[i]) {
                     prev = nums[i]
-                } else if prev > nums[i+1]  {
+                } else if prev > nums[i + 1]  {
                     return false
                 }
             } else {
