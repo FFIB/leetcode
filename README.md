@@ -111,6 +111,7 @@
 42  |[Trapping Rain Water](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/TrappingRainWater.swift) |Hard|
 665 |[Non-decreasing Array](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/Non-decreasingArray.swift) |Easy|
 674 |[Longest Continuous Increasing Subsequence](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/LongestContinuousIncreasingSubsequence.swift) |Easy|
+661 |[Image Smoother](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/ImageSmoother.swift) |Easy|
 
 # List   
 \#        | Title                       | Difficulty     |
