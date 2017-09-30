@@ -110,7 +110,7 @@
 632 |[Smallest Range](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/SmallestRange.swift) |Hard|
 42  |[Trapping Rain Water](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/TrappingRainWater.swift) |Hard|
 665 |[Non-decreasing Array](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/Non-decreasingArray.swift) |Easy|
-
+674 |[Longest Continuous Increasing Subsequence](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/LongestContinuousIncreasingSubsequence.swift) |Easy|
 
 # List   
 \#        | Title                       | Difficulty     |
