@@ -24,4 +24,4 @@ public class TreeNode {
 }
 
 
-print(Solution().maxAreaOfIsland([[1,1]]))
+print(Solution().topKFrequent(["i", "love", "leetcode", "i", "love", "coding"], 4))
