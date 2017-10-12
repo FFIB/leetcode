@@ -130,6 +130,7 @@
 24	|[Swap Nodes in Pairs](https://github.com/FFIB/leetcode/blob/master/leetcode/List/SwapNodesinPairs.swift) |Medium|
 86  |[Partition List](https://github.com/FFIB/leetcode/blob/master/leetcode/List/PartitionList.swift) |Medium|
 147 |[Insertion Sort List](https://github.com/FFIB/leetcode/blob/master/leetcode/List/InsertionSortList.swift) |Medium|
+695 |[Max Area of Island](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/MaxAreaofIsland.swift) |Easy|
 
 
 # Math   
