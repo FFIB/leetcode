@@ -36,6 +36,7 @@
 		05B4DBF41F6B713100CDFDEF /* Combinations.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05B4DBF31F6B713100CDFDEF /* Combinations.swift */; };
 		05B4DBF61F6D7DF400CDFDEF /* JudgeRouteCircle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05B4DBF51F6D7DF400CDFDEF /* JudgeRouteCircle.swift */; };
 		05B5555E1F6A1A4C00A84910 /* TrappingRainWater.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05B5555D1F6A1A4C00A84910 /* TrappingRainWater.swift */; };
+		05B878701F8FC0540019323F /* TopKFrequentWords.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05B8786F1F8FC0540019323F /* TopKFrequentWords.swift */; };
 		05DCFBEE1F60EF3B0027C35A /* BeautifulArrangementII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05DCFBED1F60EF3B0027C35A /* BeautifulArrangementII.swift */; };
 		05DF62951F7D3D4F000A836A /* Non-decreasingArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05DF62941F7D3D4F000A836A /* Non-decreasingArray.swift */; };
 		05DF62991F7DDEF8000A836A /* LongestContinuousIncreasingSubsequence.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05DF62981F7DDEF8000A836A /* LongestContinuousIncreasingSubsequence.swift */; };
@@ -306,6 +307,7 @@
 		05B4DBF31F6B713100CDFDEF /* Combinations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Combinations.swift; sourceTree = "<group>"; };
 		05B4DBF51F6D7DF400CDFDEF /* JudgeRouteCircle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JudgeRouteCircle.swift; sourceTree = "<group>"; };
 		05B5555D1F6A1A4C00A84910 /* TrappingRainWater.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TrappingRainWater.swift; sourceTree = "<group>"; };
+		05B8786F1F8FC0540019323F /* TopKFrequentWords.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TopKFrequentWords.swift; sourceTree = "<group>"; };
 		05DCFBED1F60EF3B0027C35A /* BeautifulArrangementII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BeautifulArrangementII.swift; sourceTree = "<group>"; };
 		05DF62941F7D3D4F000A836A /* Non-decreasingArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Non-decreasingArray.swift"; sourceTree = "<group>"; };
 		05DF62981F7DDEF8000A836A /* LongestContinuousIncreasingSubsequence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongestContinuousIncreasingSubsequence.swift; sourceTree = "<group>"; };
@@ -689,6 +691,7 @@
 				05DF62981F7DDEF8000A836A /* LongestContinuousIncreasingSubsequence.swift */,
 				0505B3511F7F296D009E4ED2 /* ImageSmoother.swift */,
 				05F293601F8B131400DC9C75 /* MaxAreaofIsland.swift */,
+				05B8786F1F8FC0540019323F /* TopKFrequentWords.swift */,
 			);
 			path = Array;
 			sourceTree = "<group>";
@@ -1049,6 +1052,7 @@
 				42880D061EFA157200869089 /* SingleElementinaSortedArray.swift in Sources */,
 				059E11631F3400D800EC13D4 /* FourSum.swift in Sources */,
 				425DE48D1EF9223F0079F9B3 /* InvertBinaryTree.swift in Sources */,
+				05B878701F8FC0540019323F /* TopKFrequentWords.swift in Sources */,
 				0544CFBB1F372E6E000B1918 /* JumpGame.swift in Sources */,
 				429308D91F1133B0001319D1 /* IntegertoRoman.swift in Sources */,
 				05F293611F8B131400DC9C75 /* MaxAreaofIsland.swift in Sources */,
