@@ -113,7 +113,7 @@
 674 |[Longest Continuous Increasing Subsequence](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/LongestContinuousIncreasingSubsequence.swift) |Easy|
 661 |[Image Smoother](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/ImageSmoother.swift) |Easy|
 692 |[Top K Frequent Words](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/TopKFrequentWords.swift) |Medium|
-4   |[Median of Two Sorted Arrays] (https://github.com/FFIB/leetcode/blob/master/leetcode/Array/MedianofTwoSortedArrays.swift) |Hard|
+4   |[Median of Two Sorted Arrays](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/MedianofTwoSortedArrays.swift) |Hard|
 # List   
 \#        | Title                       | Difficulty     |
 --------------------|-------------------|-----------------------|
