@@ -24,4 +24,4 @@ public class TreeNode {
 }
 
 
-print(Solution().topKFrequent(["i", "love", "leetcode", "i", "love", "coding"], 4))
+print(Solution().findMedianSortedArrays([1,2], [3,4]))
