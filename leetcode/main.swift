@@ -24,4 +24,4 @@ public class TreeNode {
 }
 
 
-print(Solution().findMedianSortedArrays([1,2], [3,4]))
+print(Solution().findShortestSubArray([1,2,2,3,1]))
