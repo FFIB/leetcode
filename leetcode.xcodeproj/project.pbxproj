@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		0505B3521F7F296D009E4ED2 /* ImageSmoother.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0505B3511F7F296D009E4ED2 /* ImageSmoother.swift */; };
+		050F20641F94DB890020BE52 /* CountBinarySubstrings.swift in Sources */ = {isa = PBXBuildFile; fileRef = 050F20631F94DB890020BE52 /* CountBinarySubstrings.swift */; };
 		051091FF1F5E40E200BB392B /* PartitionEqualSubsetSum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 051091FE1F5E40E200BB392B /* PartitionEqualSubsetSum.swift */; };
 		0516CE241F729D7E00E1459A /* ValidPalindromeII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0516CE231F729D7E00E1459A /* ValidPalindromeII.swift */; };
 		0516CE291F7358EC00E1459A /* SimplifyPath.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0516CE281F7358EC00E1459A /* SimplifyPath.swift */; };
@@ -280,6 +281,7 @@
 
 /* Begin PBXFileReference section */
 		0505B3511F7F296D009E4ED2 /* ImageSmoother.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageSmoother.swift; sourceTree = "<group>"; };
+		050F20631F94DB890020BE52 /* CountBinarySubstrings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountBinarySubstrings.swift; sourceTree = "<group>"; };
 		051091FE1F5E40E200BB392B /* PartitionEqualSubsetSum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PartitionEqualSubsetSum.swift; sourceTree = "<group>"; };
 		0516CE231F729D7E00E1459A /* ValidPalindromeII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ValidPalindromeII.swift; sourceTree = "<group>"; };
 		0516CE281F7358EC00E1459A /* SimplifyPath.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SimplifyPath.swift; sourceTree = "<group>"; };
@@ -698,6 +700,7 @@
 				05B8786F1F8FC0540019323F /* TopKFrequentWords.swift */,
 				05B878711F905E4A0019323F /* MedianofTwoSortedArrays.swift */,
 				05EDB4BC1F935C6400AB5544 /* DegreeofanArray.swift */,
+				050F20631F94DB890020BE52 /* CountBinarySubstrings.swift */,
 			);
 			path = Array;
 			sourceTree = "<group>";
@@ -1155,6 +1158,7 @@
 				425C43421F2CE8490042DC46 /* CombinationSumIII.swift in Sources */,
 				425DE4E91EF9298A0079F9B3 /* LengthofLastWord.swift in Sources */,
 				428B5C1E1F18628C0016F48B /* LongestSubstringWithoutRepeatingCharacters.swift in Sources */,
+				050F20641F94DB890020BE52 /* CountBinarySubstrings.swift in Sources */,
 				42880CFE1EFA148B00869089 /* AssignCookies.swift in Sources */,
 				05A461761F64223500D00745 /* BrickWall.swift in Sources */,
 				42880CC61EFA10A900869089 /* MissingNumber.swift in Sources */,
