@@ -24,4 +24,4 @@ public class TreeNode {
 }
 
 
-print(Solution().findShortestSubArray([1,2,2,3,1]))
+print(Solution().calPoints(["5","-2","4","C","D","9","+","+"]))
