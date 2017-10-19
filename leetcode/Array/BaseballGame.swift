@@ -23,7 +23,7 @@ extension Solution {
             case "D":
                 val = last.last! * 2
             default:
-                val = Int(num)!
+                val = Int(op)!
             }
             ans += val
             last.append(val)
