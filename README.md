@@ -117,6 +117,7 @@
 697 |[Degree of an Array](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/DegreeofanArray.swift) |Easy|
 696 |[Count Binary Substrings](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/CountBinarySubstrings.swift) |Easy|
 454 |[4Sum II](https://github.com/FFIB/leetcode/blob/master/leetcode/Math/fourSumII.swift) |Medium|
+682 |[Baseball Game](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/BaseballGame.swift) |Easy|
 
 
 # List   
