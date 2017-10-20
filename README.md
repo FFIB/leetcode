@@ -118,6 +118,7 @@
 696 |[Count Binary Substrings](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/CountBinarySubstrings.swift) |Easy|
 454 |[4Sum II](https://github.com/FFIB/leetcode/blob/master/leetcode/Math/fourSumII.swift) |Medium|
 682 |[Baseball Game](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/BaseballGame.swift) |Easy|
+693 |[Binary Number with Alternating Bits](https://github.com/FFIB/leetcode/blob/master/leetcode/Math/BinaryNumberwithAlternatingBits.swift) |Easy|
 
 
 # List   
