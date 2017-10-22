@@ -24,4 +24,4 @@ public class TreeNode {
 }
 
 
-print(Solution().calPoints(["5","-2","4","C","D","9","+","+"]))
+print(Solution().numSubarrayProductLessThanK([10, 5, 2, 6], 100))
