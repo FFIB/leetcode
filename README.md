@@ -119,6 +119,7 @@
 454 |[4Sum II](https://github.com/FFIB/leetcode/blob/master/leetcode/Math/fourSumII.swift) |Medium|
 682 |[Baseball Game](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/BaseballGame.swift) |Easy|
 693 |[Binary Number with Alternating Bits](https://github.com/FFIB/leetcode/blob/master/leetcode/Math/BinaryNumberwithAlternatingBits.swift) |Easy|
+646 |[Maximum Length of Pair Chain](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/MaximumLengthofPairChain.swift) |Medium|
 
 
 # List   
