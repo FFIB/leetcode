@@ -24,4 +24,4 @@ public class TreeNode {
 }
 
 
-print(Solution().numSubarrayProductLessThanK([10, 5, 2, 6], 100))
+print(Solution().exclusiveTime(2, ["0:start:0","1:start:2","1:end:5","0:end:6"]))

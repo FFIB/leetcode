@@ -23,6 +23,7 @@
 		053A91901F79ECE6002E5B0D /* BulbSwitcherII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 053A918F1F79ECE6002E5B0D /* BulbSwitcherII.swift */; };
 		053C864A1F9CA6EC00CB5D49 /* SubarrayProductLessThanK.swift in Sources */ = {isa = PBXBuildFile; fileRef = 053C86491F9CA6EC00CB5D49 /* SubarrayProductLessThanK.swift */; };
 		0544CFBB1F372E6E000B1918 /* JumpGame.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0544CFBA1F372E6E000B1918 /* JumpGame.swift */; };
+		054751721F9EE01A0091FFDF /* ExclusiveTimeofFunctions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 054751711F9EE01A0091FFDF /* ExclusiveTimeofFunctions.swift */; };
 		054AA8D31F40A4A80000C49E /* LargestDivisibleSubset.swift in Sources */ = {isa = PBXBuildFile; fileRef = 054AA8D21F40A4A80000C49E /* LargestDivisibleSubset.swift */; };
 		054ACE481F96F0FE00599323 /* BaseballGame.swift in Sources */ = {isa = PBXBuildFile; fileRef = 054ACE471F96F0FE00599323 /* BaseballGame.swift */; };
 		054ACE4C1F98478900599323 /* BinaryNumberwithAlternatingBits.swift in Sources */ = {isa = PBXBuildFile; fileRef = 054ACE4B1F98478900599323 /* BinaryNumberwithAlternatingBits.swift */; };
@@ -301,6 +302,7 @@
 		053A918F1F79ECE6002E5B0D /* BulbSwitcherII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BulbSwitcherII.swift; sourceTree = "<group>"; };
 		053C86491F9CA6EC00CB5D49 /* SubarrayProductLessThanK.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SubarrayProductLessThanK.swift; sourceTree = "<group>"; };
 		0544CFBA1F372E6E000B1918 /* JumpGame.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JumpGame.swift; sourceTree = "<group>"; };
+		054751711F9EE01A0091FFDF /* ExclusiveTimeofFunctions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExclusiveTimeofFunctions.swift; sourceTree = "<group>"; };
 		054AA8D21F40A4A80000C49E /* LargestDivisibleSubset.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LargestDivisibleSubset.swift; sourceTree = "<group>"; };
 		054ACE471F96F0FE00599323 /* BaseballGame.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BaseballGame.swift; sourceTree = "<group>"; };
 		054ACE4B1F98478900599323 /* BinaryNumberwithAlternatingBits.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BinaryNumberwithAlternatingBits.swift; sourceTree = "<group>"; };
@@ -564,6 +566,14 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		054751701F9EDFFE0091FFDF /* Stack */ = {
+			isa = PBXGroup;
+			children = (
+				054751711F9EE01A0091FFDF /* ExclusiveTimeofFunctions.swift */,
+			);
+			path = Stack;
+			sourceTree = "<group>";
+		};
 		425DE3961EF906990079F9B3 = {
 			isa = PBXGroup;
 			children = (
@@ -583,6 +593,7 @@
 		425DE3A11EF906990079F9B3 /* leetcode */ = {
 			isa = PBXGroup;
 			children = (
+				054751701F9EDFFE0091FFDF /* Stack */,
 				425DE3E51EF912700079F9B3 /* List */,
 				425DE3CB1EF90E8F0079F9B3 /* Tree */,
 				425DE3BE1EF90C800079F9B3 /* Sort */,
@@ -1085,6 +1096,7 @@
 				42A8F9B21EFFF07E00D9863C /* SummaryRanges.swift in Sources */,
 				428BDE461F07FA7C00877D82 /* IntegerReplacement.swift in Sources */,
 				05DF62991F7DDEF8000A836A /* LongestContinuousIncreasingSubsequence.swift in Sources */,
+				054751721F9EE01A0091FFDF /* ExclusiveTimeofFunctions.swift in Sources */,
 				425DE4B11EF925000079F9B3 /* ContinuousSubarraySum.swift in Sources */,
 				42880CC81EFA10BE00869089 /* ValidAnagram.swift in Sources */,
 				425C97301F0E156100CAC4E2 /* FindDuplicateFileinSystem.swift in Sources */,
