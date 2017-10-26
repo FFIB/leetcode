@@ -24,4 +24,8 @@ public class TreeNode {
 }
 
 
-print(Solution().exclusiveTime(2, ["0:start:0","1:start:2","1:end:5","0:end:6"]))
+print(Solution().uniquePathsWithObstacles([
+    [0,0,0],
+    [0,1,0],
+    [0,0,0]
+    ]))
