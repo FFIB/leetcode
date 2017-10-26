@@ -293,4 +293,9 @@
 530	 |[Minimum Absolute Difference in BST](https://github.com/FFIB/leetcode/blob/master/leetcode/Tree/MinimumAbsoluteDifferenceinBST.swift) |Easy|
 404	|[Sum of Left Leaves](https://github.com/FFIB/leetcode/blob/master/leetcode/Tree/SumofLeftLeaves.swift) |Easy|
   
+# Stack   
+
+\#        | Title                       | Difficulty     |
+--------------------|-------------------|-----------------------|
+636 |[Exclusive Time of Functions](https://github.com/FFIB/leetcode/blob/master/leetcode/Stack/ExclusiveTimeofFunctions.swift) |Medium|
 
