@@ -24,8 +24,4 @@ public class TreeNode {
 }
 
 
-print(Solution().uniquePathsWithObstacles([
-    [0,0,0],
-    [0,1,0],
-    [0,0,0]
-    ]))
+print(Solution().numDecodings("12"))
