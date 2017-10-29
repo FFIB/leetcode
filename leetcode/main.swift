@@ -24,4 +24,4 @@ public class TreeNode {
 }
 
 
-print(Solution().numDecodings("12"))
+print(Solution().findTargetSumWays([1, 1, 1, 1, 1], 3))
