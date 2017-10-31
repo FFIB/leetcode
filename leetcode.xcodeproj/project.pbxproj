@@ -24,6 +24,7 @@
 		053A918E1F791288002E5B0D /* SolvetheEquation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 053A918D1F791288002E5B0D /* SolvetheEquation.swift */; };
 		053A91901F79ECE6002E5B0D /* BulbSwitcherII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 053A918F1F79ECE6002E5B0D /* BulbSwitcherII.swift */; };
 		053C864A1F9CA6EC00CB5D49 /* SubarrayProductLessThanK.swift in Sources */ = {isa = PBXBuildFile; fileRef = 053C86491F9CA6EC00CB5D49 /* SubarrayProductLessThanK.swift */; };
+		054406D71FA81721002D3302 /* KnightProbabilityinChessboard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 054406D61FA81721002D3302 /* KnightProbabilityinChessboard.swift */; };
 		0544CFBB1F372E6E000B1918 /* JumpGame.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0544CFBA1F372E6E000B1918 /* JumpGame.swift */; };
 		054751721F9EE01A0091FFDF /* ExclusiveTimeofFunctions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 054751711F9EE01A0091FFDF /* ExclusiveTimeofFunctions.swift */; };
 		054863501FA2D9E900A39DA0 /* DecodeWays.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0548634F1FA2D9E900A39DA0 /* DecodeWays.swift */; };
@@ -308,6 +309,7 @@
 		053A918D1F791288002E5B0D /* SolvetheEquation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SolvetheEquation.swift; sourceTree = "<group>"; };
 		053A918F1F79ECE6002E5B0D /* BulbSwitcherII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BulbSwitcherII.swift; sourceTree = "<group>"; };
 		053C86491F9CA6EC00CB5D49 /* SubarrayProductLessThanK.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SubarrayProductLessThanK.swift; sourceTree = "<group>"; };
+		054406D61FA81721002D3302 /* KnightProbabilityinChessboard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KnightProbabilityinChessboard.swift; sourceTree = "<group>"; };
 		0544CFBA1F372E6E000B1918 /* JumpGame.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JumpGame.swift; sourceTree = "<group>"; };
 		054751711F9EE01A0091FFDF /* ExclusiveTimeofFunctions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExclusiveTimeofFunctions.swift; sourceTree = "<group>"; };
 		0548634F1FA2D9E900A39DA0 /* DecodeWays.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DecodeWays.swift; sourceTree = "<group>"; };
@@ -584,6 +586,7 @@
 				0548634F1FA2D9E900A39DA0 /* DecodeWays.swift */,
 				0552AFAB1FA4B38200485EF3 /* MinimumPathSum.swift */,
 				0552AFB11FA5E7FF00485EF3 /* TargetSum.swift */,
+				054406D61FA81721002D3302 /* KnightProbabilityinChessboard.swift */,
 			);
 			path = DP;
 			sourceTree = "<group>";
@@ -1250,6 +1253,7 @@
 				425DE4C11EF926290079F9B3 /* MinimumMovestoEqualArrayElementsII.swift in Sources */,
 				425DE4911EF922620079F9B3 /* List.swift in Sources */,
 				425DE4C31EF9265D0079F9B3 /* BattleshipsinBoard.swift in Sources */,
+				054406D71FA81721002D3302 /* KnightProbabilityinChessboard.swift in Sources */,
 				42880D001EFA14A000869089 /* AddDigits.swift in Sources */,
 				42EB9F4F1F049F2F00AA53CE /* MergeTwoBinaryTrees.swift in Sources */,
 				425DE4611EF91D8B0079F9B3 /* SpiralMatrixII.swift in Sources */,

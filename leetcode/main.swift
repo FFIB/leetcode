@@ -24,4 +24,4 @@ public class TreeNode {
 }
 
 
-print(Solution().findTargetSumWays([1, 1, 1, 1, 1], 3))
+print(Solution().knightProbability(3, 2, 0, 0))
