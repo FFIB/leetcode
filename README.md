@@ -303,8 +303,8 @@
 
 \#        | Title                       | Difficulty     |
 --------------------|-------------------|-----------------------|
-62 |[Unique Paths](https://github.com/FFIB/leetcode/blob/master/leetcode/DP/UniquePaths.swift) |Medium|
-63 |[Unique Paths II](https://github.com/FFIB/leetcode/blob/master/leetcode/DP/UniquePathsII.swift) |Medium|
-91 |[Decode Ways](https://github.com/FFIB/leetcode/blob/master/leetcode/DP/DecodeWays.swift) |Medium|
-64 |[Minimum Path Sum](https://github.com/FFIB/leetcode/blob/master/leetcode/DP/MinimumPathSum.swift) |Medium|
-
+62  |[Unique Paths](https://github.com/FFIB/leetcode/blob/master/leetcode/DP/UniquePaths.swift) |Medium|
+63  |[Unique Paths II](https://github.com/FFIB/leetcode/blob/master/leetcode/DP/UniquePathsII.swift) |Medium|
+91  |[Decode Ways](https://github.com/FFIB/leetcode/blob/master/leetcode/DP/DecodeWays.swift) |Medium|
+64  |[Minimum Path Sum](https://github.com/FFIB/leetcode/blob/master/leetcode/DP/MinimumPathSum.swift) |Medium|
+494 |[Target Sum](https://github.com/FFIB/leetcode/blob/master/leetcode/DP/TargetSum.swift) |Medium|
