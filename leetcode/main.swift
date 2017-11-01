@@ -24,4 +24,4 @@ public class TreeNode {
 }
 
 
-print(Solution().knightProbability(3, 2, 0, 0))
+print(Solution().countBits(5))
