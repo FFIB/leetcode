@@ -309,3 +309,4 @@
 64  |[Minimum Path Sum](https://github.com/FFIB/leetcode/blob/master/leetcode/DP/MinimumPathSum.swift) |Medium|
 494 |[Target Sum](https://github.com/FFIB/leetcode/blob/master/leetcode/DP/TargetSum.swift) |Medium|
 688 |[Knight Probability in Chessboard](https://github.com/FFIB/leetcode/blob/master/leetcode/DP/KnightProbabilityinChessboard.swift) |Medium|
+338 |[Counting Bits](https://github.com/FFIB/leetcode/blob/master/leetcode/DP/CountingBits.swift) |Medium|
