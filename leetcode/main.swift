@@ -24,4 +24,4 @@ public class TreeNode {
 }
 
 
-print(Solution().countBits(5))
+print(Solution().wordBreak("leetcode", ["leet", "code"]))
