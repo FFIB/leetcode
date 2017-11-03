@@ -26,6 +26,7 @@
 		053C864A1F9CA6EC00CB5D49 /* SubarrayProductLessThanK.swift in Sources */ = {isa = PBXBuildFile; fileRef = 053C86491F9CA6EC00CB5D49 /* SubarrayProductLessThanK.swift */; };
 		054128381FA9A8CC00CFE81C /* CountingBits.swift in Sources */ = {isa = PBXBuildFile; fileRef = 054128371FA9A8CC00CFE81C /* CountingBits.swift */; };
 		0541283E1FAAB1CA00CFE81C /* WordBreak.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0541283D1FAAB1CA00CFE81C /* WordBreak.swift */; };
+		054128401FAAC16400CFE81C /* WordBreakII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0541283F1FAAC16400CFE81C /* WordBreakII.swift */; };
 		054406D71FA81721002D3302 /* KnightProbabilityinChessboard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 054406D61FA81721002D3302 /* KnightProbabilityinChessboard.swift */; };
 		0544CFBB1F372E6E000B1918 /* JumpGame.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0544CFBA1F372E6E000B1918 /* JumpGame.swift */; };
 		054751721F9EE01A0091FFDF /* ExclusiveTimeofFunctions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 054751711F9EE01A0091FFDF /* ExclusiveTimeofFunctions.swift */; };
@@ -313,6 +314,7 @@
 		053C86491F9CA6EC00CB5D49 /* SubarrayProductLessThanK.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SubarrayProductLessThanK.swift; sourceTree = "<group>"; };
 		054128371FA9A8CC00CFE81C /* CountingBits.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountingBits.swift; sourceTree = "<group>"; };
 		0541283D1FAAB1CA00CFE81C /* WordBreak.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WordBreak.swift; sourceTree = "<group>"; };
+		0541283F1FAAC16400CFE81C /* WordBreakII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WordBreakII.swift; sourceTree = "<group>"; };
 		054406D61FA81721002D3302 /* KnightProbabilityinChessboard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KnightProbabilityinChessboard.swift; sourceTree = "<group>"; };
 		0544CFBA1F372E6E000B1918 /* JumpGame.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JumpGame.swift; sourceTree = "<group>"; };
 		054751711F9EE01A0091FFDF /* ExclusiveTimeofFunctions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExclusiveTimeofFunctions.swift; sourceTree = "<group>"; };
@@ -593,6 +595,7 @@
 				054406D61FA81721002D3302 /* KnightProbabilityinChessboard.swift */,
 				054128371FA9A8CC00CFE81C /* CountingBits.swift */,
 				0541283D1FAAB1CA00CFE81C /* WordBreak.swift */,
+				0541283F1FAAC16400CFE81C /* WordBreakII.swift */,
 			);
 			path = DP;
 			sourceTree = "<group>";
@@ -1104,6 +1107,7 @@
 				425DE4551EF91C190079F9B3 /* ArrayPartitionI.swift in Sources */,
 				425DE4A91EF924700079F9B3 /* KthLargestElementinanArray.swift in Sources */,
 				056EAF521F3804AB00975950 /* SetMatrixZeroes.swift in Sources */,
+				054128401FAAC16400CFE81C /* WordBreakII.swift in Sources */,
 				42880CA41EFA0DFC00869089 /* IntersectionofTwoArraysII.swift in Sources */,
 				425DE4711EF91FAB0079F9B3 /* IntegerBreak.swift in Sources */,
 				425DE4851EF921C40079F9B3 /* AddStrings.swift in Sources */,
