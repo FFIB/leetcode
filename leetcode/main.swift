@@ -24,4 +24,4 @@ public class TreeNode {
 }
 
 
-print(Solution().wordBreak("leetcode", ["leet", "code"]))
+print(Solution().wordBreakII("catsanddog", ["cat", "cats", "and", "sand", "dog"]))
