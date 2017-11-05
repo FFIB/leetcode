@@ -35,6 +35,7 @@
 		054ACE481F96F0FE00599323 /* BaseballGame.swift in Sources */ = {isa = PBXBuildFile; fileRef = 054ACE471F96F0FE00599323 /* BaseballGame.swift */; };
 		054ACE4C1F98478900599323 /* BinaryNumberwithAlternatingBits.swift in Sources */ = {isa = PBXBuildFile; fileRef = 054ACE4B1F98478900599323 /* BinaryNumberwithAlternatingBits.swift */; };
 		054C48801F99930C00869694 /* MaximumLengthofPairChain.swift in Sources */ = {isa = PBXBuildFile; fileRef = 054C487F1F99930C00869694 /* MaximumLengthofPairChain.swift */; };
+		054E62D11FAEEEB800CC5450 /* CoinChange.swift in Sources */ = {isa = PBXBuildFile; fileRef = 054E62D01FAEEEB800CC5450 /* CoinChange.swift */; };
 		054E9D8B1F3AC22E00D6B1DF /* PalindromicSubstrings.swift in Sources */ = {isa = PBXBuildFile; fileRef = 054E9D8A1F3AC22E00D6B1DF /* PalindromicSubstrings.swift */; };
 		0552AFAC1FA4B38200485EF3 /* MinimumPathSum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0552AFAB1FA4B38200485EF3 /* MinimumPathSum.swift */; };
 		0552AFB21FA5E7FF00485EF3 /* TargetSum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0552AFB11FA5E7FF00485EF3 /* TargetSum.swift */; };
@@ -323,6 +324,7 @@
 		054ACE471F96F0FE00599323 /* BaseballGame.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BaseballGame.swift; sourceTree = "<group>"; };
 		054ACE4B1F98478900599323 /* BinaryNumberwithAlternatingBits.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BinaryNumberwithAlternatingBits.swift; sourceTree = "<group>"; };
 		054C487F1F99930C00869694 /* MaximumLengthofPairChain.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumLengthofPairChain.swift; sourceTree = "<group>"; };
+		054E62D01FAEEEB800CC5450 /* CoinChange.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoinChange.swift; sourceTree = "<group>"; };
 		054E9D8A1F3AC22E00D6B1DF /* PalindromicSubstrings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PalindromicSubstrings.swift; sourceTree = "<group>"; };
 		0552AFAB1FA4B38200485EF3 /* MinimumPathSum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumPathSum.swift; sourceTree = "<group>"; };
 		0552AFB11FA5E7FF00485EF3 /* TargetSum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TargetSum.swift; sourceTree = "<group>"; };
@@ -596,6 +598,7 @@
 				054128371FA9A8CC00CFE81C /* CountingBits.swift */,
 				0541283D1FAAB1CA00CFE81C /* WordBreak.swift */,
 				0541283F1FAAC16400CFE81C /* WordBreakII.swift */,
+				054E62D01FAEEEB800CC5450 /* CoinChange.swift */,
 			);
 			path = DP;
 			sourceTree = "<group>";
@@ -1063,6 +1066,7 @@
 				425DE4D31EF927B10079F9B3 /* FindAllDuplicatesinanArray.swift in Sources */,
 				4293D0651F0949EC0034747E /* MaximalSquare.swift in Sources */,
 				425DE4D51EF927C80079F9B3 /* ArithmeticSlices.swift in Sources */,
+				054E62D11FAEEEB800CC5450 /* CoinChange.swift in Sources */,
 				05E2EC801F59087F00D8EF6B /* KInversePairsArray.swift in Sources */,
 				42880D0A1EFA214C00869089 /* FindMinimumRotatedSortedArrayII.swift in Sources */,
 				42BA2AF41F0B33E200608E06 /* DetectCapital.swift in Sources */,
