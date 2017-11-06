@@ -313,3 +313,4 @@
 139 |[Word Break](https://github.com/FFIB/leetcode/blob/master/leetcode/DP/WordBreak.swift) |Medium|
 140 |[Word BreakII](https://github.com/FFIB/leetcode/blob/master/leetcode/DP/WordBreakII.swift) |Medium|
 322 |[Coin Change](https://github.com/FFIB/leetcode/blob/master/leetcode/DP/CoinChange.swift) |Medium|
+96  |[Unique Binary Search Trees](https://github.com/FFIB/leetcode/blob/master/leetcode/DP/UniqueBinarySearchTrees.swift) |Medium|
