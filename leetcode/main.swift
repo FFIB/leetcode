@@ -24,4 +24,4 @@ public class TreeNode {
 }
 
 
-print(Solution().coinChange([1, 2, 5], 11))
+print(Solution().numTrees(3))
