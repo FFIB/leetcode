@@ -24,4 +24,4 @@ public class TreeNode {
 }
 
 
-print(Solution().numTrees(3))
+print(Solution().lengthOfLIS([10, 9, 2, 5, 3, 7, 101, 18]))
