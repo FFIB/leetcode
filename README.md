@@ -315,3 +315,4 @@
 322 |[Coin Change](https://github.com/FFIB/leetcode/blob/master/leetcode/DP/CoinChange.swift) |Medium|
 96  |[Unique Binary Search Trees](https://github.com/FFIB/leetcode/blob/master/leetcode/DP/UniqueBinarySearchTrees.swift) |Medium|
 300 |[Longest Increasing Subsequence](https://github.com/FFIB/leetcode/blob/master/leetcode/DP/Longest%20Increasing%20Subsequence.swift) |Medium|
+392 |[is Subsequence](https://github.com/FFIB/leetcode/blob/master/leetcode/DP/IsSubsequence.swift) |Medium|
