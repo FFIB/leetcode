@@ -28,6 +28,7 @@
 		054128381FA9A8CC00CFE81C /* CountingBits.swift in Sources */ = {isa = PBXBuildFile; fileRef = 054128371FA9A8CC00CFE81C /* CountingBits.swift */; };
 		0541283E1FAAB1CA00CFE81C /* WordBreak.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0541283D1FAAB1CA00CFE81C /* WordBreak.swift */; };
 		054128401FAAC16400CFE81C /* WordBreakII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0541283F1FAAC16400CFE81C /* WordBreakII.swift */; };
+		0541D0AC1FB3E5FC00874943 /* UniqueSubstringsinWraparoundString.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0541D0AB1FB3E5FC00874943 /* UniqueSubstringsinWraparoundString.swift */; };
 		054406D71FA81721002D3302 /* KnightProbabilityinChessboard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 054406D61FA81721002D3302 /* KnightProbabilityinChessboard.swift */; };
 		0544CFBB1F372E6E000B1918 /* JumpGame.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0544CFBA1F372E6E000B1918 /* JumpGame.swift */; };
 		054751721F9EE01A0091FFDF /* ExclusiveTimeofFunctions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 054751711F9EE01A0091FFDF /* ExclusiveTimeofFunctions.swift */; };
@@ -320,6 +321,7 @@
 		054128371FA9A8CC00CFE81C /* CountingBits.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountingBits.swift; sourceTree = "<group>"; };
 		0541283D1FAAB1CA00CFE81C /* WordBreak.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WordBreak.swift; sourceTree = "<group>"; };
 		0541283F1FAAC16400CFE81C /* WordBreakII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WordBreakII.swift; sourceTree = "<group>"; };
+		0541D0AB1FB3E5FC00874943 /* UniqueSubstringsinWraparoundString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UniqueSubstringsinWraparoundString.swift; sourceTree = "<group>"; };
 		054406D61FA81721002D3302 /* KnightProbabilityinChessboard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KnightProbabilityinChessboard.swift; sourceTree = "<group>"; };
 		0544CFBA1F372E6E000B1918 /* JumpGame.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JumpGame.swift; sourceTree = "<group>"; };
 		054751711F9EE01A0091FFDF /* ExclusiveTimeofFunctions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExclusiveTimeofFunctions.swift; sourceTree = "<group>"; };
@@ -608,6 +610,7 @@
 				054E62D41FAFFCBE00CC5450 /* UniqueBinarySearchTrees.swift */,
 				054E62E31FB14AD900CC5450 /* Longest Increasing Subsequence.swift */,
 				052B8B861FB2A2F0008A4058 /* IsSubsequence.swift */,
+				0541D0AB1FB3E5FC00874943 /* UniqueSubstringsinWraparoundString.swift */,
 			);
 			path = DP;
 			sourceTree = "<group>";
@@ -1084,6 +1087,7 @@
 				054863501FA2D9E900A39DA0 /* DecodeWays.swift in Sources */,
 				42880CF81EFA144A00869089 /* TwoSum.swift in Sources */,
 				42D43E981F2AD4A600252B02 /* CombinationSumII.swift in Sources */,
+				0541D0AC1FB3E5FC00874943 /* UniqueSubstringsinWraparoundString.swift in Sources */,
 				42EB9F4D1F04995D00AA53CE /* RangeAdditionII.swift in Sources */,
 				42A77B671F26E43D0032AFE5 /* MajorityElementII.swift in Sources */,
 				425DE45B1EF91C970079F9B3 /* SubsetsII.swift in Sources */,

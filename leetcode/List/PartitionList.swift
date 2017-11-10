@@ -11,8 +11,8 @@ import Foundation
 extension Solution {
     func partition(_ head: ListNode?, _ x: Int) -> ListNode? {
         var list = head
-        var leftList = ListNode(0)
-        var rightList = ListNode(0)
+        let leftList = ListNode(0)
+        let rightList = ListNode(0)
         var left = leftList
         var right = rightList
         while list?.next != nil {
