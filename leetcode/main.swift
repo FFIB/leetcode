@@ -24,4 +24,4 @@ public class TreeNode {
 }
 
 
-print(Solution().findSubstringInWraproundString("zab"))
+print(Solution().minSteps(3))
