@@ -8,8 +8,23 @@
 
 import Foundation
 
-class Solution {
-    
+class Solution { }
+
+
+
+public class Interval {
+    public var start: Int
+    public var end: Int
+    public init(_ start: Int, _ end: Int) {
+        self.start = start
+        self.end = end
+    }
+}
+
+extension Interval: CustomStringConvertible {
+    public var description: String {
+        return "start:\(start) end:\(end)"
+    }
 }
 
 public class TreeNode {
@@ -21,7 +36,9 @@ public class TreeNode {
         self.left = nil
         self.right = nil
     }
+    
 }
 
+debugPrint(Solution().merge([Interval(1, 4), Interval(0, 4)]))
 
-print(Solution().minSteps(3))
+
