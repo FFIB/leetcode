@@ -120,6 +120,7 @@
 682 |[Baseball Game](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/BaseballGame.swift) |Easy|
 693 |[Binary Number with Alternating Bits](https://github.com/FFIB/leetcode/blob/master/leetcode/Math/BinaryNumberwithAlternatingBits.swift) |Easy|
 646 |[Maximum Length of Pair Chain](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/MaximumLengthofPairChain.swift) |Medium|
+56  |[Merge Intervals](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/MergeIntervals.swift) |Medium|
 
 
 # List   
@@ -318,4 +319,3 @@
 392 |[is Subsequence](https://github.com/FFIB/leetcode/blob/master/leetcode/DP/IsSubsequence.swift) |Medium|
 467 |[Unique Substrings in Wraparound String](https://github.com/FFIB/leetcode/blob/master/leetcode/DP/UniqueSubstringsinWraparoundString.swift) |Medium|
 650 |[2 Keys Keyboard](https://github.com/FFIB/leetcode/blob/master/leetcode/DP/2KeysKeyboard.swift) |Medium|
-56  |[Merge Intervals](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/MergeIntervals.swift) |Medium|
