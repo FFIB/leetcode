@@ -39,6 +39,6 @@ public class TreeNode {
     
 }
 
-debugPrint(Solution().merge([Interval(1, 4), Interval(0, 4)]))
+debugPrint(Solution().pivotIndex([1,0]))
 
 
