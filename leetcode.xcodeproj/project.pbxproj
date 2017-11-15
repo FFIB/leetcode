@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		0505B3521F7F296D009E4ED2 /* ImageSmoother.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0505B3511F7F296D009E4ED2 /* ImageSmoother.swift */; };
+		0506F92D1FBBCDD70031842A /* FindPivotIndex.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0506F92C1FBBCDD70031842A /* FindPivotIndex.swift */; };
 		050F20641F94DB890020BE52 /* CountBinarySubstrings.swift in Sources */ = {isa = PBXBuildFile; fileRef = 050F20631F94DB890020BE52 /* CountBinarySubstrings.swift */; };
 		050F20661F959CB90020BE52 /* fourSumII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 050F20651F959CB90020BE52 /* fourSumII.swift */; };
 		050F5D0E1FB92E0E00A053D0 /* 2KeysKeyboard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 050F5D0D1FB92E0E00A053D0 /* 2KeysKeyboard.swift */; };
@@ -303,6 +304,7 @@
 
 /* Begin PBXFileReference section */
 		0505B3511F7F296D009E4ED2 /* ImageSmoother.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageSmoother.swift; sourceTree = "<group>"; };
+		0506F92C1FBBCDD70031842A /* FindPivotIndex.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindPivotIndex.swift; sourceTree = "<group>"; };
 		050F20631F94DB890020BE52 /* CountBinarySubstrings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountBinarySubstrings.swift; sourceTree = "<group>"; };
 		050F20651F959CB90020BE52 /* fourSumII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = fourSumII.swift; sourceTree = "<group>"; };
 		050F5D0D1FB92E0E00A053D0 /* 2KeysKeyboard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 2KeysKeyboard.swift; sourceTree = "<group>"; };
@@ -781,6 +783,7 @@
 				054C487F1F99930C00869694 /* MaximumLengthofPairChain.swift */,
 				053C86491F9CA6EC00CB5D49 /* SubarrayProductLessThanK.swift */,
 				050F5D411FBA826400A053D0 /* MergeIntervals.swift */,
+				0506F92C1FBBCDD70031842A /* FindPivotIndex.swift */,
 			);
 			path = Array;
 			sourceTree = "<group>";
@@ -1172,6 +1175,7 @@
 				0517C3681F68CBCD0035FE45 /* PalindromePairs.swift in Sources */,
 				42880CC41EFA108E00869089 /* ContainsDuplicate.swift in Sources */,
 				42880CEA1EFA135700869089 /* LongestPalindrome.swift in Sources */,
+				0506F92D1FBBCDD70031842A /* FindPivotIndex.swift in Sources */,
 				05E2ECC41F5C403200D8EF6B /* SubstringwithConcatenationofAllWords.swift in Sources */,
 				054ACE481F96F0FE00599323 /* BaseballGame.swift in Sources */,
 				425DE4491EF91AE20079F9B3 /* MaximumDepthofBinaryTree.swift in Sources */,
