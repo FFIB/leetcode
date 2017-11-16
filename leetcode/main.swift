@@ -39,6 +39,6 @@ public class TreeNode {
     
 }
 
-debugPrint(Solution().pivotIndex([1,0]))
+debugPrint(Solution().maxProduct([2,3,-2,4]))
 
 
