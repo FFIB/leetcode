@@ -122,6 +122,8 @@
 646 |[Maximum Length of Pair Chain](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/MaximumLengthofPairChain.swift) |Medium|
 56  |[Merge Intervals](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/MergeIntervals.swift) |Medium|
 724 |[Find Pivot Index](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/FindPivotIndex.swift) |Medium|
+152 |[Maximum Product Subarray](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/MaximumProductSubarray.swift) |Medium|
+
 
 # List   
 \#        | Title                       | Difficulty     |
