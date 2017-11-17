@@ -123,7 +123,7 @@
 56  |[Merge Intervals](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/MergeIntervals.swift) |Medium|
 724 |[Find Pivot Index](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/FindPivotIndex.swift) |Medium|
 152 |[Maximum Product Subarray](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/MaximumProductSubarray.swift) |Medium|
-
+717	|[1-bit and 2-bit Characters](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/1-bitand2-bitCharacters.swift) |Medium|
 
 # List   
 \#        | Title                       | Difficulty     |
