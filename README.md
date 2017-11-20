@@ -204,7 +204,7 @@
 640 |[Solve the Equation](https://github.com/FFIB/leetcode/blob/master/leetcode/Math/%20SolvetheEquation.swift) |Medium|
 672 |[Bulb Switcher II](https://github.com/FFIB/leetcode/blob/master/leetcode/Math/BulbSwitcherII.swift) |Medium|
 224 |[Basic Calculator](https://github.com/FFIB/leetcode/blob/master/leetcode/Math/BasicCalculator.swift) |Hard|
-
+728 |[Self Dividing Numbers](https://github.com/FFIB/leetcode/blob/master/leetcode/Math/SelfDividingNumbers.swift) |Easy|
 # String   
 
 \#        | Title                       | Difficulty     |
