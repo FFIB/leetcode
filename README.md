@@ -255,7 +255,7 @@
 71  |[Simplify Path](https://github.com/FFIB/leetcode/blob/master/leetcode/String/SimplifyPath.swift) |Medium|
 678 |[Valid Parenthesis String](https://github.com/FFIB/leetcode/blob/master/leetcode/String/ValidParenthesisString.swift) |Medium|
 670 |[Maximum Swap](https://github.com/FFIB/leetcode/blob/master/leetcode/Math/MaximumSwap.swift) |Medium|
-
+443 |[String Compression](https://github.com/FFIB/leetcode/blob/master/leetcode/String/StringCompression.swift) |Easy|
 
 
 # Sort   
