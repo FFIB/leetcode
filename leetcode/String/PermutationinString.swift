@@ -10,13 +10,13 @@ import Foundation
 
 extension Solution {
     func checkInclusion(_ s1: String, _ s2: String) -> Bool {
-        if s1.characters.count > s2.characters.count {
+        if s1.count > s2.count {
             return false
         }
         var dict1 = [Character: Int]()
         var dict2 = [Character: Int]()
-        let arr1 = Array(s1.characters)
-        let arr2 = Array(s2.characters)
+        let arr1 = Array(s1)
+        let arr2 = Array(s2)
         var index = 0
         for str in arr1 {
             dict1[str] = (dict1[str] ?? 0) + 1

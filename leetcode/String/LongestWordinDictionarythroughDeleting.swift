@@ -10,18 +10,18 @@ import Foundation
 
 extension Solution {
     func findLongestWord(_ s: String, _ d: [String]) -> String {
-        let chars = Array(s.characters)
+        let chars = Array(s)
         var res = ""
         for str in d {
-            var strArr = Array(str.characters)
+            var strArr = Array(str)
             var i = 0
             for char in chars {
                 if i < strArr.count && char == strArr[i]  {
                     i += 1
                 }
             }
-            if i == strArr.count && i >= res.characters.count {
-                if i > res.characters.count || res.compare(str) == .orderedDescending {
+            if i == strArr.count && i >= res.count {
+                if i > res.count || res.compare(str) == .orderedDescending {
                     res = str
                 }
             }

@@ -10,7 +10,7 @@ import Foundation
 
 extension Solution {
     func calculate(_ s: String) -> Int {
-        let arr = (s+"#").characters.map{String($0)}
+        let arr = (s+"#").map{String($0)}
         var sign = 1
         var ans = 0
         var num = ""

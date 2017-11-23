@@ -14,7 +14,7 @@ extension Solution {
         var maxLength = 0
         for word in wordDict {
             dict[word] = (dict[word] ?? 0) + 1
-            maxLength = max(word.characters.count, maxLength)
+            maxLength = max(word.count, maxLength)
         }
         var queues = [s]
         var set = Set<String>()
@@ -25,7 +25,7 @@ extension Solution {
             if dict[front] != nil {
                 return true
             }
-            let chars = Array(front.characters)
+            let chars = Array(front)
             var prefix = ""
             for i in 0..<min(chars.count, maxLength) {
                 prefix.append(chars[i])

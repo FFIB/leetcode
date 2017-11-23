@@ -11,6 +11,6 @@ import Foundation
 extension Solution {
     func isPalindrome(_ s: String) -> Bool {
         let cleanStr = s.components(separatedBy: CharacterSet.alphanumerics.inverted).joined(separator: "")
-        return String(cleanStr)?.lowercased() == String(cleanStr.characters.reversed()).lowercased()
+        return cleanStr.lowercased() == String(cleanStr.reversed()).lowercased()
     }
 }

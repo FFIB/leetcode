@@ -15,7 +15,7 @@ extension Solution {
         }
         
         let sc = NSString(string: s)
-        let wlen = words.first!.characters.count
+        let wlen = words.first!.count
         var res = [Int]()
         guard sc.length >= wlen*words.count else {
             return res

@@ -13,7 +13,7 @@ extension Solution {
         var arr = board
         for i in 0..<board.count {
             for j in 0..<board[i].count {
-                if search(board: &arr, word: Array(word.characters), i: i, j: j, pos: 0) {
+                if search(board: &arr, word: Array(word), i: i, j: j, pos: 0) {
                     return true
                 }
             }

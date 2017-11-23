@@ -19,7 +19,7 @@ extension Solution {
             var previousRow = 0
             var index = 0
             var isSameRow = true
-            for element in word.lowercased().characters {
+            for element in word.lowercased() {
                 
                 if previousRow == 0 || previousRow == 1 {
                     if firstRow.contains(String(element)) {

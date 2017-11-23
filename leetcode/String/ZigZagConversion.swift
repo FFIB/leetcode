@@ -13,7 +13,7 @@ extension Solution {
         if numRows == 1 {
             return s
         }
-        var chars = Array(s.characters)
+        var chars = Array(s)
         var res = ""
         for i in 0..<numRows {
             var index = i

@@ -10,7 +10,7 @@ import Foundation
 
 extension Solution {
     func countSubstrings(_ s: String) -> Int {
-        let arr = Array(s.characters)
+        let arr = Array(s)
         var res = 0
         func assist(i: Int, j: Int, count: inout Int) {
             var i = i

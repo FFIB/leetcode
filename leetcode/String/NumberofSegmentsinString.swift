@@ -15,7 +15,7 @@ extension Solution {
         }
         var isContinuous = false
         var result = 0
-        for i in s.characters {
+        for i in s {
             if i == " " {
                 result = isContinuous ? result + 1 : result
                 isContinuous = false

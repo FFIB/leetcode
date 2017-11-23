@@ -11,7 +11,7 @@ import Foundation
 extension Solution {
     func frequencySort(_ s: String) -> String {
         var dict = [Character : Int]()
-        s.characters.forEach { (char) in
+        s.forEach { (char) in
             if dict[char] == nil {
                 dict[char] = 1
             }else {

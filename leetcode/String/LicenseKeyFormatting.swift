@@ -11,13 +11,14 @@ import Foundation
 extension Solution {
     func licenseKeyFormatting(_ S: String, _ K: Int) -> String {
         var res = ""
-        let str = S.characters.filter{$0 != "-"}
+        let str = S.filter{$0 != "-"}
         var index = str.count - K
         while index > 0 {
-            res =  "-" + String(str[index..<(index + K)]).uppercased() + res
+            
+            res =  "-" + str[str.index(str.startIndex, offsetBy: index)..<str.index(str.startIndex, offsetBy: index + K)].uppercased() + res
             index -= K
         }
-        res = String(str[0..<(index + K)]).uppercased() + res
+        res = str[str.startIndex..<str.index(str.startIndex, offsetBy: index + K)].uppercased() + res
         return res
     }
 }

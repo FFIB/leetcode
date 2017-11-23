@@ -10,7 +10,7 @@ import Foundation
 
 extension Solution {
     func countBinarySubstrings(_ s: String) -> Int {
-        let chars = Array(s.characters)
+        let chars = Array(s)
         var count = [0, 0]
         var ans = 0
         var last = -1

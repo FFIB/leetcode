@@ -16,7 +16,7 @@ extension Solution {
             let (key1, count1) = arg0
             let (key2, count2) = arg1
             if count1 == count2 {
-                let count = min(key1.characters.count, key2.characters.count)
+                let count = min(key1.count, key2.count)
                 var i = 0
                 let chars1 = Array(key1.unicodeScalars)
                 let chars2 = Array(key2.unicodeScalars)

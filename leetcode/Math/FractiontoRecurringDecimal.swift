@@ -23,7 +23,7 @@ extension Solution {
             return res
         }
         res.append(".")
-        var count = res.characters.count
+        var count = res.count
         while dividend != 0 {
             loopDict[dividend] = count
             res.append(String(dividend / divisor))

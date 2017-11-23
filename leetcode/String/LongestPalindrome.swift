@@ -12,7 +12,7 @@ extension Solution {
     func longestPalindrome(_ s: String) -> Int {
         var dict = [String: Int]()
         var result = 0
-        for element in s.characters {
+        for element in s {
             let str = String(element)
             if dict[str] != nil {
                 result += 2

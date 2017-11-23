@@ -40,7 +40,7 @@ public struct PriorityQueue<T: Comparable> {
         
         if heap.isEmpty { return nil }
         if heap.count == 1 { return heap.removeFirst() }
-        swap(&heap[0], &heap[heap.count - 1])
+        heap.swapAt(0, heap.count - 1)
         let temp = heap.removeLast()
         sink(0)
         
@@ -55,7 +55,7 @@ public struct PriorityQueue<T: Comparable> {
             
             if j < (heap.count - 1) && ordered(heap[j], heap[j + 1]) { j += 1 }
             if !ordered(heap[index], heap[j]) { break }
-            swap(&heap[index], &heap[j])
+            heap.swapAt(index, j)
             index = j
         }
     }
@@ -63,7 +63,7 @@ public struct PriorityQueue<T: Comparable> {
     private mutating func swim(_ index: Int) {
         var index = index
         while index > 0 && ordered(heap[(index - 1) / 2], heap[index]) {
-            swap(&heap[(index - 1) / 2], &heap[index])
+            heap.swapAt((index - 1) / 2, index)
             index = (index - 1) / 2
         }
     }

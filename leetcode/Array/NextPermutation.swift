@@ -20,13 +20,13 @@ extension Solution {
         if index > 0 {
             for i in (0..<nums.count).reversed() {
                 if nums[i] < nums[index - 1] {
-                    swap(&nums[index - 1], &nums[i])
+                    nums.swapAt(index - 1, i)
                     break
                 }
             }
         }
         for i in 0..<(nums.count - index) / 2 {
-            swap(&nums[index + i], &nums[nums.count - i - 1])
+            nums.swapAt(index + i, nums.count - i - 1)
         }
     }
 }

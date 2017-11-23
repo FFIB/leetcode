@@ -12,11 +12,11 @@ extension Solution {
     func letterCombinations(_ digits: String) -> [String] {
         let arr = ["0", "1", "abc", "def", "ghi", "jkl", "mno", "pqrs", "tuv", "wxyz"]
         var res = [String]()
-        for digit in digits.characters {
+        for digit in digits {
             let count = res.count == 0 ? 1 : res.count
             for _ in 0..<count {
                 let head = res.isEmpty ? "" : res.removeFirst()
-                for alpha in arr[Int(String(digit))!].characters{
+                for alpha in arr[Int(String(digit))!]{
                     res.append(head + String(alpha))
                 }
             }

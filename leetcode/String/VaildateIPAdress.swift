@@ -16,10 +16,10 @@ extension Solution {
                 return false
             }
             for str in ipv4 {
-                if (Int(String(str) ?? "256") ?? 256) > 255 || (str.hasPrefix("0") && str.characters.count != 1) {
+                if (Int(String(str)) ?? 256) > 255 || (str.hasPrefix("0") && str.count != 1) {
                     return false
                 }else {
-                    for char in str.characters where Int(String(char)) != nil {
+                    for char in str where Int(String(char)) != nil {
                         return false
                     }
                 }
@@ -33,10 +33,10 @@ extension Solution {
                 return false
             }
             for str in ipv6 {
-                if str.characters.count > 4 || str.characters.count == 0 || UInt(str, radix: 16) == nil {
+                if str.count > 4 || str.count == 0 || UInt(str, radix: 16) == nil {
                     return false
                 }else {
-                    for char in str.characters where !hexadecimal.contains(String(char)) {
+                    for char in str where !hexadecimal.contains(String(char)) {
                         return false
                     }
                 }
