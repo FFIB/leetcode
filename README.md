@@ -322,6 +322,7 @@
 467 |[Unique Substrings in Wraparound String](https://github.com/FFIB/leetcode/blob/master/leetcode/DP/UniqueSubstringsinWraparoundString.swift) |Medium|
 650 |[2 Keys Keyboard](https://github.com/FFIB/leetcode/blob/master/leetcode/DP/2KeysKeyboard.swift) |Medium|
 123 |[Best Time to Buy and Sell Stock III](https://github.com/FFIB/leetcode/blob/master/leetcode/DP/BestTimetoBuyandSellStockIII.swift) |Hard|
+312 |[Burst Balloons](https://github.com/FFIB/leetcode/blob/master/leetcode/DP/BurstBalloons.swift)|Hard|
 # Queue
 
 \#        | Title                       | Difficulty     |
