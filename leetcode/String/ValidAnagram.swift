@@ -10,7 +10,7 @@ import Foundation
 
 extension Solution {
     func isAnagram(_ s: String, _ t: String) -> Bool {
-        if s.characters.count != t.characters.count {
+        if s.count != t.count {
             return false
         }
         var dict = [Int: Int]()

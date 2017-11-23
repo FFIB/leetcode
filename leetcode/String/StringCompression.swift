@@ -24,7 +24,7 @@ extension Solution {
             if count > 1 {
                 let index = i
                 isInsert = true
-                let char = Array("\(count)".characters)
+                let char = Array("\(count)")
                 for j in (0..<char.count).reversed() {
                     chars.insert(char[j], at: index)
                     i += 1

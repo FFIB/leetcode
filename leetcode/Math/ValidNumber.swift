@@ -10,7 +10,7 @@ import Foundation
 
 extension Solution {
     func isNumber(_ s: String) -> Bool {
-        var arr = Array(s.characters)
+        var arr = Array(s)
         var index = 0
         for ch in arr {
             guard ch == " " else{

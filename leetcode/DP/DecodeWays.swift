@@ -11,7 +11,7 @@ import Foundation
 extension Solution {
     func numDecodings(_ s: String) -> Int {
         guard !s.isEmpty else { return 0 }
-        var chars = Array(s.characters)
+        var chars = Array(s)
         var dp = Array(repeating: 0, count: chars.count + 1)
         dp[0] = 1
         for i in 1...chars.count {

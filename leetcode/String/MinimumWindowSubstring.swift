@@ -39,6 +39,6 @@ extension Solution {
         guard length != s_arr.count + 1 else {
             return ""
         }
-        return String(Array(s.characters)[start..<start+length])
+        return String(Array(s)[start..<start+length])
     }
 }

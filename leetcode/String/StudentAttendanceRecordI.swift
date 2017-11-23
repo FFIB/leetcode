@@ -12,7 +12,7 @@ extension Solution {
     func checkRecord(_ s: String) -> Bool {
         var lateCount = 0
         var absent = false
-        for str in s.characters {
+        for str in s {
             if str == "A" {
                 if absent {
                     return false

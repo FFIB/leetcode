@@ -14,14 +14,14 @@ extension Solution {
         var maxLength = 0
         for word in wordDict {
             dict[word] = (dict[word] ?? 0) + 1
-            maxLength = max(maxLength, word.characters.count)
+            maxLength = max(maxLength, word.count)
         }
         
         var tokenDict = [String: [String]]()
         func dfs(string: String) -> [String] {
             var ans = [String]()
             if dict[string] != nil { ans.append(string) }
-            let chars = Array(string.characters)
+            let chars = Array(string)
             for i in 0..<min(chars.count, maxLength) {
                 let prefix = String(chars.prefix(i + 1))
                 let suffix = String(chars.suffix(chars.count - i - 1))

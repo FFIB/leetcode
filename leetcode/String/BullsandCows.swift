@@ -11,8 +11,8 @@ import Foundation
 
 extension Solution  {
     func getHint(_ secret: String, _ guess: String) -> String {
-        let secretArr = Array(secret.characters)
-        let guessArr = Array(guess.characters)
+        let secretArr = Array(secret)
+        let guessArr = Array(guess)
         var cow = 0
         var bull = 0
         var s = [Character]()

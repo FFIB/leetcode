@@ -10,7 +10,7 @@ import Foundation
 
 extension Solution {
     func maximumSwap(_ num: Int) -> Int {
-        var nums = "\(num)".characters.map{String($0)}
+        var nums = "\(num)".map{String($0)}
         let sortNums = nums.sorted{$0 > $1}
         for (i, (num1, num2)) in zip(nums, sortNums).enumerated() where num1 != num2{
             var index = 0

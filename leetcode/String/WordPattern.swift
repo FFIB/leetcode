@@ -14,7 +14,7 @@ extension Solution {
         var second = ""
         var dict = [String : Int]()
         var index = 0
-        for i in pattern.characters {
+        for i in pattern {
             if dict[String(i)] == nil {
                 dict[String(i)] = index
                 first += "\(index)"
@@ -26,7 +26,7 @@ extension Solution {
         dict = [String : Int]()
         index = 0
         var separatedStr = ""
-        for i in str.characters {
+        for i in str {
             if String(i) != " "{
                 separatedStr += String(i)
             }else {

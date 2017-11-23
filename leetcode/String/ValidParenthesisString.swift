@@ -12,7 +12,7 @@ extension Solution {
     func checkValidString(_ s: String) -> Bool {
         var low = 0
         var high = 0
-        for char in s.characters {
+        for char in s {
             if char == "(" {
                 low += 1
                 high += 1

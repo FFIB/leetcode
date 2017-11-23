@@ -10,11 +10,11 @@ import Foundation
 
 extension Solution {
     func isSubsequence(_ s: String, _ t: String) -> Bool {
-        guard s.characters.count <= t.characters.count else {
+        guard s.count <= t.count else {
             return false
         }
-        var sArr = Array(s.characters)
-        let tArr = Array(t.characters)
+        var sArr = Array(s)
+        let tArr = Array(t)
         for char in tArr {
             if sArr.isEmpty {
                 return true

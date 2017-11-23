@@ -24,7 +24,7 @@ extension Solution {
         }
         var chars = Array(s.unicodeScalars.map{$0.value})
         var left = 0
-        var right = s.characters.count - 1
+        var right = s.count - 1
         while left < right {
             if chars[left] != chars[right] {
                 return isPalindrome(chars: chars[left+1...right]) || isPalindrome(chars: chars[left...right - 1])

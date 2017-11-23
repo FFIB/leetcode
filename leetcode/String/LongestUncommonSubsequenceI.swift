@@ -10,6 +10,6 @@ import Foundation
 
 extension Solution {
     func findLUSlength(_ a: String, _ b: String) -> Int {
-        return a != b ? max(a.characters.count, b.characters.count) : -1
+        return a != b ? max(a.count, b.count) : -1
     }
 }

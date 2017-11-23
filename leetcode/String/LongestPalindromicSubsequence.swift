@@ -10,8 +10,8 @@ import Foundation
 
 extension Solution {
     func longestPalindromeSubseq(_ s: String) -> Int {
-        var dp = Array(repeating: Array(repeating: 0, count: s.characters.count), count: s.characters.count)
-        let arr = Array(s.characters)
+        var dp = Array(repeating: Array(repeating: 0, count: s.count), count: s.count)
+        let arr = Array(s)
         return longestPalindromeSubseqHelper(arr, i: 0, j: arr.count - 1, dp: &dp)
     }
     func longestPalindromeSubseqHelper(_ s:[Character], i: Int, j: Int, dp: inout [[Int]]) -> Int {

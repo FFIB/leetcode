@@ -14,7 +14,7 @@ extension Solution {
         let foreParentheses = "{[("
         let backParentheses = "}])"
         let dict = ["[": "]", "{": "}", "(": ")"] as [Character: Character]
-        for i in s.characters {
+        for i in s {
             if foreParentheses.contains(String(i)) {
                 arr.append(i)
             }

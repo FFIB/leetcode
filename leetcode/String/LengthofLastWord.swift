@@ -14,6 +14,6 @@ extension Solution {
         while (arr.last?.isEmpty)! && arr.count != 1 {
             arr.remove(at: arr.count - 1)
         }
-        return (arr.last?.characters.count)!
+        return (arr.last?.count)!
     }
 }

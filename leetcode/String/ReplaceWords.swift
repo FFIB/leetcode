@@ -16,7 +16,7 @@ extension Solution {
         for word in words {
             var newWords = ""
             var index = 0
-            for char in word.characters {
+            for char in word {
                 newWords += String(char)
                 index += 1
                 if dictSet.contains(newWords) { break }

@@ -13,12 +13,12 @@ extension Solution {
         if needle.isEmpty {
             return 0
         }
-        for i in 0..<haystack.characters.count{
-            if i + needle.characters.count > haystack.characters.count {
+        for i in 0..<haystack.count{
+            if i + needle.count > haystack.count {
                 return -1
             }
             let index = haystack.index(haystack.startIndex, offsetBy: i)
-            if haystack[index] == needle.characters.first && haystack[index..<haystack.index(index, offsetBy: needle.characters.count)] == needle {
+            if haystack[index] == needle.first && haystack[index..<haystack.index(index, offsetBy: needle.count)] == needle {
                 return i
             }
         }

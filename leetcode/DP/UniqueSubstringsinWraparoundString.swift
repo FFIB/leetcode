@@ -12,7 +12,7 @@ extension Solution {
     func findSubstringInWraproundString(_ p: String) -> Int {
         var len = 0
         var alphabet = Array(repeating: 0, count: 26)
-        let chars = Array(p.characters)
+        let chars = Array(p)
         var dp = [Int]()
         for (i, char) in chars.enumerated() {
             guard let ascii = UnicodeScalar(String(char))?.value else{

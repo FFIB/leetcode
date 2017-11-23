@@ -12,10 +12,10 @@ extension Solution {
     func addBinary(_ a: String, _ b: String) -> String {
         var res = ""
         var c = 0
-        var i = a.characters.count - 1
-        var j = b.characters.count - 1
-        var arri = Array<Character>(a.characters)
-        var arrj = Array<Character>(b.characters)
+        var i = a.count - 1
+        var j = b.count - 1
+        var arri = Array<Character>(a)
+        var arrj = Array<Character>(b)
         while i >= 0 || j >= 0 || c == 1 {
             if i >= 0 {
                 c += Int(String(arri[i])) ?? 0

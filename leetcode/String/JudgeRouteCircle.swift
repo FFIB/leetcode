@@ -15,7 +15,7 @@ extension Solution {
         let L: Character = "L"
         let U: Character = "U"
         let D: Character = "D"
-        for move in moves.characters {
+        for move in moves {
             if move == L {
                 v -= 1
             }else if move == U {

@@ -11,7 +11,7 @@ import Foundation
 extension Solution {
     func originalDigits(_ s: String) -> String {
         var count = Array(repeating: 0, count: 10)
-        for s in s.characters {
+        for s in s {
             if s == "z" {count[0] += 1} //0
             if s == "w" {count[2] += 1} //2
             if s == "x" {count[6] += 1} //6

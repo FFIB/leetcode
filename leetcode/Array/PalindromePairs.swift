@@ -27,9 +27,9 @@ extension Solution {
                     states[d][i] = true
                 }
             }
-            palin = findPalinMatch(word: String(word.characters.reversed()))
+            palin = findPalinMatch(word: String(word.reversed()))
             for str in palin {
-                let rstr = String(str.characters.reversed())
+                let rstr = String(str.reversed())
                 if let d = dict[rstr], !states[i][d] {
                     ans.append([i, d])
                     states[i][d] = true
@@ -39,7 +39,7 @@ extension Solution {
         return ans
     }
     fileprivate func findPalinMatch(word: String) -> [String]{
-        let chars = Array((word + "#" + String(word.characters.reversed())).characters)
+        let chars = Array((word + "#" + String(word.reversed())))
         var p = Array(repeating: 0, count: chars.count)
         for i in 1..<chars.count{
             var j = p[i - 1]
@@ -49,10 +49,10 @@ extension Solution {
         var res = [String]()
         var i = p.last!
         while i > 0 {
-            res.append(String(chars[chars.count - word.characters.count..<chars.count - i]))
+            res.append(String(chars[chars.count - word.count..<chars.count - i]))
             i = p[i - 1]
         }
-        res.append(String(chars[chars.count - word.characters.count..<chars.count]))
+        res.append(String(chars[chars.count - word.count..<chars.count]))
         return res
     }
 }

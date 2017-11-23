@@ -10,10 +10,10 @@ import Foundation
 
 extension Solution {
     func repeatedSubstringPattern(_ s: String) -> Bool {
-        if s.characters.count < 2{
+        if s.count < 2{
             return false
         }
-        let str = s.substring(with: s.index(after: s.startIndex)..<s.endIndex) + s.substring(with: s.startIndex..<s.index(before: s.endIndex))
+        let str = s[s.startIndex..<s.endIndex] + s[s.index(after: s.startIndex)..<s.index(before: s.endIndex)]
         return str.contains(s)
     }
 }

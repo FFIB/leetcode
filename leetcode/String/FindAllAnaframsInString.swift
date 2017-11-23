@@ -10,7 +10,7 @@ import Foundation
 
 extension Solution {
     func findAnagrams(_ s: String, _ p: String) -> [Int] {
-        let windowSize = p.characters.count
+        let windowSize = p.count
         guard windowSize > 0 else {
             return [Int]()
         }

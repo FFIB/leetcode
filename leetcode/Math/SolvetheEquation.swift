@@ -15,7 +15,7 @@ extension Solution {
             var x = 0
             var sign = 1
             var num = ""
-            let equationArr = Array((eq+"#").characters.map{String($0)})
+            let equationArr = Array((eq+"#").map{String($0)})
             
             for element in equationArr {
                 let e = Int(element) ?? -1

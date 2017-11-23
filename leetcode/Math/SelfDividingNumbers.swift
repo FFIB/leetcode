@@ -16,7 +16,7 @@ extension Solution {
         }
         ans.removeSubrange(Range(NSRange(location: 0, length: min(10, left)))!)
         for num in max(11, left)...right {
-            let divide = Array("\(num)".characters)
+            let divide = Array("\(num)")
             var isSelfDividing = true
             for n in divide {
                 if n == "0" || num % Int(String(n))! != 0 {

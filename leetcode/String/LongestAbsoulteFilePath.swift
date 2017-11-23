@@ -14,11 +14,11 @@ extension Solution {
         var pathLength = [Int: Int]()
         for filepath in input.components(separatedBy: "\n") {
             let path = filepath.replacingOccurrences(of: "\t", with: "")
-            let depth = filepath.characters.count - path.characters.count
+            let depth = filepath.count - path.count
             if path.range(of: ".") != nil {
-                res = max(res, (pathLength[depth] ?? 0) + path.characters.count)
+                res = max(res, (pathLength[depth] ?? 0) + path.count)
             }else {
-                pathLength[depth + 1] = (pathLength[depth] ?? 0) + path.characters.count + 1
+                pathLength[depth + 1] = (pathLength[depth] ?? 0) + path.count + 1
             }
         }
         return res
