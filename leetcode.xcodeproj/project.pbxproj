@@ -66,6 +66,7 @@
 		05B5555E1F6A1A4C00A84910 /* TrappingRainWater.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05B5555D1F6A1A4C00A84910 /* TrappingRainWater.swift */; };
 		05B878701F8FC0540019323F /* TopKFrequentWords.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05B8786F1F8FC0540019323F /* TopKFrequentWords.swift */; };
 		05B878721F905E4A0019323F /* MedianofTwoSortedArrays.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05B878711F905E4A0019323F /* MedianofTwoSortedArrays.swift */; };
+		05BF675E1FCAAF3400A48CB5 /* DecodeString.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05BF675D1FCAAF3400A48CB5 /* DecodeString.swift */; };
 		05D7902C1FC0803400469AD1 /* StringCompression.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05D7902B1FC0803400469AD1 /* StringCompression.swift */; };
 		05D7902E1FC2755100469AD1 /* SelfDividingNumbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05D7902D1FC2755100469AD1 /* SelfDividingNumbers.swift */; };
 		05D790901FC3BE1B00469AD1 /* TaskScheduler.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05D7908F1FC3BE1B00469AD1 /* TaskScheduler.swift */; };
@@ -370,6 +371,7 @@
 		05B5555D1F6A1A4C00A84910 /* TrappingRainWater.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TrappingRainWater.swift; sourceTree = "<group>"; };
 		05B8786F1F8FC0540019323F /* TopKFrequentWords.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TopKFrequentWords.swift; sourceTree = "<group>"; };
 		05B878711F905E4A0019323F /* MedianofTwoSortedArrays.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MedianofTwoSortedArrays.swift; sourceTree = "<group>"; };
+		05BF675D1FCAAF3400A48CB5 /* DecodeString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DecodeString.swift; sourceTree = "<group>"; };
 		05D7902B1FC0803400469AD1 /* StringCompression.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StringCompression.swift; sourceTree = "<group>"; };
 		05D7902D1FC2755100469AD1 /* SelfDividingNumbers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SelfDividingNumbers.swift; sourceTree = "<group>"; };
 		05D7908F1FC3BE1B00469AD1 /* TaskScheduler.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaskScheduler.swift; sourceTree = "<group>"; };
@@ -642,6 +644,7 @@
 			isa = PBXGroup;
 			children = (
 				054751711F9EE01A0091FFDF /* ExclusiveTimeofFunctions.swift */,
+				05BF675D1FCAAF3400A48CB5 /* DecodeString.swift */,
 			);
 			path = Stack;
 			sourceTree = "<group>";
@@ -1135,6 +1138,7 @@
 				05D7902E1FC2755100469AD1 /* SelfDividingNumbers.swift in Sources */,
 				42880C9C1EFA0D3300869089 /* HouseRobber.swift in Sources */,
 				051091FF1F5E40E200BB392B /* PartitionEqualSubsetSum.swift in Sources */,
+				05BF675E1FCAAF3400A48CB5 /* DecodeString.swift in Sources */,
 				42880CFA1EFA146100869089 /* ExcelSheetColumnNumber.swift in Sources */,
 				42880CA61EFA0E1300869089 /* RomantoInteger.swift in Sources */,
 				42880CCE1EFA111200869089 /* KeyboardRow.swift in Sources */,
