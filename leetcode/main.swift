@@ -39,6 +39,6 @@ public class TreeNode {
     
 }
 
-debugPrint(Solution().maxCoins([3, 1, 5, 8]))
+debugPrint(Solution().decodeString(""))
 
 
