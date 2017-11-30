@@ -14,7 +14,6 @@
 643	|[Maximum Average Subarray I](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/MaximumAverageSubarrayI.swift) |Easy	|
 624	|[Maximum Distance in Arrays](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/MaximumDistanceInArrays.swift) |Easy|
 88	|[Merge Sorted Array](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/MergeSortedArray.swift)    |Easy|
-539	|[Minimum Time Difference](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/MinimumTimeDifference.swift) |Medium|
 283	|[Move Zeroes](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/MoveZeroes.swift) |Easy|
 238	|[Product of Array Except Self](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/ProductofArrayExceptSelf.swift)   |Medium|
 26	|[Remove Duplicates from Sorted Array](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/RemoveDuplicatesfromSortedArray.swift) |Easy|
@@ -44,6 +43,36 @@
 16	|[3Sum Closest](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/ThreeSumClosest.swift) |Medium|
 
 
+# String   
+
+\#        | Title                       | Difficulty     |
+--------------------|-------------------|-----------------------|
+165	|[Compare Version Numbers](https://github.com/FFIB/leetcode/blob/master/leetcode/String/CompareVersionNumbers.swift) |Medium|
+520	|[Detect Capital](https://github.com/FFIB/leetcode/blob/master/leetcode/String/DetectCapital.swift) |Easy|
+28	|[Implement strStr()](https://github.com/FFIB/leetcode/blob/master/leetcode/String/ImplementstrStr.swift) |Easy|
+58	|[Length of Last Word](https://github.com/FFIB/leetcode/blob/master/leetcode/String/LengthofLastWord.swift) |Easy|
+521	|[Longest Uncommon Subsequence I](https://github.com/FFIB/leetcode/blob/master/leetcode/String/LongestUncommonSubsequenceI.swift) |Easy|
+434	|[Number of Segments in a String](https://github.com/FFIB/leetcode/blob/master/leetcode/String/NumberofSegmentsinString.swift) |Easy|	
+567	|[Permutation in String](https://github.com/FFIB/leetcode/blob/master/leetcode/String/PermutationinString.swift) |Medium|
+383	|[Ransom Note](https://github.com/FFIB/leetcode/blob/master/leetcode/String/RansomNote.swift) |Easy|
+459	|[Repeated Substring Pattern](https://github.com/FFIB/leetcode/blob/master/leetcode/String/RepeatedSubstringPattern.swift) |Easy|541	|[Reverse String II](https://github.com/FFIB/leetcode/blob/master/leetcode/String/ReverseStringII.swift) |Easy|
+345	|[Reverse Vowels of a String](https://github.com/FFIB/leetcode/blob/master/leetcode/String/ReverseVowelsofString.swift) |Easy|
+557	|[Reverse Words in a String III](https://github.com/FFIB/leetcode/blob/master/leetcode/String/ReverseWordsinStringIII.swift) |Easy|	
+551	|[Student Attendance Record I](https://github.com/FFIB/leetcode/blob/master/leetcode/String/StudentAttendanceRecordI.swift) |Easy|
+125	|[Valid Palindrome](https://github.com/FFIB/leetcode/blob/master/leetcode/String/ValidPalindrome.swift) |Easy|
+6	  |[ZigZag Conversion](https://github.com/FFIB/leetcode/blob/master/leetcode/String/ZigZagConversion.swift) |Medium|
+468 |[Validate IP Address](https://github.com/FFIB/leetcode/blob/master/leetcode/String/VaildateIPAdress.swift) |Medium|
+657 |[Judge Route Circle](https://github.com/FFIB/leetcode/blob/master/leetcode/String/JudgeRouteCircle.swift)|Easy|
+680 |[Valid Palindrome II](https://github.com/FFIB/leetcode/blob/master/leetcode/String/ValidPalindromeII.swift) |Easy|
+678 |[Valid Parenthesis String](https://github.com/FFIB/leetcode/blob/master/leetcode/String/ValidParenthesisString.swift) |Medium|
+670 |[Maximum Swap](https://github.com/FFIB/leetcode/blob/master/leetcode/Math/MaximumSwap.swift) |Medium|
+443 |[String Compression](https://github.com/FFIB/leetcode/blob/master/leetcode/String/StringCompression.swift) |Easy|
+14	|[Longest Common Prefix](https://github.com/FFIB/leetcode/blob/master/leetcode/String/LongestCommonPrefix.swift)   |Easy|
+696 |[Count Binary Substrings](https://github.com/FFIB/leetcode/blob/master/leetcode/String/CountBinarySubstrings.swift) |Easy|
+38	|[Count and Say](https://github.com/FFIB/leetcode/blob/master/leetcode/String/CountAndSay.swift) |Easy|
+539	|[Minimum Time Difference](https://github.com/FFIB/leetcode/blob/master/leetcode/String/MinimumTimeDifference.swift) |Medium|
+
+
 # List   
 \#        | Title                       | Difficulty     |
 --------------------|-------------------|-----------------------|
@@ -60,6 +89,44 @@
 61	|[Rotate List](https://github.com/FFIB/leetcode/blob/master/leetcode/Linked%20List/RotateList.swift) |Medium|
 24	|[Swap Nodes in Pairs](https://github.com/FFIB/leetcode/blob/master/leetcode/Linked%20List/SwapNodesinPairs.swift) |Medium|
 86  |[Partition List](https://github.com/FFIB/leetcode/blob/master/leetcode/Linked%20List/PartitionList.swift) |Medium|
+
+# Tree   
+
+\#        | Title                       | Difficulty     |
+--------------------|-------------------|-----------------------|
+563	|[Binary Tree Tilt](https://github.com/FFIB/leetcode/blob/master/leetcode/Tree/BinaryTreeTilt.swift) |Easy|
+538	|[Convert BST to Greater Tree](https://github.com/FFIB/leetcode/blob/master/leetcode/Tree/ConvertBSTtoGreaterTree.swift) |Easy|
+543	|[Diameter of Binary Tree](https://github.com/FFIB/leetcode/blob/master/leetcode/Tree/DiameterofBinaryTree.swift) |Easy|
+501	|[Find Mode in Binary Search Tree](https://github.com/FFIB/leetcode/blob/master/leetcode/Tree/FindModeinBinarySearchTree.swift) |Easy|
+226	|[Invert Binary Tree](https://github.com/FFIB/leetcode/blob/master/leetcode/Tree/InvertBinaryTree.swift) |Easy|
+617	|[Merge Two Binary Trees](https://github.com/FFIB/leetcode/blob/master/leetcode/Tree/MergeTwoBinaryTrees.swift) |Easy|
+437	|[Path Sum III](https://github.com/FFIB/leetcode/blob/master/leetcode/Tree/PathSumIII.swift) |Easy|
+572	|[Subtree of Another Tree](https://github.com/FFIB/leetcode/blob/master/leetcode/Tree/SubtreeofAnotherTree.swift) |Easy|
+530	 |[Minimum Absolute Difference in BST](https://github.com/FFIB/leetcode/blob/master/leetcode/Tree/MinimumAbsoluteDifferenceinBST.swift) |Easy|
+404	|[Sum of Left Leaves](https://github.com/FFIB/leetcode/blob/master/leetcode/Tree/SumofLeftLeaves.swift) |Easy|
+  
+  
+# Stack   
+
+\#        | Title                       | Difficulty     |
+--------------------|-------------------|-----------------------|
+636 |[Exclusive Time of Functions](https://github.com/FFIB/leetcode/blob/master/leetcode/Stack/ExclusiveTimeofFunctions.swift) |Medium|
+735 |[Asteroid Collision](https://github.com/FFIB/leetcode/blob/master/leetcode/Stack/AsteroidCollision.swift) |Medium|
+682 |[Baseball Game](https://github.com/FFIB/leetcode/blob/master/leetcode/Stack/BaseballGame.swift) |Easy|
+224 |[Basic Calculator](https://github.com/FFIB/leetcode/blob/master/leetcode/Stack/BasicCalculator.swift) |Hard|
+150 |[Evaluate Reverse Polish Notation](https://github.com/FFIB/leetcode/blob/master/leetcode/Stack/EvaluateReversePolishNotation.swift) |Medium|
+496	|[Next Greater Element I](https://github.com/FFIB/leetcode/blob/master/leetcode/Stack/NextGreaterElementI.swift) |Easy|
+503	|[Next Greater Element II](https://github.com/FFIB/leetcode/blob/master/leetcode/Stack/NextGreaterElementII.swift)  |Medium|
+71  |[Simplify Path](https://github.com/FFIB/leetcode/blob/master/leetcode/Stack/SimplifyPath.swift) |Medium|
+42  |[Trapping Rain Water](https://github.com/FFIB/leetcode/blob/master/leetcode/Stack/TrappingRainWater.swift) |Hard|
+20	|[Valid Parentheses](https://github.com/FFIB/leetcode/blob/master/leetcode/Stack/ValidParentheses.swift) |Easy|
+
+
+# Queue
+
+\#        | Title                       | Difficulty     |
+--------------------|-------------------|-----------------------|
+621 |[Task Scheduler](https://github.com/FFIB/leetcode/blob/master/leetcode/Queue/TaskScheduler.swift) |Medium|
 
 
 # Math   
@@ -106,35 +173,6 @@
 8	|[String to Integer (atoi)](https://github.com/FFIB/leetcode/blob/master/leetcode/Math/StringtoInteger_atoi.swift) |Medium|
 
 
-# String   
-
-\#        | Title                       | Difficulty     |
---------------------|-------------------|-----------------------|
-165	|[Compare Version Numbers](https://github.com/FFIB/leetcode/blob/master/leetcode/String/CompareVersionNumbers.swift) |Medium|
-520	|[Detect Capital](https://github.com/FFIB/leetcode/blob/master/leetcode/String/DetectCapital.swift) |Easy|
-28	|[Implement strStr()](https://github.com/FFIB/leetcode/blob/master/leetcode/String/ImplementstrStr.swift) |Easy|
-58	|[Length of Last Word](https://github.com/FFIB/leetcode/blob/master/leetcode/String/LengthofLastWord.swift) |Easy|
-521	|[Longest Uncommon Subsequence I](https://github.com/FFIB/leetcode/blob/master/leetcode/String/LongestUncommonSubsequenceI.swift) |Easy|
-434	|[Number of Segments in a String](https://github.com/FFIB/leetcode/blob/master/leetcode/String/NumberofSegmentsinString.swift) |Easy|	
-567	|[Permutation in String](https://github.com/FFIB/leetcode/blob/master/leetcode/String/PermutationinString.swift) |Medium|
-383	|[Ransom Note](https://github.com/FFIB/leetcode/blob/master/leetcode/String/RansomNote.swift) |Easy|
-459	|[Repeated Substring Pattern](https://github.com/FFIB/leetcode/blob/master/leetcode/String/RepeatedSubstringPattern.swift) |Easy|541	|[Reverse String II](https://github.com/FFIB/leetcode/blob/master/leetcode/String/ReverseStringII.swift) |Easy|
-345	|[Reverse Vowels of a String](https://github.com/FFIB/leetcode/blob/master/leetcode/String/ReverseVowelsofString.swift) |Easy|
-557	|[Reverse Words in a String III](https://github.com/FFIB/leetcode/blob/master/leetcode/String/ReverseWordsinStringIII.swift) |Easy|	
-551	|[Student Attendance Record I](https://github.com/FFIB/leetcode/blob/master/leetcode/String/StudentAttendanceRecordI.swift) |Easy|
-125	|[Valid Palindrome](https://github.com/FFIB/leetcode/blob/master/leetcode/String/ValidPalindrome.swift) |Easy|
-6	  |[ZigZag Conversion](https://github.com/FFIB/leetcode/blob/master/leetcode/String/ZigZagConversion.swift) |Medium|
-468 |[Validate IP Address](https://github.com/FFIB/leetcode/blob/master/leetcode/String/VaildateIPAdress.swift) |Medium|
-657 |[Judge Route Circle](https://github.com/FFIB/leetcode/blob/master/leetcode/String/JudgeRouteCircle.swift)|Easy|
-680 |[Valid Palindrome II](https://github.com/FFIB/leetcode/blob/master/leetcode/String/ValidPalindromeII.swift) |Easy|
-678 |[Valid Parenthesis String](https://github.com/FFIB/leetcode/blob/master/leetcode/String/ValidParenthesisString.swift) |Medium|
-670 |[Maximum Swap](https://github.com/FFIB/leetcode/blob/master/leetcode/Math/MaximumSwap.swift) |Medium|
-443 |[String Compression](https://github.com/FFIB/leetcode/blob/master/leetcode/String/StringCompression.swift) |Easy|
-14	|[Longest Common Prefix](https://github.com/FFIB/leetcode/blob/master/leetcode/String/LongestCommonPrefix.swift)   |Easy|
-696 |[Count Binary Substrings](https://github.com/FFIB/leetcode/blob/master/leetcode/String/CountBinarySubstrings.swift) |Easy|
-38	|[Count and Say](https://github.com/FFIB/leetcode/blob/master/leetcode/String/CountAndSay.swift) |Easy|
-
-
 # Sort   
 
 \#        | Title                       | Difficulty     |
@@ -147,37 +185,6 @@
 215	|[Kth Largest Element in an Array](https://github.com/FFIB/leetcode/blob/master/leetcode/Sort/KthLargestElementinanArray.swift)  |Medium|
 524	|[Longest Word in Dictionary through Deleting](https://github.com/FFIB/leetcode/blob/master/leetcode/Sort/LongestWordinDictionarythroughDeleting.swift) |Medium|
 56  |[Merge Intervals](https://github.com/FFIB/leetcode/blob/master/leetcode/Sort/MergeIntervals.swift) |Medium|
-
-
-# Tree   
-
-\#        | Title                       | Difficulty     |
---------------------|-------------------|-----------------------|
-563	|[Binary Tree Tilt](https://github.com/FFIB/leetcode/blob/master/leetcode/Tree/BinaryTreeTilt.swift) |Easy|
-538	|[Convert BST to Greater Tree](https://github.com/FFIB/leetcode/blob/master/leetcode/Tree/ConvertBSTtoGreaterTree.swift) |Easy|
-543	|[Diameter of Binary Tree](https://github.com/FFIB/leetcode/blob/master/leetcode/Tree/DiameterofBinaryTree.swift) |Easy|
-501	|[Find Mode in Binary Search Tree](https://github.com/FFIB/leetcode/blob/master/leetcode/Tree/FindModeinBinarySearchTree.swift) |Easy|
-226	|[Invert Binary Tree](https://github.com/FFIB/leetcode/blob/master/leetcode/Tree/InvertBinaryTree.swift) |Easy|
-617	|[Merge Two Binary Trees](https://github.com/FFIB/leetcode/blob/master/leetcode/Tree/MergeTwoBinaryTrees.swift) |Easy|
-437	|[Path Sum III](https://github.com/FFIB/leetcode/blob/master/leetcode/Tree/PathSumIII.swift) |Easy|
-572	|[Subtree of Another Tree](https://github.com/FFIB/leetcode/blob/master/leetcode/Tree/SubtreeofAnotherTree.swift) |Easy|
-530	 |[Minimum Absolute Difference in BST](https://github.com/FFIB/leetcode/blob/master/leetcode/Tree/MinimumAbsoluteDifferenceinBST.swift) |Easy|
-404	|[Sum of Left Leaves](https://github.com/FFIB/leetcode/blob/master/leetcode/Tree/SumofLeftLeaves.swift) |Easy|
-  
-# Stack   
-
-\#        | Title                       | Difficulty     |
---------------------|-------------------|-----------------------|
-636 |[Exclusive Time of Functions](https://github.com/FFIB/leetcode/blob/master/leetcode/Stack/ExclusiveTimeofFunctions.swift) |Medium|
-735 |[Asteroid Collision](https://github.com/FFIB/leetcode/blob/master/leetcode/Stack/AsteroidCollision.swift) |Medium|
-682 |[Baseball Game](https://github.com/FFIB/leetcode/blob/master/leetcode/Stack/BaseballGame.swift) |Easy|
-224 |[Basic Calculator](https://github.com/FFIB/leetcode/blob/master/leetcode/Stack/BasicCalculator.swift) |Hard|
-150 |[Evaluate Reverse Polish Notation](https://github.com/FFIB/leetcode/blob/master/leetcode/Stack/EvaluateReversePolishNotation.swift) |Medium|
-496	|[Next Greater Element I](https://github.com/FFIB/leetcode/blob/master/leetcode/Stack/NextGreaterElementI.swift) |Easy|
-503	|[Next Greater Element II](https://github.com/FFIB/leetcode/blob/master/leetcode/Stack/NextGreaterElementII.swift)  |Medium|
-71  |[Simplify Path](https://github.com/FFIB/leetcode/blob/master/leetcode/Stack/SimplifyPath.swift) |Medium|
-42  |[Trapping Rain Water](https://github.com/FFIB/leetcode/blob/master/leetcode/Stack/TrappingRainWater.swift) |Hard|
-20	|[Valid Parentheses](https://github.com/FFIB/leetcode/blob/master/leetcode/Stack/ValidParentheses.swift) |Easy|
 
 
 # DP
@@ -217,12 +224,6 @@
 120 |[Triangle](https://github.com/FFIB/leetcode/blob/master/leetcode/DP/Triangle.swift) |Medium|
 264	|[Ugly Number II](https://github.com/FFIB/leetcode/blob/master/leetcode/DP/UglyNumberII.swift) |Medium|
 
-
-# Queue
-
-\#        | Title                       | Difficulty     |
---------------------|-------------------|-----------------------|
-621 |[Task Scheduler](https://github.com/FFIB/leetcode/blob/master/leetcode/Queue/TaskScheduler.swift) |Medium|
 
 # BFS   
 
