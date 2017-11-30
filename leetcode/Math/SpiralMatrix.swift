@@ -2,12 +2,26 @@
 //  SpiralMatrix.swift
 //  leetcode
 //
-//  Created by LISA on 2017/6/20.
+//  Created by FFIB on 2017/6/20.
 //  Copyright © 2017年 FFIB. All rights reserved.
 //
 
 import Foundation
 
+//54. Spiral Matrix
+/*
+ Given a matrix of m x n elements (m rows, n columns), return all elements of the matrix in spiral order.
+ 
+ For example,
+ Given the following matrix:
+ 
+ [
+ [ 1, 2, 3 ],
+ [ 4, 5, 6 ],
+ [ 7, 8, 9 ]
+ ]
+ You should return [1,2,3,6,9,8,7,4,5].
+ */
 extension Solution{
     func spiralOrder(_ matrix: [[Int]]) -> [Int] {
         if matrix.isEmpty {

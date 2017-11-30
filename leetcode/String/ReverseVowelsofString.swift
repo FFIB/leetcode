@@ -2,12 +2,25 @@
 //  ReverseVowelsofString.swift
 //  leetcode
 //
-//  Created by LISA on 2017/6/20.
+//  Created by FFIB on 2017/6/20.
 //  Copyright © 2017年 FFIB. All rights reserved.
 //
 
 import Foundation
 
+//345. Reverse Vowels of a String
+/*
+ Write a function that takes a string as input and reverse only the vowels of a string.
+ 
+ Example 1:
+ Given s = "hello", return "holle".
+ 
+ Example 2:
+ Given s = "leetcode", return "leotcede".
+ 
+ Note:
+ The vowels does not include the letter "y".
+ */
 extension Solution {
     func reverseVowels(_ s: String) -> String {
         guard !s.isEmpty else{

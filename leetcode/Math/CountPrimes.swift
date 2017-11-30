@@ -2,13 +2,22 @@
 //  CountPrimes.swift
 //  leetcode
 //
-//  Created by LISA on 2017/6/20.
+//  Created by FFIB on 2017/6/20.
 //  Copyright © 2017年 FFIB. All rights reserved.
 //
 
 import Foundation
 
-class CountPrimes {
+//204. Count Primes
+/*
+ Description:
+ 
+ Count the number of prime numbers less than a non-negative number, n.
+ 
+ Credits:
+ Special thanks to @mithmatt for adding this problem and creating all test cases.
+ */
+extension Solution {
     func countPrimes(_ n: Int) -> Int {
         if n < 2 {return 0}
         

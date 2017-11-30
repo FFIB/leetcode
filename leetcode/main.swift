@@ -2,7 +2,7 @@
 //  main.swift
 //  leetcode
 //
-//  Created by LISA on 2017/6/20.
+//  Created by FFIB on 2017/6/20.
 //  Copyright © 2017年 FFIB. All rights reserved.
 //
 
@@ -10,7 +10,14 @@ import Foundation
 
 class Solution { }
 
-
+public class ListNode {
+    public var val: Int
+    public var next: ListNode?
+    public init(_ val: Int) {
+        self.val = val
+        self.next = nil
+    }
+}
 
 public class Interval {
     public var start: Int
@@ -39,6 +46,6 @@ public class TreeNode {
     
 }
 
-debugPrint(Solution().decodeString(""))
+debugPrint(Solution().findMinArrowShots([[10,16], [2,8], [1,6], [7,12]]))
 
 

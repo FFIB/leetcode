@@ -2,12 +2,22 @@
 //  RemoveDuplicatesfromSortedArrayII.swift
 //  leetcode
 //
-//  Created by LISA on 2017/6/20.
+//  Created by FFIB on 2017/6/20.
 //  Copyright © 2017年 FFIB. All rights reserved.
 //
 
 import Foundation
 
+//80. Remove Duplicates from Sorted Array II
+/*
+ Follow up for "Remove Duplicates":
+ What if duplicates are allowed at most twice?
+ 
+ For example,
+ Given sorted array nums = [1,1,1,2,2,3],
+ 
+ Your function should return length = 5, with the first five elements of nums being 1, 1, 2, 2 and 3. It doesn't matter what you leave beyond the new length.
+ */
 extension Solution {
     func removeDuplicatesII(_ nums: inout [Int]) -> Int {
         if nums.isEmpty {

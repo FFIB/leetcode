@@ -2,12 +2,14 @@
 //  ArrayNesting.swift
 //  leetcode
 //
-//  Created by LISA on 2017/6/20.
+//  Created by FFIB on 2017/6/20.
 //  Copyright © 2017年 FFIB. All rights reserved.
 //
 
 import Foundation
 
+//565 Array Nesting
+//MARK: dimiss
 extension Solution {
     func arrayNesting(_ nums: [Int]) -> Int {
         var res = 0

@@ -2,12 +2,25 @@
 //  RansomNote.swift
 //  leetcode
 //
-//  Created by LISA on 2017/6/21.
+//  Created by FFIB on 2017/6/21.
 //  Copyright © 2017年 FFIB. All rights reserved.
 //
 
 import Foundation
 
+//383. Ransom Note
+/*
+ Given an arbitrary ransom note string and another string containing letters from all the magazines, write a function that will return true if the ransom note can be constructed from the magazines ; otherwise, it will return false.
+ 
+ Each letter in the magazine string can only be used once in your ransom note.
+ 
+ Note:
+ You may assume that both strings contain only lowercase letters.
+ 
+ canConstruct("a", "b") -> false
+ canConstruct("aa", "ab") -> false
+ canConstruct("aa", "aab") -> true
+ */
 extension Solution {
     func canConstruct(_ ransomNote: String, _ magazine: String) -> Bool {
         if magazine.contains(ransomNote) {
