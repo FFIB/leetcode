@@ -10,27 +10,19 @@
 448	|[Find All Numbers Disappeared in an Array](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/FindAllNumbersDisappearedInArray.swift) |  Easy|
 532	|[K-diff Pairs in an Array](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/K-diffPairsinanArray.swift)  |Easy	|
 500	|[Keyboard Row](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/KeyboardRow.swift)  |Easy|
-14	|[Longest Common Prefix](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/LongestCommonPrefix.swift)   |Easy|
 485	|[Max Consecutive Ones](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/MaxConsecutiveOnes.swift) |Easy|
 643	|[Maximum Average Subarray I](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/MaximumAverageSubarrayI.swift) |Easy	|
 624	|[Maximum Distance in Arrays](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/MaximumDistanceInArrays.swift) |Easy|
-628	|[Maximum Product of Three Numbers](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/MaximumProductofThreeNumbers.swift)  |Easy|
 88	|[Merge Sorted Array](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/MergeSortedArray.swift)    |Easy|
-453|[Minimum Moves to Equal Array Elements](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/MinimumMovestoEqualArrayElements.swift) |Easy|
-462	|[Minimum Moves to Equal Array Elements II](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/MinimumMovestoEqualArrayElementsII.swift)  |Medium|
 539	|[Minimum Time Difference](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/MinimumTimeDifference.swift) |Medium|
 283	|[Move Zeroes](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/MoveZeroes.swift) |Easy|
-66	|[Plus One](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/PlusOne.swift)  |Easy|
 238	|[Product of Array Except Self](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/ProductofArrayExceptSelf.swift)   |Medium|
-598|[Range Addition II](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/RangeAdditionII.swift) |Easy|
 26	|[Remove Duplicates from Sorted Array](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/RemoveDuplicatesfromSortedArray.swift) |Easy|
 80	|[Remove Duplicates from Sorted Array II](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/RemoveDuplicatesfromSortedArrayII.swift)   |Medium|
 27 |[Remove Element](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/RemoveElement.swift) |Easy|
 566	|[Reshape the Matrix](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/ReshapetheMatrix.swift) |Easy|
 189	|[Rotate Array](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/RotateArray.swift) |Easy|
 48	|[Rotate Image](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/RotateImage.swift) |Medium|
-35	|[Search Insert Position](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/SearchInsertPosition.swift) |Easy|
-34	|[Search for a Range](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/SearchforRange.swift)|Medium|
 581	|[Shortest Unsorted Continuous Subarray](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/ShortestUnsortedContinuousSubarray.swift) |Easy|
 228	|[Summary Ranges](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/SummaryRanges.swift) |Medium|
 495	|[Teemo Attacking](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/TeemoAttacking.swift) |Medium|
@@ -43,49 +35,46 @@
 665 |[Non-decreasing Array](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/Non-decreasingArray.swift) |Easy|
 674 |[Longest Continuous Increasing Subsequence](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/LongestContinuousIncreasingSubsequence.swift) |Easy|
 661 |[Image Smoother](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/ImageSmoother.swift) |Easy|
-4   |[Median of Two Sorted Arrays](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/MedianofTwoSortedArrays.swift) |Hard|
 697 |[Degree of an Array](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/DegreeofanArray.swift) |Easy|
-696 |[Count Binary Substrings](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/CountBinarySubstrings.swift) |Easy|
 724 |[Find Pivot Index](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/FindPivotIndex.swift) |Medium|
 717	|[1-bit and 2-bit Characters](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/1-bitand2-bitCharacters.swift) |Medium|
 713 |[Subarray Product Less Than K](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/SubarrayProductLessThanK.swift) |Medium|
+118	|[Pascal's Triangle](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/Pascal'sTriangle.swift) |Easy|
+119	|[Pascal's Triangle II](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/Pascal'sTriangleII.swift) |Easy|
+16	|[3Sum Closest](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/ThreeSumClosest.swift) |Medium|
+
 
 # List   
 \#        | Title                       | Difficulty     |
 --------------------|-------------------|-----------------------|
-2	|[Add Two Numbers](https://github.com/FFIB/leetcode/blob/master/leetcode/List/AddTwoNumberI.swift) |Medium	|
-445	|[Add Two Numbers II](https://github.com/FFIB/leetcode/blob/master/leetcode/List/AddTwoNumbersII.swift) |Medium|
-21	|[Merge Two Sorted Lists](https://github.com/FFIB/leetcode/blob/master/leetcode/List/MergeTwoSortedLists.swift) |Easy|
-328	|[Odd Even Linked List](https://github.com/FFIB/leetcode/blob/master/leetcode/List/OddEvenLinkedList.swift) |Medium|
-234	|[Palindrome Linked List](https://github.com/FFIB/leetcode/blob/master/leetcode/List/PalindromeLinkedList.swift) |Easy|
-83	|[Remove Duplicates from Sorted List](https://github.com/FFIB/leetcode/blob/master/leetcode/List/RemoveDuplicatesfromSortedList.swift) |Easy|
-203	|[Remove Linked List Elements](https://github.com/FFIB/leetcode/blob/master/leetcode/List/RemoveLinkedListElements.swift) |Easy|
-19	|[Remove Nth Node From End of List](https://github.com/FFIB/leetcode/blob/master/leetcode/List/RemoveNthNodeFromEndofList.swift) |Medium|
-143	|[Reorder List](https://github.com/FFIB/leetcode/blob/master/leetcode/List/ReorderList.swift) |Medium	|
-206	|[Reverse Linked List](https://github.com/FFIB/leetcode/blob/master/leetcode/List/ReverseLinkedList.swift) |Easy|
-61	|[Rotate List](https://github.com/FFIB/leetcode/blob/master/leetcode/List/RotateList.swift) |Medium|
-24	|[Swap Nodes in Pairs](https://github.com/FFIB/leetcode/blob/master/leetcode/List/SwapNodesinPairs.swift) |Medium|
-86  |[Partition List](https://github.com/FFIB/leetcode/blob/master/leetcode/List/PartitionList.swift) |Medium|
+2	|[Add Two Numbers](https://github.com/FFIB/leetcode/blob/master/leetcode/Linked%20List/AddTwoNumberI.swift) |Medium	|
+445	|[Add Two Numbers II](https://github.com/FFIB/leetcode/blob/master/leetcode/Linked%20List/AddTwoNumbersII.swift) |Medium|
+21	|[Merge Two Sorted Lists](https://github.com/FFIB/leetcode/blob/master/leetcode/Linked%20List/MergeTwoSortedLists.swift) |Easy|
+328	|[Odd Even Linked List](https://github.com/FFIB/leetcode/blob/master/leetcode/Linked%20List/OddEvenLinkedList.swift) |Medium|
+234	|[Palindrome Linked List](https://github.com/FFIB/leetcode/blob/master/leetcode/Linked%20List/PalindromeLinkedList.swift) |Easy|
+83	|[Remove Duplicates from Sorted List](https://github.com/FFIB/leetcode/blob/master/leetcode/Linked%20List/RemoveDuplicatesfromSortedList.swift) |Easy|
+203	|[Remove Linked List Elements](https://github.com/FFIB/leetcode/blob/master/leetcode/Linked%20List/RemoveLinkedListElements.swift) |Easy|
+19	|[Remove Nth Node From End of List](https://github.com/FFIB/leetcode/blob/master/leetcode/Linked%20List/RemoveNthNodeFromEndofList.swift) |Medium|
+143	|[Reorder List](https://github.com/FFIB/leetcode/blob/master/leetcode/Linked%20List/ReorderList.swift) |Medium	|
+206	|[Reverse Linked List](https://github.com/FFIB/leetcode/blob/master/leetcode/Linked%20List/ReverseLinkedList.swift) |Easy|
+61	|[Rotate List](https://github.com/FFIB/leetcode/blob/master/leetcode/Linked%20List/RotateList.swift) |Medium|
+24	|[Swap Nodes in Pairs](https://github.com/FFIB/leetcode/blob/master/leetcode/Linked%20List/SwapNodesinPairs.swift) |Medium|
+86  |[Partition List](https://github.com/FFIB/leetcode/blob/master/leetcode/Linked%20List/PartitionList.swift) |Medium|
 
 
 # Math   
 
 \#        | Title                       | Difficulty     |
 --------------------|-------------------|-----------------------|
-367	|[Valid Perfect Square](https://github.com/FFIB/leetcode/blob/master/leetcode/Math/ValidPerfectSquare.swift) |Easy|
 65	|[Valid Number](https://github.com/FFIB/leetcode/blob/master/leetcode/Math/ValidNumber.swift) |Hard|
 263	|[Ugly Number](https://github.com/FFIB/leetcode/blob/master/leetcode/Math/UglyNumber.swift) |Easy|	
 258	|[Add Digits](https://github.com/FFIB/leetcode/blob/master/leetcode/Math/AddDigits.swift) |Easy|
 319	|[Bulb Switcher](https://github.com/FFIB/leetcode/blob/master/leetcode/Math/BulbSwitcher.swift) |Medium|
-38	|[Count and Say](https://github.com/FFIB/leetcode/blob/master/leetcode/Math/CountAndSay.swift) |Easy|
 168	|[Excel Sheet Column Title](https://github.com/FFIB/leetcode/blob/master/leetcode/Math/ExcelSheetColumnTitle.swift) |Easy|
 172|[Factorial Trailing Zeroes](https://github.com/FFIB/leetcode/blob/master/leetcode/Math/FactorialTrailingZeroes.swift) |Easy|
-461	|[Hamming Distance](https://github.com/FFIB/leetcode/blob/master/leetcode/Math/HammingDistance.swift) |Easy|
 12	|[Integer to Roman](https://github.com/FFIB/leetcode/blob/master/leetcode/Math/IntegertoRoman.swift) |Medium|
 553	|[Optimal Division](https://github.com/FFIB/leetcode/blob/master/leetcode/Math/OptimalDivision.swift) |Medium|
 9	|[Palindrome Number](https://github.com/FFIB/leetcode/blob/master/leetcode/Math/PalindromeNumber.swift) |Easy|
-118	|[Pascal's Triangle](https://github.com/FFIB/leetcode/blob/master/leetcode/Math/Pascal'sTriangle.swift) |Easy|
-119	|[Pascal's Triangle II](https://github.com/FFIB/leetcode/blob/master/leetcode/Math/Pascal'sTriangleII.swift) |Easy|
 507	|[Perfect Number](https://github.com/FFIB/leetcode/blob/master/leetcode/Math/PerfectNumber.swift) |Easy|
 400	|[Nth Digit](https://github.com/FFIB/leetcode/blob/master/leetcode/Math/NthDigit.swift) |Easy|
 326	|[Power of Three](https://github.com/FFIB/leetcode/blob/master/leetcode/Math/PowerofThree.swift) |Easy|
@@ -93,7 +82,6 @@
 54	|[Spiral Matrix](https://github.com/FFIB/leetcode/blob/master/leetcode/Math/SpiralMatrix.swift) |Medium|
 59	|[Spiral Matrix II](https://github.com/FFIB/leetcode/blob/master/leetcode/Math/SpiralMatrixII.swift) |Medium|
 633|[Sum of Square Numbers](https://github.com/FFIB/leetcode/blob/master/leetcode/Math/SumofSquareNumbers.swift) |Easy|
-16	|[3Sum Closest](https://github.com/FFIB/leetcode/blob/master/leetcode/Math/ThreeSumClosest.swift) |Medium|
 292	|[Nim Game](https://github.com/FFIB/leetcode/blob/master/leetcode/Math/NimGame.swift) |Easy|
 204	|[Count Primes](https://github.com/FFIB/leetcode/blob/master/leetcode/Math/CountPrimes.swift) |Easy|
 368 |[Largest Divisible Subset](https://github.com/FFIB/leetcode/blob/master/leetcode/Math/LargestDivisibleSubset.swift) | Medium|
@@ -101,44 +89,50 @@
 372 |[Super Pow](https://github.com/FFIB/leetcode/blob/master/leetcode/Math/SuperPow.swift) |Medium|
 593 |[Valid Square](https://github.com/FFIB/leetcode/blob/master/leetcode/Math/ValidSquare.swift) |Medium|
 667 |[Beautiful Arrangement II](https://github.com/FFIB/leetcode/blob/master/leetcode/Math/BeautifulArrangementII.swift) |Medium|
-640 |[Solve the Equation](https://github.com/FFIB/leetcode/blob/master/leetcode/Math/%20SolvetheEquation.swift) |Medium|
+640 |[Solve the Equation](https://github.com/FFIB/leetcode/blob/master/leetcode/Math/SolvetheEquation.swift) |Medium|
 672 |[Bulb Switcher II](https://github.com/FFIB/leetcode/blob/master/leetcode/Math/BulbSwitcherII.swift) |Medium|
 728 |[Self Dividing Numbers](https://github.com/FFIB/leetcode/blob/master/leetcode/Math/SelfDividingNumbers.swift) |Easy|
 396	|[Rotate Function](https://github.com/FFIB/leetcode/blob/master/leetcode/Math/RotateFunction.swift) |Medium|
+628	|[Maximum Product of Three Numbers](https://github.com/FFIB/leetcode/blob/master/leetcode/Math/MaximumProductofThreeNumbers.swift)  |Easy|
+453|[Minimum Moves to Equal Array Elements](https://github.com/FFIB/leetcode/blob/master/leetcode/Math/MinimumMovestoEqualArrayElements.swift) |Easy|
+462	|[Minimum Moves to Equal Array Elements II](https://github.com/FFIB/leetcode/blob/master/leetcode/Math/MinimumMovestoEqualArrayElementsII.swift) |Medium|
+66	|[Plus One](https://github.com/FFIB/leetcode/blob/master/leetcode/Math/PlusOne.swift)  |Easy|
+598|[Range Addition II](https://github.com/FFIB/leetcode/blob/master/leetcode/Math/RangeAdditionII.swift) |Easy|
+67	|[Add Binary](https://github.com/FFIB/leetcode/blob/master/leetcode/Math/AddBinary.swift) |Easy|
+415	|[Add Strings](https://github.com/FFIB/leetcode/blob/master/leetcode/Math/AddStrings.swift) |Easy|
+171	|[Excel Sheet Column Number](https://github.com/FFIB/leetcode/blob/master/leetcode/Math/ExcelSheetColumnNumber.swift) |Easy|
+423	|[Reconstruct Original Digits from English](https://github.com/FFIB/leetcode/blob/master/leetcode/Math/ReconstructOriginalDigitsfromEnglish.swift) |Medium|
+13	|[Roman to Integer](https://github.com/FFIB/leetcode/blob/master/leetcode/Math/RomantoInteger.swift) |Easy|
+8	|[String to Integer (atoi)](https://github.com/FFIB/leetcode/blob/master/leetcode/Math/StringtoInteger_atoi.swift) |Medium|
 
 
 # String   
 
 \#        | Title                       | Difficulty     |
 --------------------|-------------------|-----------------------|
-67	|[Add Binary](https://github.com/FFIB/leetcode/blob/master/leetcode/String/AddBinary.swift) |Easy|
-415	|[Add Strings](https://github.com/FFIB/leetcode/blob/master/leetcode/String/AddStrings.swift) |Easy|
 165	|[Compare Version Numbers](https://github.com/FFIB/leetcode/blob/master/leetcode/String/CompareVersionNumbers.swift) |Medium|
 520	|[Detect Capital](https://github.com/FFIB/leetcode/blob/master/leetcode/String/DetectCapital.swift) |Easy|
-171	|[Excel Sheet Column Number](https://github.com/FFIB/leetcode/blob/master/leetcode/String/ExcelSheetColumnNumber.swift) |Easy|
 28	|[Implement strStr()](https://github.com/FFIB/leetcode/blob/master/leetcode/String/ImplementstrStr.swift) |Easy|
 58	|[Length of Last Word](https://github.com/FFIB/leetcode/blob/master/leetcode/String/LengthofLastWord.swift) |Easy|
-409	|[Longest Palindrome](https://github.com/FFIB/leetcode/blob/master/leetcode/String/LongestPalindrome.swift) |Easy|
 521	|[Longest Uncommon Subsequence I](https://github.com/FFIB/leetcode/blob/master/leetcode/String/LongestUncommonSubsequenceI.swift) |Easy|
 434	|[Number of Segments in a String](https://github.com/FFIB/leetcode/blob/master/leetcode/String/NumberofSegmentsinString.swift) |Easy|	
 567	|[Permutation in String](https://github.com/FFIB/leetcode/blob/master/leetcode/String/PermutationinString.swift) |Medium|
 383	|[Ransom Note](https://github.com/FFIB/leetcode/blob/master/leetcode/String/RansomNote.swift) |Easy|
-423	|[Reconstruct Original Digits from English](https://github.com/FFIB/leetcode/blob/master/leetcode/String/ReconstructOriginalDigitsfromEnglish.swift) |Medium|
 459	|[Repeated Substring Pattern](https://github.com/FFIB/leetcode/blob/master/leetcode/String/RepeatedSubstringPattern.swift) |Easy|541	|[Reverse String II](https://github.com/FFIB/leetcode/blob/master/leetcode/String/ReverseStringII.swift) |Easy|
 345	|[Reverse Vowels of a String](https://github.com/FFIB/leetcode/blob/master/leetcode/String/ReverseVowelsofString.swift) |Easy|
 557	|[Reverse Words in a String III](https://github.com/FFIB/leetcode/blob/master/leetcode/String/ReverseWordsinStringIII.swift) |Easy|	
-13	|[Roman to Integer](https://github.com/FFIB/leetcode/blob/master/leetcode/String/RomantoInteger.swift) |Easy|
-8	|[String to Integer (atoi)](https://github.com/FFIB/leetcode/blob/master/leetcode/String/StringtoInteger_atoi.swift) |Medium|
 551	|[Student Attendance Record I](https://github.com/FFIB/leetcode/blob/master/leetcode/String/StudentAttendanceRecordI.swift) |Easy|
 125	|[Valid Palindrome](https://github.com/FFIB/leetcode/blob/master/leetcode/String/ValidPalindrome.swift) |Easy|
 6	  |[ZigZag Conversion](https://github.com/FFIB/leetcode/blob/master/leetcode/String/ZigZagConversion.swift) |Medium|
 468 |[Validate IP Address](https://github.com/FFIB/leetcode/blob/master/leetcode/String/VaildateIPAdress.swift) |Medium|
-76  |[Minimum Window Substring](https://github.com/FFIB/leetcode/blob/master/leetcode/String/MinimumWindowSubstring.swift) |Hard|
 657 |[Judge Route Circle](https://github.com/FFIB/leetcode/blob/master/leetcode/String/JudgeRouteCircle.swift)|Easy|
 680 |[Valid Palindrome II](https://github.com/FFIB/leetcode/blob/master/leetcode/String/ValidPalindromeII.swift) |Easy|
 678 |[Valid Parenthesis String](https://github.com/FFIB/leetcode/blob/master/leetcode/String/ValidParenthesisString.swift) |Medium|
 670 |[Maximum Swap](https://github.com/FFIB/leetcode/blob/master/leetcode/Math/MaximumSwap.swift) |Medium|
 443 |[String Compression](https://github.com/FFIB/leetcode/blob/master/leetcode/String/StringCompression.swift) |Easy|
+14	|[Longest Common Prefix](https://github.com/FFIB/leetcode/blob/master/leetcode/String/LongestCommonPrefix.swift)   |Easy|
+696 |[Count Binary Substrings](https://github.com/FFIB/leetcode/blob/master/leetcode/String/CountBinarySubstrings.swift) |Easy|
+38	|[Count and Say](https://github.com/FFIB/leetcode/blob/master/leetcode/String/CountAndSay.swift) |Easy|
 
 
 # Sort   
@@ -196,10 +190,8 @@
 64  |[Minimum Path Sum](https://github.com/FFIB/leetcode/blob/master/leetcode/DP/MinimumPathSum.swift) |Medium|
 494 |[Target Sum](https://github.com/FFIB/leetcode/blob/master/leetcode/DP/TargetSum.swift) |Medium|
 688 |[Knight Probability in Chessboard](https://github.com/FFIB/leetcode/blob/master/leetcode/DP/KnightProbabilityinChessboard.swift) |Medium|
-338 |[Counting Bits](https://github.com/FFIB/leetcode/blob/master/leetcode/DP/CountingBits.swift) |Medium|
 139 |[Word Break](https://github.com/FFIB/leetcode/blob/master/leetcode/DP/WordBreak.swift) |Medium|
 140 |[Word BreakII](https://github.com/FFIB/leetcode/blob/master/leetcode/DP/WordBreakII.swift) |Medium|
-322 |[Coin Change](https://github.com/FFIB/leetcode/blob/master/leetcode/DP/CoinChange.swift) |Medium|
 96  |[Unique Binary Search Trees](https://github.com/FFIB/leetcode/blob/master/leetcode/DP/UniqueBinarySearchTrees.swift) |Medium|
 300 |[Longest Increasing Subsequence](https://github.com/FFIB/leetcode/blob/master/leetcode/DP/LongestIncreasingSubsequence.swift) |Medium|
 467 |[Unique Substrings in Wraparound String](https://github.com/FFIB/leetcode/blob/master/leetcode/DP/UniqueSubstringsinWraparoundString.swift) |Medium|
@@ -266,7 +258,7 @@
 162	|[Find Peak Element](https://github.com/FFIB/leetcode/blob/master/leetcode/Binary%20Search/FindPeakElement.swift) |Medium|
 287	|[Find the Duplicate Number](https://github.com/FFIB/leetcode/blob/master/leetcode/Binary%20Search/FindtheDuplicateNumber.swift) |Medium|
 475	|[Heaters](https://github.com/FFIB/leetcode/blob/master/leetcode/Binary%20Search/Heaters.swift)   |Easy|
-378	|[Kth Smallest Element in a Sorted Matrix](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/KthSmallestElementinSortedMatrix.swift) |Medium|
+378	|[Kth Smallest Element in a Sorted Matrix](https://github.com/FFIB/leetcode/blob/master/leetcode/Binary%20Search/KthSmallestElementinSortedMatrix.swift) |Medium|
 4 	|[Median of Two Sorted Arrays](https://github.com/FFIB/leetcode/blob/master/leetcode/Binary%20Search/MedianofTwoSortedArrays.swift) |Hard|
 290 |[Minimum Size Subarray Sum](https://github.com/FFIB/leetcode/blob/master/leetcode/Binary%20Search/MinimumSizeSubarraySum.swift) |Medium|
 50	|[Pow(x, n)](https://github.com/FFIB/leetcode/blob/master/leetcode/Binary%20Search/MyPow.swift) |Medium|
