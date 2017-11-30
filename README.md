@@ -367,7 +367,7 @@
 242	|[Valid Anagram](https://github.com/FFIB/leetcode/blob/master/leetcode/Hash%20Table/ValidAnagram.swift) |Easy|
 290	|[Word Pattern](https://github.com/FFIB/leetcode/blob/master/leetcode/Hash%20Table/WordPattern.swift) |Easy|
 454 |[4Sum II](https://github.com/FFIB/leetcode/blob/master/leetcode/Hash%20Table/fourSumII.swift) |Medium|
-
+336 |[Palindrome Pairs](https://github.com/FFIB/leetcode/blob/master/leetcode/Hash%20Table/PalindromePairs.swift) |Hard|
 # Unknown
 \#        | Title                       | Difficulty     |
 --------------------|-------------------|-----------------------|
