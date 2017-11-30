@@ -2,12 +2,26 @@
 //  SpiralMatrixII.swift
 //  leetcode
 //
-//  Created by LISA on 2017/6/20.
+//  Created by FFIB on 2017/6/20.
 //  Copyright © 2017年 FFIB. All rights reserved.
 //
 
 import Foundation
 
+//59. Spiral Matrix II
+/*
+ Given an integer n, generate a square matrix filled with elements from 1 to n2 in spiral order.
+ 
+ For example,
+ Given n = 3,
+ 
+ You should return the following matrix:
+ [
+ [ 1, 2, 3 ],
+ [ 8, 9, 4 ],
+ [ 7, 6, 5 ]
+ ]
+ */
 extension Solution {
     func generateMatrix(_ n: Int) -> [[Int]] {
         if n == 0{

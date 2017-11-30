@@ -2,12 +2,26 @@
 //  ThreeSum.swift
 //  leetcode
 //
-//  Created by LISA on 2017/8/1.
+//  Created by FFIB on 2017/8/1.
 //  Copyright © 2017年 FFIB. All rights reserved.
 //
 
 import Foundation
 
+//15. 3Sum
+/*
+ Given an array S of n integers, are there elements a, b, c in S such that a + b + c = 0? Find all unique triplets in the array which gives the sum of zero.
+ 
+ Note: The solution set must not contain duplicate triplets.
+ 
+ For example, given array S = [-1, 0, 1, 2, -1, -4],
+ 
+ A solution set is:
+ [
+ [-1, 0, 1],
+ [-1, -1, 2]
+ ]
+ */
 extension Solution {
     func threeSum(_ nums: [Int]) -> [[Int]] {
         var res = [[Int]]()

@@ -2,12 +2,16 @@
 //  PalindromeNumber.swift
 //  leetcode
 //
-//  Created by LISA on 2017/6/21.
+//  Created by FFIB on 2017/6/21.
 //  Copyright © 2017年 FFIB. All rights reserved.
 //
 
 import Foundation
 
+//9. Palindrome Number
+/*
+ Determine whether an integer is a palindrome. Do this without extra space.
+ */
 extension Solution {
     func isPalindrome(_ x: Int) -> Bool {
         if x < 0 {

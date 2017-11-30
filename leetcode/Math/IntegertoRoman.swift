@@ -2,12 +2,18 @@
 //  IntegertoRoman.swift
 //  leetcode
 //
-//  Created by LISA on 2017/7/8.
+//  Created by FFIB on 2017/7/8.
 //  Copyright © 2017年 FFIB. All rights reserved.
 //
 
 import Foundation
 
+//12. Integer to Roman
+/*
+ Given an integer, convert it to a roman numeral.
+ 
+ Input is guaranteed to be within the range from 1 to 3999.
+ */
 extension Solution {
     func intToRoman(_ num: Int) -> String {
         var symbol = ["M", "CM", "D", "CD", "C", "XC", "L", "XL", "X", "IX", "V", "IV", "I"]

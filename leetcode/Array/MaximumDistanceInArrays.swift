@@ -2,12 +2,14 @@
 //  MaximumDistanceInArrays.swift
 //  leetcode
 //
-//  Created by LISA on 2017/6/20.
+//  Created by FFIB on 2017/6/20.
 //  Copyright © 2017年 FFIB. All rights reserved.
 //
 
 import Foundation
 
+//624 Maximum Distance in Arrays
+//locked
 extension Solution {
     func maxDistance(_ arrays: [[Int]]) -> Int {
         var maxNum = (arrays.first?.last)!
