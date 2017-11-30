@@ -2,12 +2,10 @@
 
 \#        | Title                       | Difficulty     |
 --------------------|-------------------|-----------------------|
-396	|[Rotate Function](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/RotateFunction.swift) |Medium|
 565	|[Array Nesting](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/ArrayNesting.swift)   |Medium|
 561	|[Array Partition I](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/ArrayPartitionI.swift)  |Easy|
 605	|[Can Place Flowers](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/CanPlaceFlowers.swift)  |Easy|
 11	|[Container With Most Water](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/ContainerWithMostWater.swift)   |Medium|
-217	|[Contains Duplicate](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/ContainsDuplicate.swift) |Easy|
 442	 |[Find All Duplicates in an Array](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/FindAllDuplicatesinanArray.swift) |Medium|
 448	|[Find All Numbers Disappeared in an Array](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/FindAllNumbersDisappearedInArray.swift) |  Easy|
 532	|[K-diff Pairs in an Array](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/K-diffPairsinanArray.swift)  |Easy	|
@@ -18,7 +16,6 @@
 624	|[Maximum Distance in Arrays](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/MaximumDistanceInArrays.swift) |Easy|
 628	|[Maximum Product of Three Numbers](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/MaximumProductofThreeNumbers.swift)  |Easy|
 88	|[Merge Sorted Array](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/MergeSortedArray.swift)    |Easy|
-
 453|[Minimum Moves to Equal Array Elements](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/MinimumMovestoEqualArrayElements.swift) |Easy|
 462	|[Minimum Moves to Equal Array Elements II](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/MinimumMovestoEqualArrayElementsII.swift)  |Medium|
 539	|[Minimum Time Difference](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/MinimumTimeDifference.swift) |Medium|
@@ -107,6 +104,9 @@
 640 |[Solve the Equation](https://github.com/FFIB/leetcode/blob/master/leetcode/Math/%20SolvetheEquation.swift) |Medium|
 672 |[Bulb Switcher II](https://github.com/FFIB/leetcode/blob/master/leetcode/Math/BulbSwitcherII.swift) |Medium|
 728 |[Self Dividing Numbers](https://github.com/FFIB/leetcode/blob/master/leetcode/Math/SelfDividingNumbers.swift) |Easy|
+396	|[Rotate Function](https://github.com/FFIB/leetcode/blob/master/leetcode/Math/RotateFunction.swift) |Medium|
+
+
 # String   
 
 \#        | Title                       | Difficulty     |
