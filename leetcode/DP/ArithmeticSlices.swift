@@ -33,7 +33,7 @@ import Foundation
  
  A = [1, 2, 3, 4]
  
- return: 3, for 3 arithmetic slices in A: [1, 2, 3], [2, 3, 4] and [1, 2, 3, 4] itself.
+ return: 3, for 3 arithmetic slices in A: [1, 2, 3], [2, 3, 4] and [1, 2, 3, 4] itself. 
  */
 extension Solution {
     func numberOfArithmeticSlices(_ A: [Int]) -> Int {
