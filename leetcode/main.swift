@@ -10,6 +10,7 @@ import Foundation
 
 class Solution { }
 
+//MARK: ListNode
 public class ListNode {
     public var val: Int
     public var next: ListNode?
@@ -19,6 +20,36 @@ public class ListNode {
     }
 }
 
+extension ListNode: CustomStringConvertible {
+    public var description: String {
+        var d = "["
+        var list: ListNode? = self
+        while list != nil {
+            if list?.next == nil {
+                d.append("\(list!.val)]")
+            }else {
+                d.append("\(list!.val), ")
+            }
+            
+            list = list?.next
+        }
+        return d
+    }
+}
+
+extension ListNode: Equatable {
+    public static func ==(lhs: ListNode, rhs: ListNode) -> Bool {
+        var l: ListNode? = lhs
+        var r: ListNode? = rhs
+        while l != nil, r != nil, l?.val == r?.val {
+            l = l?.next
+            r = r?.next
+        }
+        return l == nil && r == nil
+    }
+}
+
+//MARK: Interval
 public class Interval {
     public var start: Int
     public var end: Int
@@ -34,6 +65,7 @@ extension Interval: CustomStringConvertible {
     }
 }
 
+//MARK: TreeNode
 public class TreeNode {
     public var val: Int
     public var left: TreeNode?
@@ -43,9 +75,19 @@ public class TreeNode {
         self.left = nil
         self.right = nil
     }
-    
 }
 
-debugPrint(Solution().findMinArrowShots([[10,16], [2,8], [1,6], [7,12]]))
+
+//MARK: test
+let nums = [1,2,3,3,4,4,5]
+var list = ListNode(0)
+var tmp = list
+for num in nums {
+    let listNode = ListNode(num)
+    tmp.next = listNode
+    tmp = listNode
+}
+
+debugPrint(Solution().deleteDuplicatesII(list.next))
 
 
