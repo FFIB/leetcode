@@ -89,6 +89,7 @@
 61	|[Rotate List](https://github.com/FFIB/leetcode/blob/master/leetcode/Linked%20List/RotateList.swift) |Medium|
 24	|[Swap Nodes in Pairs](https://github.com/FFIB/leetcode/blob/master/leetcode/Linked%20List/SwapNodesinPairs.swift) |Medium|
 86  |[Partition List](https://github.com/FFIB/leetcode/blob/master/leetcode/Linked%20List/PartitionList.swift) |Medium|
+82  |[Remove Duplicates from Sorted List II](https://github.com/FFIB/leetcode/blob/master/leetcode/Linked%20List/RemoveDuplicatesfromSortedListII.swift) |Medium|
 
 # Tree   
 
