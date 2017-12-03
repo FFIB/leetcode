@@ -369,6 +369,8 @@
 290	|[Word Pattern](https://github.com/FFIB/leetcode/blob/master/leetcode/Hash%20Table/WordPattern.swift) |Easy|
 454 |[4Sum II](https://github.com/FFIB/leetcode/blob/master/leetcode/Hash%20Table/fourSumII.swift) |Medium|
 336 |[Palindrome Pairs](https://github.com/FFIB/leetcode/blob/master/leetcode/Hash%20Table/PalindromePairs.swift) |Hard|
+720 |[Longest Word in Dictionary](https://github.com/FFIB/leetcode/blob/master/leetcode/Hash%20Table/LongestWordinDictionary.swift)
+
 # Unknown
 \#        | Title                       | Difficulty     |
 --------------------|-------------------|-----------------------|
