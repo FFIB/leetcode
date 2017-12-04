@@ -121,7 +121,7 @@
 71  |[Simplify Path](https://github.com/FFIB/leetcode/blob/master/leetcode/Stack/SimplifyPath.swift) |Medium|
 42  |[Trapping Rain Water](https://github.com/FFIB/leetcode/blob/master/leetcode/Stack/TrappingRainWater.swift) |Hard|
 20	|[Valid Parentheses](https://github.com/FFIB/leetcode/blob/master/leetcode/Stack/ValidParentheses.swift) |Easy|
-
+402 |[Remove K Digits](https://github.com/FFIB/leetcode/blob/master/leetcode/Stack/RemoveKDigits.swift) |Medium|
 
 # Queue
 
