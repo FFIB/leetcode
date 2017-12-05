@@ -88,6 +88,7 @@ for num in nums {
     tmp = listNode
 }
 
-debugPrint(Solution().deleteDuplicatesII(list.next))
+debugPrint(Solution().removeDuplicateLetters("bbcaac"))
+
 
 
