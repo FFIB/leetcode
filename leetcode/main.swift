@@ -88,7 +88,7 @@ for num in nums {
     tmp = listNode
 }
 
-debugPrint(Solution().dailyTemperatures([73, 74, 75, 71, 69, 72, 76, 73]))
+debugPrint(Solution().largestRectangleArea([2,1,5,6,2,3]))
 
 
 

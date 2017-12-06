@@ -82,6 +82,7 @@
 		05B878721F905E4A0019323F /* MedianofTwoSortedArrays.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05B878711F905E4A0019323F /* MedianofTwoSortedArrays.swift */; };
 		05BF675E1FCAAF3400A48CB5 /* DecodeString.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05BF675D1FCAAF3400A48CB5 /* DecodeString.swift */; };
 		05C3C39F1FD78DFD00BA4054 /* DailyTemperatures.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05C3C39E1FD78DFD00BA4054 /* DailyTemperatures.swift */; };
+		05C3C3A11FD795BB00BA4054 /* LargestRectangleinHistogram.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05C3C3A01FD795BB00BA4054 /* LargestRectangleinHistogram.swift */; };
 		05D05FDE1FD2A8D7002EB5A7 /* LongestWordinDictionary.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05D05FDD1FD2A8D7002EB5A7 /* LongestWordinDictionary.swift */; };
 		05D05FE01FD4E7B7002EB5A7 /* RemoveKDigits.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05D05FDF1FD4E7B7002EB5A7 /* RemoveKDigits.swift */; };
 		05D7902C1FC0803400469AD1 /* StringCompression.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05D7902B1FC0803400469AD1 /* StringCompression.swift */; };
@@ -396,6 +397,7 @@
 		05B878711F905E4A0019323F /* MedianofTwoSortedArrays.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MedianofTwoSortedArrays.swift; sourceTree = "<group>"; };
 		05BF675D1FCAAF3400A48CB5 /* DecodeString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DecodeString.swift; sourceTree = "<group>"; };
 		05C3C39E1FD78DFD00BA4054 /* DailyTemperatures.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DailyTemperatures.swift; sourceTree = "<group>"; };
+		05C3C3A01FD795BB00BA4054 /* LargestRectangleinHistogram.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LargestRectangleinHistogram.swift; sourceTree = "<group>"; };
 		05D05FDD1FD2A8D7002EB5A7 /* LongestWordinDictionary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongestWordinDictionary.swift; sourceTree = "<group>"; };
 		05D05FDF1FD4E7B7002EB5A7 /* RemoveKDigits.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemoveKDigits.swift; sourceTree = "<group>"; };
 		05D7902B1FC0803400469AD1 /* StringCompression.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StringCompression.swift; sourceTree = "<group>"; };
@@ -690,6 +692,7 @@
 				054ACE471F96F0FE00599323 /* BaseballGame.swift */,
 				0538ED831FD57180008338B9 /* RemoveDuplicateLetters.swift */,
 				05C3C39E1FD78DFD00BA4054 /* DailyTemperatures.swift */,
+				05C3C3A01FD795BB00BA4054 /* LargestRectangleinHistogram.swift */,
 			);
 			path = Stack;
 			sourceTree = "<group>";
@@ -1265,6 +1268,7 @@
 				425DE3D51EF90FAD0079F9B3 /* FindBottomLeftTreeValue.swift in Sources */,
 				42880CBA1EFA0F8500869089 /* ContainsDuplicateII.swift in Sources */,
 				425DE3B11EF909740079F9B3 /* ContainerWithMostWater.swift in Sources */,
+				05C3C3A11FD795BB00BA4054 /* LargestRectangleinHistogram.swift in Sources */,
 				425DE4C51EF9267D0079F9B3 /* UglyNumberII.swift in Sources */,
 				42880CEE1EFA139D00869089 /* ReverseInteger.swift in Sources */,
 				0539DDA71FBD21E500BC6E2C /* MaximumProductSubarray.swift in Sources */,
