@@ -88,7 +88,7 @@ for num in nums {
     tmp = listNode
 }
 
-debugPrint(Solution().removeDuplicateLetters("bbcaac"))
+debugPrint(Solution().dailyTemperatures([73, 74, 75, 71, 69, 72, 76, 73]))
 
 
 
