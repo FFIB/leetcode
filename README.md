@@ -123,6 +123,7 @@
 20	|[Valid Parentheses](https://github.com/FFIB/leetcode/blob/master/leetcode/Stack/ValidParentheses.swift) |Easy|
 402 |[Remove K Digits](https://github.com/FFIB/leetcode/blob/master/leetcode/Stack/RemoveKDigits.swift) |Medium|
 316 |[Remove Duplicate Letters](https://github.com/FFIB/leetcode/blob/master/leetcode/Stack/RemoveDuplicateLetters.swift) |Hard|
+739 |[Daily Temperatures](https://github.com/FFIB/leetcode/blob/master/leetcode/Stack/DailyTemperatures.swift) |Medium|
 
 # Queue
 
