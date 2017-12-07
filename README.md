@@ -124,6 +124,7 @@
 402 |[Remove K Digits](https://github.com/FFIB/leetcode/blob/master/leetcode/Stack/RemoveKDigits.swift) |Medium|
 316 |[Remove Duplicate Letters](https://github.com/FFIB/leetcode/blob/master/leetcode/Stack/RemoveDuplicateLetters.swift) |Hard|
 739 |[Daily Temperatures](https://github.com/FFIB/leetcode/blob/master/leetcode/Stack/DailyTemperatures.swift) |Medium|
+385	|[Mini Parser](https://github.com/FFIB/leetcode/blob/master/leetcode/Stack/MiniParser.swift) |Medium|
 
 # Queue
 
