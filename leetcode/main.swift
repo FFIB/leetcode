@@ -88,7 +88,7 @@ for num in nums {
     tmp = listNode
 }
 
-debugPrint(Solution().largestRectangleArea([2,1,5,6,2,3]))
+debugPrint(Solution().deserialize("[123,[456,[789]]]"))
 
 
 
