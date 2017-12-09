@@ -88,7 +88,7 @@ for num in nums {
     tmp = listNode
 }
 
-debugPrint(Solution().deserialize("[123,[456,[789]]]"))
+debugPrint(Solution().monotoneIncreasingDigits(556205))
 
 
 
