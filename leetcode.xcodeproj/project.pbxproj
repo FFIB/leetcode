@@ -84,6 +84,7 @@
 		05C3C39F1FD78DFD00BA4054 /* DailyTemperatures.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05C3C39E1FD78DFD00BA4054 /* DailyTemperatures.swift */; };
 		05C3C3A11FD795BB00BA4054 /* LargestRectangleinHistogram.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05C3C3A01FD795BB00BA4054 /* LargestRectangleinHistogram.swift */; };
 		05C3C3A31FD8D1B900BA4054 /* MiniParser.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05C3C3A21FD8D1B900BA4054 /* MiniParser.swift */; };
+		05C3C3A71FDA8DBF00BA4054 /* MonotoneIncreasingDigits .swift in Sources */ = {isa = PBXBuildFile; fileRef = 05C3C3A61FDA8DBF00BA4054 /* MonotoneIncreasingDigits .swift */; };
 		05D05FDE1FD2A8D7002EB5A7 /* LongestWordinDictionary.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05D05FDD1FD2A8D7002EB5A7 /* LongestWordinDictionary.swift */; };
 		05D05FE01FD4E7B7002EB5A7 /* RemoveKDigits.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05D05FDF1FD4E7B7002EB5A7 /* RemoveKDigits.swift */; };
 		05D7902C1FC0803400469AD1 /* StringCompression.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05D7902B1FC0803400469AD1 /* StringCompression.swift */; };
@@ -400,6 +401,7 @@
 		05C3C39E1FD78DFD00BA4054 /* DailyTemperatures.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DailyTemperatures.swift; sourceTree = "<group>"; };
 		05C3C3A01FD795BB00BA4054 /* LargestRectangleinHistogram.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LargestRectangleinHistogram.swift; sourceTree = "<group>"; };
 		05C3C3A21FD8D1B900BA4054 /* MiniParser.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MiniParser.swift; sourceTree = "<group>"; };
+		05C3C3A61FDA8DBF00BA4054 /* MonotoneIncreasingDigits .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "MonotoneIncreasingDigits .swift"; sourceTree = "<group>"; };
 		05D05FDD1FD2A8D7002EB5A7 /* LongestWordinDictionary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongestWordinDictionary.swift; sourceTree = "<group>"; };
 		05D05FDF1FD4E7B7002EB5A7 /* RemoveKDigits.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemoveKDigits.swift; sourceTree = "<group>"; };
 		05D7902B1FC0803400469AD1 /* StringCompression.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StringCompression.swift; sourceTree = "<group>"; };
@@ -819,6 +821,7 @@
 				42A8F9AF1EFEBE9000D9863C /* NonoverlappingIntervals.swift */,
 				056F2AC11FCFA9D600F3389A /* MinimumNumberofArrowstoBurstBalloons.swift */,
 				42880CAB1EFA0E6A00869089 /* BestTimetoBuyandSellStockII.swift */,
+				05C3C3A61FDA8DBF00BA4054 /* MonotoneIncreasingDigits .swift */,
 			);
 			path = Greedy;
 			sourceTree = "<group>";
@@ -1405,6 +1408,7 @@
 				054E62D51FAFFCBE00CC5450 /* UniqueBinarySearchTrees.swift in Sources */,
 				05B878721F905E4A0019323F /* MedianofTwoSortedArrays.swift in Sources */,
 				425C972C1F0C80D900CAC4E2 /* CanPlaceFlowers.swift in Sources */,
+				05C3C3A71FDA8DBF00BA4054 /* MonotoneIncreasingDigits .swift in Sources */,
 				425DE4BB1EF925AB0079F9B3 /* DiagonalTraverse.swift in Sources */,
 				425DE3C81EF90E460079F9B3 /* BeautifulArrangement.swift in Sources */,
 				425DE4AD1EF924B40079F9B3 /* CountAndSay.swift in Sources */,
