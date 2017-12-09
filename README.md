@@ -327,6 +327,7 @@
 435	|[Non-overlapping Intervals](https://github.com/FFIB/leetcode/blob/master/leetcode/Greedy/NonoverlappingIntervals.swift) |Medium|
 406	|[Queue Reconstruction by Height](https://github.com/FFIB/leetcode/blob/master/leetcode/Greedy/QueueReconstructionbyHeight.swift) |Medium|
 376	|[Wiggle Subsequence](https://github.com/FFIB/leetcode/blob/master/leetcode/Greedy/WiggleSubsequence.swift) |Medium|
+738 |[Monotone Increasing Digits](https://github.com/FFIB/leetcode/blob/master/leetcode/Greedy/MonotoneIncreasingDigits%20.swift) |Medium|
 
 
 # Map
