@@ -88,7 +88,7 @@ for num in nums {
     tmp = listNode
 }
 
-debugPrint(Solution().monotoneIncreasingDigits(556205))
+debugPrint(Solution().deleteAndEarn([2, 2, 3, 3, 3, 4]))
 
 
 
