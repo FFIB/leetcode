@@ -88,7 +88,7 @@ for num in nums {
     tmp = listNode
 }
 
-debugPrint(Solution().deleteAndEarn([2, 2, 3, 3, 3, 4]))
+debugPrint(Solution().floodFill([[0,0,0],[0,1,1]], 1, 1, 1))
 
 
 
