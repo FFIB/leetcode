@@ -88,7 +88,5 @@ for num in nums {
     tmp = listNode
 }
 
-debugPrint(Solution().floodFill([[0,0,0],[0,1,1]], 1, 1, 1))
-
-
+debugPrint(Solution().longestPalindrome1("babad"))
 
