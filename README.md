@@ -71,8 +71,7 @@
 696 |[Count Binary Substrings](https://github.com/FFIB/leetcode/blob/master/leetcode/String/CountBinarySubstrings.swift) |Easy|
 38	|[Count and Say](https://github.com/FFIB/leetcode/blob/master/leetcode/String/CountAndSay.swift) |Easy|
 539	|[Minimum Time Difference](https://github.com/FFIB/leetcode/blob/master/leetcode/String/MinimumTimeDifference.swift) |Medium|
-
-
+5   [Longest Palindromic Substring](https://github.com/FFIB/leetcode/blob/master/leetcode/String/LongestPalindromicSubstring.swift) |Medium|
 # List   
 \#        | Title                       | Difficulty     |
 --------------------|-------------------|-----------------------|
