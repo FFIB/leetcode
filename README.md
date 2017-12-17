@@ -104,7 +104,8 @@
 572	|[Subtree of Another Tree](https://github.com/FFIB/leetcode/blob/master/leetcode/Tree/SubtreeofAnotherTree.swift) |Easy|
 530	 |[Minimum Absolute Difference in BST](https://github.com/FFIB/leetcode/blob/master/leetcode/Tree/MinimumAbsoluteDifferenceinBST.swift) |Easy|
 404	|[Sum of Left Leaves](https://github.com/FFIB/leetcode/blob/master/leetcode/Tree/SumofLeftLeaves.swift) |Easy|
-  
+654 |[Maximum Binary Tree](https://github.com/FFIB/leetcode/blob/master/leetcode/Tree/MaximumBinaryTree.swift) |Medium|
+
   
 # Stack   
 
