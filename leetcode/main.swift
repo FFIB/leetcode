@@ -88,5 +88,5 @@ for num in nums {
     tmp = listNode
 }
 
-debugPrint(Solution().longestPalindrome1("babad"))
+debugPrint(Solution().constructMaximumBinaryTree([3,2,1,6,0,5]))
 
