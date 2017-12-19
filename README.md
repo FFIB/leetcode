@@ -108,7 +108,7 @@
 653 |[Two Sum IV - Input is a BST](https://github.com/FFIB/leetcode/blob/master/leetcode/Tree/TwoSumIV-InputisaBST.swift) |Easy|
 637 |[Average of Levels in Binary Tree](https://github.com/FFIB/leetcode/blob/master/leetcode/Tree/AverageofLevelsinBinaryTree.swift) |Easy|
 669 |[Trim a Binary Search Tree](https://github.com/FFIB/leetcode/blob/master/leetcode/Tree/TrimaBinarySearchTree.swift) |Easy|
-
+687 |[Longest Univalue Path](https://github.com/FFIB/leetcode/blob/master/leetcode/Tree/LongestUnivaluePath.swift) |Easy|
 
 # Stack   
 
