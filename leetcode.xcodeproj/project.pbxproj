@@ -37,10 +37,12 @@
 		053A918E1F791288002E5B0D /* SolvetheEquation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 053A918D1F791288002E5B0D /* SolvetheEquation.swift */; };
 		053A91901F79ECE6002E5B0D /* BulbSwitcherII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 053A918F1F79ECE6002E5B0D /* BulbSwitcherII.swift */; };
 		053C864A1F9CA6EC00CB5D49 /* SubarrayProductLessThanK.swift in Sources */ = {isa = PBXBuildFile; fileRef = 053C86491F9CA6EC00CB5D49 /* SubarrayProductLessThanK.swift */; };
+		053CB01C1FF097A500753A9F /* HouseRobberII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 053CB01B1FF097A500753A9F /* HouseRobberII.swift */; };
 		054128381FA9A8CC00CFE81C /* CountingBits.swift in Sources */ = {isa = PBXBuildFile; fileRef = 054128371FA9A8CC00CFE81C /* CountingBits.swift */; };
 		0541283E1FAAB1CA00CFE81C /* WordBreak.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0541283D1FAAB1CA00CFE81C /* WordBreak.swift */; };
 		054128401FAAC16400CFE81C /* WordBreakII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0541283F1FAAC16400CFE81C /* WordBreakII.swift */; };
 		0541D0AC1FB3E5FC00874943 /* UniqueSubstringsinWraparoundString.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0541D0AB1FB3E5FC00874943 /* UniqueSubstringsinWraparoundString.swift */; };
+		054275081FEF81800079882F /* HouseRobberIII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 054275071FEF81800079882F /* HouseRobberIII.swift */; };
 		054406D71FA81721002D3302 /* KnightProbabilityinChessboard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 054406D61FA81721002D3302 /* KnightProbabilityinChessboard.swift */; };
 		0544CFBB1F372E6E000B1918 /* JumpGame.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0544CFBA1F372E6E000B1918 /* JumpGame.swift */; };
 		054751721F9EE01A0091FFDF /* ExclusiveTimeofFunctions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 054751711F9EE01A0091FFDF /* ExclusiveTimeofFunctions.swift */; };
@@ -366,10 +368,12 @@
 		053A918D1F791288002E5B0D /* SolvetheEquation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SolvetheEquation.swift; sourceTree = "<group>"; };
 		053A918F1F79ECE6002E5B0D /* BulbSwitcherII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BulbSwitcherII.swift; sourceTree = "<group>"; };
 		053C86491F9CA6EC00CB5D49 /* SubarrayProductLessThanK.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SubarrayProductLessThanK.swift; sourceTree = "<group>"; };
+		053CB01B1FF097A500753A9F /* HouseRobberII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HouseRobberII.swift; sourceTree = "<group>"; };
 		054128371FA9A8CC00CFE81C /* CountingBits.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountingBits.swift; sourceTree = "<group>"; };
 		0541283D1FAAB1CA00CFE81C /* WordBreak.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WordBreak.swift; sourceTree = "<group>"; };
 		0541283F1FAAC16400CFE81C /* WordBreakII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WordBreakII.swift; sourceTree = "<group>"; };
 		0541D0AB1FB3E5FC00874943 /* UniqueSubstringsinWraparoundString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UniqueSubstringsinWraparoundString.swift; sourceTree = "<group>"; };
+		054275071FEF81800079882F /* HouseRobberIII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HouseRobberIII.swift; sourceTree = "<group>"; };
 		054406D61FA81721002D3302 /* KnightProbabilityinChessboard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KnightProbabilityinChessboard.swift; sourceTree = "<group>"; };
 		0544CFBA1F372E6E000B1918 /* JumpGame.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JumpGame.swift; sourceTree = "<group>"; };
 		054751711F9EE01A0091FFDF /* ExclusiveTimeofFunctions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExclusiveTimeofFunctions.swift; sourceTree = "<group>"; };
@@ -701,6 +705,7 @@
 				05E2EC7F1F59087F00D8EF6B /* KInversePairsArray.swift */,
 				425DE4B01EF925000079F9B3 /* ContinuousSubarraySum.swift */,
 				0570976D1FDD6CF200761710 /* DeleteandEarn.swift */,
+				053CB01B1FF097A500753A9F /* HouseRobberII.swift */,
 			);
 			path = DP;
 			sourceTree = "<group>";
@@ -1138,6 +1143,7 @@
 				05A54CB21FEA670000CE33CC /* ConstructStringfromBinaryTree.swift */,
 				05A54CB41FEB491400CE33CC /* DeleteNodeinaBST.swift */,
 				05A54CBD1FEC99F200CE33CC /* BinaryTreeZigzagLevelOrderTraversal.swift */,
+				054275071FEF81800079882F /* HouseRobberIII.swift */,
 			);
 			path = Tree;
 			sourceTree = "<group>";
@@ -1316,6 +1322,7 @@
 				425DE4C51EF9267D0079F9B3 /* UglyNumberII.swift in Sources */,
 				42880CEE1EFA139D00869089 /* ReverseInteger.swift in Sources */,
 				0539DDA71FBD21E500BC6E2C /* MaximumProductSubarray.swift in Sources */,
+				054275081FEF81800079882F /* HouseRobberIII.swift in Sources */,
 				42880CD81EFA11C500869089 /* PowerofFour.swift in Sources */,
 				42880CF61EFA143500869089 /* NumberComplement.swift in Sources */,
 				425DE3D71EF910090079F9B3 /* AddBinary.swift in Sources */,
@@ -1425,6 +1432,7 @@
 				425DE46D1EF91F680079F9B3 /* ReconstructOriginalDigitsfromEnglish.swift in Sources */,
 				425DE4BF1EF925F70079F9B3 /* SortCharactersByFrequency.swift in Sources */,
 				054ACE4C1F98478900599323 /* BinaryNumberwithAlternatingBits.swift in Sources */,
+				053CB01C1FF097A500753A9F /* HouseRobberII.swift in Sources */,
 				05A54CBE1FEC99F200CE33CC /* BinaryTreeZigzagLevelOrderTraversal.swift in Sources */,
 				056F2ABD1FCF9C1800F3389A /* SameTree.swift in Sources */,
 				0516CE291F7358EC00E1459A /* SimplifyPath.swift in Sources */,
