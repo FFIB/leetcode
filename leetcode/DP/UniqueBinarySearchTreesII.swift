@@ -26,8 +26,8 @@ extension Solution {
     func generateTrees(_ n: Int) -> [TreeNode?] {
         
         func recursion(min: Int, max: Int) -> [TreeNode?] {
-            guard min <= max else{ return [] }
             var ans = [TreeNode?]()
+            guard min <= max else{ return [nil] }
             for i in min...max {
                 let left = recursion(min: min, max: i - 1)
                 let right = recursion(min: i + 1, max: max)
@@ -43,6 +43,7 @@ extension Solution {
             return ans
         }
         
-        return recursion(min: 0, max: n)
+        guard n != 0 else{ return [] }
+        return recursion(min: 1, max: n)
     }
 }
