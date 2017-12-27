@@ -111,10 +111,9 @@
 687 |[Longest Univalue Path](https://github.com/FFIB/leetcode/blob/master/leetcode/Tree/LongestUnivaluePath.swift) |Easy|
 606 |[Construct String from Binary Tree](https://github.com/FFIB/leetcode/blob/master/leetcode/Tree/ConstructStringfromBinaryTree.swift) |Easy|
 450 |[Delete Node in a BST](https://github.com/FFIB/leetcode/blob/master/leetcode/Tree/DeleteNodeinaBST.swift) |Medium|
-103 |[Binary Tree Zigzag Level Order Traversal](https://github.com/FFIB/leetcode/blob/master/leetcode/Tree/BinaryTreeZigzagLevelOrderTraversal.swift) |Medium|
 337 |[House Robber III](https://github.com/FFIB/leetcode/blob/master/leetcode/Tree/HouseRobberIII.swift) |Medium|
 144 |[Binary Tree Preorder Traversal](https://github.com/FFIB/leetcode/blob/master/leetcode/Stack/BinaryTreePreorderTraversal.swift) |Medium|
-
+94  |[Binary Tree Inorder Traversal](https://github.com/FFIB/leetcode/blob/master/leetcode/Stack/BinaryTreeInorderTraversal.swift) |Medium|
 
 # Stack   
 
@@ -140,7 +139,9 @@
 \#        | Title                       | Difficulty     |
 --------------------|-------------------|-----------------------|
 621 |[Task Scheduler](https://github.com/FFIB/leetcode/blob/master/leetcode/Queue/TaskScheduler.swift) |Medium|
-
+102	|[Binary Tree Level Order Traversal](https://github.com/FFIB/leetcode/blob/master/leetcode/Queue/BinaryTreeLevelOrderTraversal.swift) |Medium|
+107	|[Binary Tree Level Order Traversal II](https://github.com/FFIB/leetcode/blob/master/leetcode/Queue/BinaryTreeLevelOrderTraversalII.swift) |Easy|
+103 |[Binary Tree Zigzag Level Order Traversal](https://github.com/FFIB/leetcode/blob/master/leetcode/Queue/BinaryTreeZigzagLevelOrderTraversal.swift) |Medium|
 
 # Math   
 
@@ -244,8 +245,6 @@
 
 \#        | Title                       | Difficulty     |
 --------------------|-------------------|-----------------------|
-102	|[Binary Tree Level Order Traversal](https://github.com/FFIB/leetcode/blob/master/leetcode/BFS/BinaryTreeLevelOrderTraversal.swift) |Medium|
-107	|[Binary Tree Level Order Traversal II](https://github.com/FFIB/leetcode/blob/master/leetcode/BFS/BinaryTreeLevelOrderTraversalII.swift) |Easy|
 
 # Backtracking
 \#        | Title                       | Difficulty     |
