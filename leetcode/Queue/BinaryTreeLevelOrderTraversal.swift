@@ -28,19 +28,22 @@ import Foundation
  */
 extension Solution {
     func levelOrder(_ root: TreeNode?) -> [[Int]] {
-        var res = [[Int]]()
-        levelOperationI(res: &res, root: root, level: 0)
-        return res
-    }
-    func levelOperationI(res: inout [[Int]], root: TreeNode?, level: Int) {
-        guard let tree = root else{
-            return
+        guard let root = root else { return [] }
+        var ans = [[Int]]()
+        var queue = [(0, root)]
+        while !queue.isEmpty {
+            let tree = queue.removeFirst()
+            if tree.0 >= ans.count {
+                ans.append([Int]())
+            }
+            ans[tree.0].append(tree.1.val)
+            if let left = tree.1.left {
+                queue.append((tree.0 + 1, left))
+            }
+            if let right = tree.1.right {
+                queue.append((tree.0 + 1, right))
+            }
         }
-        if level >= res.count {
-            res.append([])
-        }
-        res[level].append(tree.val)
-        levelOperationI(res: &res, root: tree.left, level: level + 1)
-        levelOperationI(res: &res, root: tree.right, level: level + 1)
+        return ans
     }
 }
