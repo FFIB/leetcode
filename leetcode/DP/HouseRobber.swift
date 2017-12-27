@@ -18,7 +18,7 @@ import Foundation
  Special thanks to @ifanchu for adding this problem and creating all test cases. Also thanks to @ts for adding additional test cases.
  */
 extension Solution {
-    func rob(_ nums: [Int]) -> Int {
+    func robI(_ nums: [Int]) -> Int {
         var even = 0
         var odd = 0
         for i in 0..<nums.count {

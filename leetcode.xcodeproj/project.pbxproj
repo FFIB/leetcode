@@ -768,7 +768,6 @@
 		056F2ABE1FCF9C2300F3389A /* BFS */ = {
 			isa = PBXGroup;
 			children = (
-				056F2ABF1FCF9CEB00F3389A /* BinaryTreeLevelOrderTraversalII.swift */,
 			);
 			path = BFS;
 			sourceTree = "<group>";
@@ -787,6 +786,7 @@
 			children = (
 				05D7908F1FC3BE1B00469AD1 /* TaskScheduler.swift */,
 				425DE3EC1EF913980079F9B3 /* BinaryTreeLevelOrderTraversal.swift */,
+				056F2ABF1FCF9CEB00F3389A /* BinaryTreeLevelOrderTraversalII.swift */,
 				05A54CBD1FEC99F200CE33CC /* BinaryTreeZigzagLevelOrderTraversal.swift */,
 			);
 			path = Queue;
