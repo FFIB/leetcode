@@ -768,7 +768,6 @@
 		056F2ABE1FCF9C2300F3389A /* BFS */ = {
 			isa = PBXGroup;
 			children = (
-				425DE3EC1EF913980079F9B3 /* BinaryTreeLevelOrderTraversal.swift */,
 				056F2ABF1FCF9CEB00F3389A /* BinaryTreeLevelOrderTraversalII.swift */,
 			);
 			path = BFS;
@@ -787,6 +786,8 @@
 			isa = PBXGroup;
 			children = (
 				05D7908F1FC3BE1B00469AD1 /* TaskScheduler.swift */,
+				425DE3EC1EF913980079F9B3 /* BinaryTreeLevelOrderTraversal.swift */,
+				05A54CBD1FEC99F200CE33CC /* BinaryTreeZigzagLevelOrderTraversal.swift */,
 			);
 			path = Queue;
 			sourceTree = "<group>";
@@ -1154,7 +1155,6 @@
 				050F80081FE8BA9C0006B2FE /* SecondMinimumNodeInaBinaryTree.swift */,
 				05A54CB21FEA670000CE33CC /* ConstructStringfromBinaryTree.swift */,
 				05A54CB41FEB491400CE33CC /* DeleteNodeinaBST.swift */,
-				05A54CBD1FEC99F200CE33CC /* BinaryTreeZigzagLevelOrderTraversal.swift */,
 				054275071FEF81800079882F /* HouseRobberIII.swift */,
 			);
 			path = Tree;
