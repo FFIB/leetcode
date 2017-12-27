@@ -20,7 +20,7 @@ import Foundation
  Special thanks to @Freezen for adding this problem and creating all test cases.
  */
 extension Solution {
-    func rob(_ nums: [Int]) -> Int {
+    func robII(_ nums: [Int]) -> Int {
         func auxiliary(nums: [Int]) -> Int {
             var even = 0
             var odd = 0
