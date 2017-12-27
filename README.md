@@ -113,6 +113,8 @@
 450 |[Delete Node in a BST](https://github.com/FFIB/leetcode/blob/master/leetcode/Tree/DeleteNodeinaBST.swift) |Medium|
 103 |[Binary Tree Zigzag Level Order Traversal](https://github.com/FFIB/leetcode/blob/master/leetcode/Tree/BinaryTreeZigzagLevelOrderTraversal.swift) |Medium|
 337 |[House Robber III](https://github.com/FFIB/leetcode/blob/master/leetcode/Tree/HouseRobberIII.swift) |Medium|
+144 |[Binary Tree Preorder Traversal](https://github.com/FFIB/leetcode/blob/master/leetcode/Stack/BinaryTreePreorderTraversal.swift) |Medium|
+
 
 # Stack   
 
