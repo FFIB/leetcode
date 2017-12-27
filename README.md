@@ -112,8 +112,7 @@
 606 |[Construct String from Binary Tree](https://github.com/FFIB/leetcode/blob/master/leetcode/Tree/ConstructStringfromBinaryTree.swift) |Easy|
 450 |[Delete Node in a BST](https://github.com/FFIB/leetcode/blob/master/leetcode/Tree/DeleteNodeinaBST.swift) |Medium|
 337 |[House Robber III](https://github.com/FFIB/leetcode/blob/master/leetcode/Tree/HouseRobberIII.swift) |Medium|
-144 |[Binary Tree Preorder Traversal](https://github.com/FFIB/leetcode/blob/master/leetcode/Stack/BinaryTreePreorderTraversal.swift) |Medium|
-94  |[Binary Tree Inorder Traversal](https://github.com/FFIB/leetcode/blob/master/leetcode/Stack/BinaryTreeInorderTraversal.swift) |Medium|
+
 
 # Stack   
 
@@ -133,6 +132,8 @@
 316 |[Remove Duplicate Letters](https://github.com/FFIB/leetcode/blob/master/leetcode/Stack/RemoveDuplicateLetters.swift) |Hard|
 739 |[Daily Temperatures](https://github.com/FFIB/leetcode/blob/master/leetcode/Stack/DailyTemperatures.swift) |Medium|
 385	|[Mini Parser](https://github.com/FFIB/leetcode/blob/master/leetcode/Stack/MiniParser.swift) |Medium|
+144 |[Binary Tree Preorder Traversal](https://github.com/FFIB/leetcode/blob/master/leetcode/Stack/BinaryTreePreorderTraversal.swift) |Medium|
+94  |[Binary Tree Inorder Traversal](https://github.com/FFIB/leetcode/blob/master/leetcode/Stack/BinaryTreeInorderTraversal.swift) |Medium|
 
 # Queue
 
