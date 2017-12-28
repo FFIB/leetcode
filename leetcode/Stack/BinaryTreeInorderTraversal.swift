@@ -23,15 +23,15 @@ import Foundation
  
  Note: Recursive solution is trivial, could you do it iteratively?
  */
-extension  Solution {
+extension Solution {
     func inorderTraversal(_ root: TreeNode?) -> [Int] {
-        var stack = [root]
+        var stack = [TreeNode?]()
         var ans = [Int]()
         var tree = root
         while tree != nil || !stack.isEmpty {
-            while let left = tree?.left {
-                stack.append(left)
-                tree = left
+            while tree != nil {
+                stack.append(tree)
+                tree = tree?.left
             }
             tree = stack.removeLast()
             ans.append(tree!.val)

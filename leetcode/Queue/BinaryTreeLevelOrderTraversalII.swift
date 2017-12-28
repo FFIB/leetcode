@@ -36,7 +36,7 @@ extension Solution {
             if tree.0 >= ans.count {
                 ans.insert([Int](), at: 0)
             }
-            ans[ans.count - tree.0].append(tree.1.val)
+            ans[ans.count - tree.0 - 1].append(tree.1.val)
             if let left = tree.1.left {
                 queue.append((tree.0 + 1, left))
             }
