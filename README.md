@@ -134,6 +134,8 @@
 385	|[Mini Parser](https://github.com/FFIB/leetcode/blob/master/leetcode/Stack/MiniParser.swift) |Medium|
 144 |[Binary Tree Preorder Traversal](https://github.com/FFIB/leetcode/blob/master/leetcode/Stack/BinaryTreePreorderTraversal.swift) |Medium|
 94  |[Binary Tree Inorder Traversal](https://github.com/FFIB/leetcode/blob/master/leetcode/Stack/BinaryTreeInorderTraversal.swift) |Medium|
+145 |[Binary Tree Postorder Traversal](https://github.com/FFIB/leetcode/blob/master/leetcode/Stack/BinaryTreePostorderTraversal.swift) |Hard|
+
 
 # Queue
 
