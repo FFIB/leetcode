@@ -321,6 +321,8 @@
 101	|[Symmetric Tree](https://github.com/FFIB/leetcode/blob/master/leetcode/DFS/SymmetricTree.swift) |Easy|
 733 |[Flood Fill](https://github.com/FFIB/leetcode/blob/master/leetcode/DFS/FloodFill.swift) |Easy|
 129 |[Sum Root to Leaf Numbers](https://github.com/FFIB/leetcode/blob/master/leetcode/DFS/SumRoottoLeafNumbers.swift) |Medium|
+105	|[Construct Binary Tree from Preorder and Inorder Traversal](https://github.com/FFIB/leetcode/blob/master/leetcode/DFS/ConstructBinaryTreeFromPreorderAndInorderTraversal.swift)
+106 |[Construct Binary Tree from Inorder and Postorder Traversal](https://github.com/FFIB/leetcode/blob/master/leetcode/DFS/ConstructBinaryTreeFromInorderAndPostorderTraversal.swift)
 
 # Divide and Conquer
 \#        | Title                       | Difficulty     |
