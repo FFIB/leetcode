@@ -730,6 +730,7 @@
 		054751701F9EDFFE0091FFDF /* Stack */ = {
 			isa = PBXGroup;
 			children = (
+				A677B3BE1FFA4F4B002A8613 /* BinaryTreeRightSideView.swift */,
 				05D05FDF1FD4E7B7002EB5A7 /* RemoveKDigits.swift */,
 				42A69D421F24B73900F73B43 /* EvaluateReversePolishNotation.swift */,
 				05663DA71F7B3D0B00C5C387 /* BasicCalculator.swift */,
@@ -792,7 +793,6 @@
 				425DE3EC1EF913980079F9B3 /* BinaryTreeLevelOrderTraversal.swift */,
 				056F2ABF1FCF9CEB00F3389A /* BinaryTreeLevelOrderTraversalII.swift */,
 				05A54CBD1FEC99F200CE33CC /* BinaryTreeZigzagLevelOrderTraversal.swift */,
-				A677B3BE1FFA4F4B002A8613 /* BinaryTreeRightSideView.swift */,
 			);
 			path = Queue;
 			sourceTree = "<group>";

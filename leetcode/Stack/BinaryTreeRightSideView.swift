@@ -24,21 +24,23 @@ import Foundation
 extension Solution {
     func rightSideView(_ root: TreeNode?) -> [Int] {
         guard let tree = root else { return [] }
-        var ans = [tree.val]
-        var queue = [(0, tree)]
+        
+        var ans = [Int]()
+        var stack = [(0, tree)]
         var flag = 0
-        while !queue.isEmpty {
-            let t = queue.removeLast()
-            if t.0 > flag {
+        
+        while !stack.isEmpty {
+            let t = stack.removeLast()
+            if t.0 == flag {
                 ans.append(t.1.val)
+                flag = t.0 + 1
             }
             if let l = t.1.left {
-                queue.append((t.0 + 1, l))
+                stack.append((t.0 + 1, l))
             }
             if let r = t.1.right {
-                queue.append((t.0 + 1, r))
+                stack.append((t.0 + 1, r))
             }
-            flag = t.0 + 1
         }
         return ans
     }
