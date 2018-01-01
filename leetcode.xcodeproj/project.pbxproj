@@ -330,6 +330,7 @@
 		42E19CBA1F0346B600E606BF /* MaximumProductofThreeNumbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42E19CB91F0346B600E606BF /* MaximumProductofThreeNumbers.swift */; };
 		42EB9F4D1F04995D00AA53CE /* RangeAdditionII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42EB9F4C1F04995D00AA53CE /* RangeAdditionII.swift */; };
 		42EB9F4F1F049F2F00AA53CE /* MergeTwoBinaryTrees.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42EB9F4E1F049F2F00AA53CE /* MergeTwoBinaryTrees.swift */; };
+		A677B3BF1FFA4F4B002A8613 /* BinaryTreeRightSideView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A677B3BE1FFA4F4B002A8613 /* BinaryTreeRightSideView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -670,6 +671,7 @@
 		42E19CB91F0346B600E606BF /* MaximumProductofThreeNumbers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumProductofThreeNumbers.swift; sourceTree = "<group>"; };
 		42EB9F4C1F04995D00AA53CE /* RangeAdditionII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RangeAdditionII.swift; sourceTree = "<group>"; };
 		42EB9F4E1F049F2F00AA53CE /* MergeTwoBinaryTrees.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MergeTwoBinaryTrees.swift; sourceTree = "<group>"; };
+		A677B3BE1FFA4F4B002A8613 /* BinaryTreeRightSideView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BinaryTreeRightSideView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -774,13 +776,6 @@
 			path = DFS;
 			sourceTree = "<group>";
 		};
-		056F2ABE1FCF9C2300F3389A /* BFS */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = BFS;
-			sourceTree = "<group>";
-		};
 		056F2AC91FD104EA00F3389A /* DataStructure */ = {
 			isa = PBXGroup;
 			children = (
@@ -797,6 +792,7 @@
 				425DE3EC1EF913980079F9B3 /* BinaryTreeLevelOrderTraversal.swift */,
 				056F2ABF1FCF9CEB00F3389A /* BinaryTreeLevelOrderTraversalII.swift */,
 				05A54CBD1FEC99F200CE33CC /* BinaryTreeZigzagLevelOrderTraversal.swift */,
+				A677B3BE1FFA4F4B002A8613 /* BinaryTreeRightSideView.swift */,
 			);
 			path = Queue;
 			sourceTree = "<group>";
@@ -981,7 +977,6 @@
 			isa = PBXGroup;
 			children = (
 				05E669101FCDB90600452391 /* Unknown */,
-				056F2ABE1FCF9C2300F3389A /* BFS */,
 				056F2AAF1FCF9C1700F3389A /* DFS */,
 				05E6690D1FCDB79500452391 /* Bit Manipulation */,
 				05E6690C1FCD67C900452391 /* Map */,
@@ -1448,6 +1443,7 @@
 				058921C81FBE73F200AD0183 /* 1-bitand2-bitCharacters.swift in Sources */,
 				053A91901F79ECE6002E5B0D /* BulbSwitcherII.swift in Sources */,
 				425DE4391EF919290079F9B3 /* BinaryTreeTilt.swift in Sources */,
+				A677B3BF1FFA4F4B002A8613 /* BinaryTreeRightSideView.swift in Sources */,
 				050F80091FE8BA9C0006B2FE /* SecondMinimumNodeInaBinaryTree.swift in Sources */,
 				42880CE01EFA121300869089 /* HappyNumber.swift in Sources */,
 				056F2ACD1FD12EF200F3389A /* RBTree.swift in Sources */,
