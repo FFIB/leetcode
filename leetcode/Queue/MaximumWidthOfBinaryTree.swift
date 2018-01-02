@@ -77,8 +77,6 @@ extension Solution {
                 if let left = node.left { tmp.append((i * 2.0, left)) }
                 if let right = node.right { tmp.append((i * 2.0 + 1.0, right)) }
             }
-            print(ans)
-            print(queue)
             queue = tmp
         }
         return Int(ans)
