@@ -113,6 +113,8 @@
 450 |[Delete Node in a BST](https://github.com/FFIB/leetcode/blob/master/leetcode/Tree/DeleteNodeinaBST.swift) |Medium|
 337 |[House Robber III](https://github.com/FFIB/leetcode/blob/master/leetcode/Tree/HouseRobberIII.swift) |Medium|
 623 |[Add One Row to Tree](https://github.com/FFIB/leetcode/blob/master/leetcode/Tree/AddOneRowtoTree.swift) |Medium|
+652 |[Find Duplicate Subtrees](https://github.com/FFIB/leetcode/blob/master/leetcode/Tree/FindDuplicateSubtrees.swift) |Medium|
+
 
 # Stack   
 
