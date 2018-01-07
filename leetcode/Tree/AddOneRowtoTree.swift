@@ -80,5 +80,6 @@ extension Solution {
         }
         addOneRow(tree.left, v, d - 1)
         addOneRow(tree.right, v, d - 1)
+        return tree
     }
 }
