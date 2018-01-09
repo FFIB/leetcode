@@ -62,7 +62,6 @@ extension Solution {
         
         guard let root = root else { return [] }
         
-        var queue = [root]
         let height = findDepth(root: root)
         var width = (1 << height) - 1
         var ans = Array(repeating: Array(repeating: "", count: width), count: height)
