@@ -397,6 +397,7 @@
 454 |[4Sum II](https://github.com/FFIB/leetcode/blob/master/leetcode/Hash%20Table/fourSumII.swift) |Medium|
 336 |[Palindrome Pairs](https://github.com/FFIB/leetcode/blob/master/leetcode/Hash%20Table/PalindromePairs.swift) |Hard|
 720 |[Longest Word in Dictionary](https://github.com/FFIB/leetcode/blob/master/leetcode/Hash%20Table/LongestWordinDictionary.swift) |Easy|
+748 |[Shortest Completing Word](https://github.com/FFIB/leetcode/blob/master/leetcode/Hash%20Table/ShortestCompletingWord.swift) |Medium|
 
 # Unknown
 \#        | Title                       | Difficulty     |
