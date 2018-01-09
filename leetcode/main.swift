@@ -88,5 +88,5 @@ for num in nums {
     tmp = listNode
 }
 
-debugPrint(Solution().constructMaximumBinaryTree([3,2,1,6,0,5]))
+debugPrint(Solution().shortestCompletingWord("1s3 PSt", ["step", "steps", "stripe", "stepple"]))
 
