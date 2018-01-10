@@ -88,5 +88,5 @@ for num in nums {
     tmp = listNode
 }
 
-debugPrint(Solution().shortestCompletingWord("1s3 PSt", ["step", "steps", "stripe", "stepple"]))
+debugPrint(Solution().findLength([1,2,3,2,1], [3,2,1,4,7]))
 
