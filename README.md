@@ -248,6 +248,8 @@
 120 |[Triangle](https://github.com/FFIB/leetcode/blob/master/leetcode/DP/Triangle.swift) |Medium|
 264	|[Ugly Number II](https://github.com/FFIB/leetcode/blob/master/leetcode/DP/UglyNumberII.swift) |Medium|
 740 |[Delete and Earn](https://github.com/FFIB/leetcode/blob/master/leetcode/DP/DeleteandEarn.swift) |Medium|
+718 |[Maximum Length of Repeated Subarray](https://github.com/FFIB/leetcode/blob/master/leetcode/DP/MaximumLengthofRepeatedSubarray.swift) |Medium|
+
 
 # BFS   
 
