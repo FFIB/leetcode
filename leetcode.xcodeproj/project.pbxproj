@@ -66,6 +66,8 @@
 		0552AFB21FA5E7FF00485EF3 /* TargetSum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0552AFB11FA5E7FF00485EF3 /* TargetSum.swift */; };
 		0556271B1F43E04400C718CE /* SuperPow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0556271A1F43E04400C718CE /* SuperPow.swift */; };
 		055E1C411F4D459E0000A25C /* ValidSquare.swift in Sources */ = {isa = PBXBuildFile; fileRef = 055E1C401F4D459E0000A25C /* ValidSquare.swift */; };
+		0564E69520084CAC005203D5 /* MinCostClimbingStairs.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0564E69420084CAC005203D5 /* MinCostClimbingStairs.swift */; };
+		0564E69720085655005203D5 /* LargestNumberAtLeastTwiceofOthers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0564E69620085655005203D5 /* LargestNumberAtLeastTwiceofOthers.swift */; };
 		0564FEF51FC667F000945971 /* BurstBalloons.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0564FEF41FC667F000945971 /* BurstBalloons.swift */; };
 		05663DA81F7B3D0B00C5C387 /* BasicCalculator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05663DA71F7B3D0B00C5C387 /* BasicCalculator.swift */; };
 		056EAF521F3804AB00975950 /* SetMatrixZeroes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 056EAF511F3804AB00975950 /* SetMatrixZeroes.swift */; };
@@ -413,6 +415,8 @@
 		0552AFB11FA5E7FF00485EF3 /* TargetSum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TargetSum.swift; sourceTree = "<group>"; };
 		0556271A1F43E04400C718CE /* SuperPow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SuperPow.swift; sourceTree = "<group>"; };
 		055E1C401F4D459E0000A25C /* ValidSquare.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ValidSquare.swift; sourceTree = "<group>"; };
+		0564E69420084CAC005203D5 /* MinCostClimbingStairs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinCostClimbingStairs.swift; sourceTree = "<group>"; };
+		0564E69620085655005203D5 /* LargestNumberAtLeastTwiceofOthers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LargestNumberAtLeastTwiceofOthers.swift; sourceTree = "<group>"; };
 		0564FEF41FC667F000945971 /* BurstBalloons.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BurstBalloons.swift; sourceTree = "<group>"; };
 		05663DA71F7B3D0B00C5C387 /* BasicCalculator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BasicCalculator.swift; sourceTree = "<group>"; };
 		056EAF511F3804AB00975950 /* SetMatrixZeroes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SetMatrixZeroes.swift; sourceTree = "<group>"; };
@@ -740,6 +744,7 @@
 				0570976D1FDD6CF200761710 /* DeleteandEarn.swift */,
 				42880C9B1EFA0D3300869089 /* HouseRobber.swift */,
 				053CB01B1FF097A500753A9F /* HouseRobberII.swift */,
+				0564E69420084CAC005203D5 /* MinCostClimbingStairs.swift */,
 			);
 			path = DP;
 			sourceTree = "<group>";
@@ -1062,6 +1067,7 @@
 				053C86491F9CA6EC00CB5D49 /* SubarrayProductLessThanK.swift */,
 				0506F92C1FBBCDD70031842A /* FindPivotIndex.swift */,
 				058921C71FBE73F200AD0183 /* 1-bitand2-bitCharacters.swift */,
+				0564E69620085655005203D5 /* LargestNumberAtLeastTwiceofOthers.swift */,
 			);
 			path = Array;
 			sourceTree = "<group>";
@@ -1303,6 +1309,7 @@
 				42880CB21EFA0EBD00869089 /* FactorialTrailingZeroes.swift in Sources */,
 				425DE49D1EF923620079F9B3 /* SortColors.swift in Sources */,
 				425DE42B1EF916F80079F9B3 /* ShortestUnsortedContinuousSubarray.swift in Sources */,
+				0564E69520084CAC005203D5 /* MinCostClimbingStairs.swift in Sources */,
 				05DF62951F7D3D4F000A836A /* Non-decreasingArray.swift in Sources */,
 				05A4617A1F6621F000D00745 /* SmallestRange.swift in Sources */,
 				420FF8671F3028FE00E6DBF6 /* ThreeSum.swift in Sources */,
@@ -1552,6 +1559,7 @@
 				42880CC61EFA10A900869089 /* MissingNumber.swift in Sources */,
 				054128381FA9A8CC00CFE81C /* CountingBits.swift in Sources */,
 				425DE4571EF91C4A0079F9B3 /* StringtoInteger_atoi.swift in Sources */,
+				0564E69720085655005203D5 /* LargestNumberAtLeastTwiceofOthers.swift in Sources */,
 				42A69D431F24B73900F73B43 /* EvaluateReversePolishNotation.swift in Sources */,
 				0570976E1FDD6CF200761710 /* DeleteandEarn.swift in Sources */,
 				4247BE171F1E0FBD0012C1F1 /* SumofLeftLeaves.swift in Sources */,
