@@ -88,5 +88,5 @@ for num in nums {
     tmp = listNode
 }
 
-debugPrint(Solution().findLength([1,2,3,2,1], [3,2,1,4,7]))
+debugPrint(Solution().dominantIndex([0,0,0,1]))
 

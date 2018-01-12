@@ -34,7 +34,6 @@ extension Solution {
                     dp[i][j] = dp[i - 1][j - 1] + 1
                     ans = max(ans, dp[i][j])
                 }
-                print(dp)
             }
         }
         return ans
