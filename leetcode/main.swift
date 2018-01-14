@@ -88,5 +88,5 @@ for num in nums {
     tmp = listNode
 }
 
-debugPrint(Solution().dominantIndex([0,0,0,1]))
+debugPrint(Solution().minDistance("a", "e"))
 

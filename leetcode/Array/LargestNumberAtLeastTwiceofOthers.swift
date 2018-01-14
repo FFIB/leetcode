@@ -34,8 +34,8 @@ extension Solution {
         guard !nums.isEmpty else { return -1 }
         var max = nums.max()!
         var index = -1
-        for (i, num) in nums.enumerated() where num * 2 > max.1 {
-            guard num != max.1 else {
+        for (i, num) in nums.enumerated() where num * 2 > max {
+            guard num != max else {
                 index = i
                 continue
             }
