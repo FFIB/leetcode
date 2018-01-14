@@ -41,7 +41,7 @@
 118	|[Pascal's Triangle](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/Pascal'sTriangle.swift) |Easy|
 119	|[Pascal's Triangle II](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/Pascal'sTriangleII.swift) |Easy|
 16	|[3Sum Closest](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/ThreeSumClosest.swift) |Medium|
-
+747 |[Largest Number At Least Twice of Others](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/LargestNumberAtLeastTwiceofOthers.swift) |Easy|
 
 # String   
 
@@ -249,7 +249,7 @@
 264	|[Ugly Number II](https://github.com/FFIB/leetcode/blob/master/leetcode/DP/UglyNumberII.swift) |Medium|
 740 |[Delete and Earn](https://github.com/FFIB/leetcode/blob/master/leetcode/DP/DeleteandEarn.swift) |Medium|
 718 |[Maximum Length of Repeated Subarray](https://github.com/FFIB/leetcode/blob/master/leetcode/DP/MaximumLengthofRepeatedSubarray.swift) |Medium|
-
+746|[Min Cost Climbing Stairs](https://github.com/FFIB/leetcode/blob/master/leetcode/DP/MinCostClimbingStairs.swift) |Easy|
 
 # BFS   
 
