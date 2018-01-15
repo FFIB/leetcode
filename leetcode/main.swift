@@ -88,5 +88,5 @@ for num in nums {
     tmp = listNode
 }
 
-debugPrint(Solution().minDistance("a", "e"))
+debugPrint(Solution().nextGreaterElement(12222333))
 
