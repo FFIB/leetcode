@@ -88,5 +88,5 @@ for num in nums {
     tmp = listNode
 }
 
-debugPrint(Solution().nextGreaterElement(12222333))
+debugPrint(Solution().findLUSlength(["aaa","aaa","aa"]))
 
