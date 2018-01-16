@@ -73,6 +73,7 @@
 539	|[Minimum Time Difference](https://github.com/FFIB/leetcode/blob/master/leetcode/String/MinimumTimeDifference.swift) |Medium|
 5   |[Longest Palindromic Substring](https://github.com/FFIB/leetcode/blob/master/leetcode/String/LongestPalindromicSubstring.swift) |Medium|
 556 |[Next Greater Element III](https://github.com/FFIB/leetcode/blob/master/leetcode/String/NextGreaterElementIII.swift) |Medium|
+522 |[Longest Uncommon Subsequence II](https://github.com/FFIB/leetcode/blob/master/leetcode/String/LongestUncommonSubsequenceII.swift) |Medium|
 
 # List   
 \#        | Title                       | Difficulty     |
