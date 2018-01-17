@@ -88,5 +88,5 @@ for num in nums {
     tmp = listNode
 }
 
-debugPrint(Solution().findLUSlength(["aaa","aaa","aa"]))
+debugPrint(Solution().partitionLabels("ababcbacadefegdehijhklij"))
 
