@@ -121,6 +121,7 @@
 		05C752F2200D911C0026EBE2 /* LongestUncommonSubsequenceII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05C752F1200D911C0026EBE2 /* LongestUncommonSubsequenceII.swift */; };
 		05C752F4200EE29B0026EBE2 /* PartitionLabels.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05C752F3200EE29B0026EBE2 /* PartitionLabels.swift */; };
 		05C752F820118BE40026EBE2 /* MinimumASCIIDeleteSumforTwoStrings.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05C752F720118BE40026EBE2 /* MinimumASCIIDeleteSumforTwoStrings.swift */; };
+		05C752FA2014DC410026EBE2 /* FriendCircles.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05C752F92014DC410026EBE2 /* FriendCircles.swift */; };
 		05D05FDE1FD2A8D7002EB5A7 /* LongestWordinDictionary.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05D05FDD1FD2A8D7002EB5A7 /* LongestWordinDictionary.swift */; };
 		05D05FE01FD4E7B7002EB5A7 /* RemoveKDigits.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05D05FDF1FD4E7B7002EB5A7 /* RemoveKDigits.swift */; };
 		05D7902C1FC0803400469AD1 /* StringCompression.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05D7902B1FC0803400469AD1 /* StringCompression.swift */; };
@@ -475,6 +476,7 @@
 		05C752F1200D911C0026EBE2 /* LongestUncommonSubsequenceII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongestUncommonSubsequenceII.swift; sourceTree = "<group>"; };
 		05C752F3200EE29B0026EBE2 /* PartitionLabels.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PartitionLabels.swift; sourceTree = "<group>"; };
 		05C752F720118BE40026EBE2 /* MinimumASCIIDeleteSumforTwoStrings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumASCIIDeleteSumforTwoStrings.swift; sourceTree = "<group>"; };
+		05C752F92014DC410026EBE2 /* FriendCircles.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FriendCircles.swift; sourceTree = "<group>"; };
 		05D05FDD1FD2A8D7002EB5A7 /* LongestWordinDictionary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongestWordinDictionary.swift; sourceTree = "<group>"; };
 		05D05FDF1FD4E7B7002EB5A7 /* RemoveKDigits.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemoveKDigits.swift; sourceTree = "<group>"; };
 		05D7902B1FC0803400469AD1 /* StringCompression.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StringCompression.swift; sourceTree = "<group>"; };
@@ -809,6 +811,7 @@
 				053CB02F1FF5D56300753A9F /* ConstructBinaryTreeFromInorderAndPostorderTraversal.swift */,
 				05886EA91FFC6DD200D40F11 /* FlattenBinaryTreetoLinkedList.swift */,
 				05886EAB1FFDBB0D00D40F11 /* ValidateBinarySearchTree.swift */,
+				05C752F92014DC410026EBE2 /* FriendCircles.swift */,
 			);
 			path = DFS;
 			sourceTree = "<group>";
@@ -1432,6 +1435,7 @@
 				42880CD61EFA11B200869089 /* ValidPerfectSquare.swift in Sources */,
 				425DE4B51EF925470079F9B3 /* HammingDistance.swift in Sources */,
 				42880CA01EFA0D7900869089 /* Pascal'sTriangle.swift in Sources */,
+				05C752FA2014DC410026EBE2 /* FriendCircles.swift in Sources */,
 				42880CE61EFA132600869089 /* TwoSumII-Inputarrayissorted.swift in Sources */,
 				425DE3C61EF90DF70079F9B3 /* MagicalString.swift in Sources */,
 				425DE4931EF922A90079F9B3 /* AddTwoNumbersII.swift in Sources */,
