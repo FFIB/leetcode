@@ -338,6 +338,7 @@
 106 |[Construct Binary Tree from Inorder and Postorder Traversal](https://github.com/FFIB/leetcode/blob/master/leetcode/DFS/ConstructBinaryTreeFromInorderAndPostorderTraversal.swift) |Medium|
 114 |[Flatten Binary Tree to Linked List](https://github.com/FFIB/leetcode/blob/master/leetcode/DFS/FlattenBinaryTreetoLinkedList.swift) |Medium|
 98  |[Validate Binary Search Tree](https://github.com/FFIB/leetcode/blob/master/leetcode/DFS/ValidateBinarySearchTree.swift) |Medium|
+547 |[Friend Circles](https://github.com/FFIB/leetcode/blob/master/leetcode/DFS/FriendCircles.swift) |Medium|
 
 
 # Divide and Conquer
