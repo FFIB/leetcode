@@ -88,5 +88,5 @@ for num in nums {
     tmp = listNode
 }
 
-debugPrint(Solution().partitionLabels("ababcbacadefegdehijhklij"))
+debugPrint(Solution().minimumDeleteSum("delete", "leet"))
 
