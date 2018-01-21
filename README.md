@@ -255,6 +255,8 @@
 718 |[Maximum Length of Repeated Subarray](https://github.com/FFIB/leetcode/blob/master/leetcode/DP/MaximumLengthofRepeatedSubarray.swift) |Medium|
 746|[Min Cost Climbing Stairs](https://github.com/FFIB/leetcode/blob/master/leetcode/DP/MinCostClimbingStairs.swift) |Easy|
 583|[Delete Operation for Two Strings](https://github.com/FFIB/leetcode/blob/master/leetcode/DP/DeleteOperationforTwoStrings.swift) |Medium|
+712|[Minimum ASCII Delete Sum for Two Strings](https://github.com/FFIB/leetcode/blob/master/leetcode/DP/MinimumASCIIDeleteSumforTwoStrings.swift) |Medium|
+
 # BFS  
 
 \#        | Title                       | Difficulty     |
