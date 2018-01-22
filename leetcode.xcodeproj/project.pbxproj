@@ -124,6 +124,7 @@
 		05C752FA2014DC410026EBE2 /* FriendCircles.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05C752F92014DC410026EBE2 /* FriendCircles.swift */; };
 		05D05FDE1FD2A8D7002EB5A7 /* LongestWordinDictionary.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05D05FDD1FD2A8D7002EB5A7 /* LongestWordinDictionary.swift */; };
 		05D05FE01FD4E7B7002EB5A7 /* RemoveKDigits.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05D05FDF1FD4E7B7002EB5A7 /* RemoveKDigits.swift */; };
+		05D5F0C120157ADA00BC890B /* SplitLinkedListinParts.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05D5F0C020157ADA00BC890B /* SplitLinkedListinParts.swift */; };
 		05D7902C1FC0803400469AD1 /* StringCompression.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05D7902B1FC0803400469AD1 /* StringCompression.swift */; };
 		05D7902E1FC2755100469AD1 /* SelfDividingNumbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05D7902D1FC2755100469AD1 /* SelfDividingNumbers.swift */; };
 		05D790901FC3BE1B00469AD1 /* TaskScheduler.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05D7908F1FC3BE1B00469AD1 /* TaskScheduler.swift */; };
@@ -479,6 +480,7 @@
 		05C752F92014DC410026EBE2 /* FriendCircles.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FriendCircles.swift; sourceTree = "<group>"; };
 		05D05FDD1FD2A8D7002EB5A7 /* LongestWordinDictionary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongestWordinDictionary.swift; sourceTree = "<group>"; };
 		05D05FDF1FD4E7B7002EB5A7 /* RemoveKDigits.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemoveKDigits.swift; sourceTree = "<group>"; };
+		05D5F0C020157ADA00BC890B /* SplitLinkedListinParts.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SplitLinkedListinParts.swift; sourceTree = "<group>"; };
 		05D7902B1FC0803400469AD1 /* StringCompression.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StringCompression.swift; sourceTree = "<group>"; };
 		05D7902D1FC2755100469AD1 /* SelfDividingNumbers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SelfDividingNumbers.swift; sourceTree = "<group>"; };
 		05D7908F1FC3BE1B00469AD1 /* TaskScheduler.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaskScheduler.swift; sourceTree = "<group>"; };
@@ -1229,6 +1231,7 @@
 				052B9B881F5513BA008F0824 /* PartitionList.swift */,
 				425DE4981EF923160079F9B3 /* RemoveDuplicatesfromSortedList.swift */,
 				056F2AC51FD0E74200F3389A /* RemoveDuplicatesfromSortedListII.swift */,
+				05D5F0C020157ADA00BC890B /* SplitLinkedListinParts.swift */,
 			);
 			path = "Linked List";
 			sourceTree = "<group>";
@@ -1522,6 +1525,7 @@
 				056F2AAD1FCE9B8600F3389A /* NextGreaterElementI.swift in Sources */,
 				422024631F2981460068DC93 /* CombinationSum.swift in Sources */,
 				0516CE241F729D7E00E1459A /* ValidPalindromeII.swift in Sources */,
+				05D5F0C120157ADA00BC890B /* SplitLinkedListinParts.swift in Sources */,
 				050F5D421FBA826400A053D0 /* MergeIntervals.swift in Sources */,
 				425DE49F1EF923870079F9B3 /* PalindromeLinkedList.swift in Sources */,
 				053A918E1F791288002E5B0D /* SolvetheEquation.swift in Sources */,
