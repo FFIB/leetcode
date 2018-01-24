@@ -125,6 +125,7 @@
 		05D05FDE1FD2A8D7002EB5A7 /* LongestWordinDictionary.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05D05FDD1FD2A8D7002EB5A7 /* LongestWordinDictionary.swift */; };
 		05D05FE01FD4E7B7002EB5A7 /* RemoveKDigits.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05D05FDF1FD4E7B7002EB5A7 /* RemoveKDigits.swift */; };
 		05D5F0C120157ADA00BC890B /* SplitLinkedListinParts.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05D5F0C020157ADA00BC890B /* SplitLinkedListinParts.swift */; };
+		05D5F0C52016CAD800BC890B /* TotalHammingDistance.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05D5F0C42016CAD800BC890B /* TotalHammingDistance.swift */; };
 		05D7902C1FC0803400469AD1 /* StringCompression.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05D7902B1FC0803400469AD1 /* StringCompression.swift */; };
 		05D7902E1FC2755100469AD1 /* SelfDividingNumbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05D7902D1FC2755100469AD1 /* SelfDividingNumbers.swift */; };
 		05D790901FC3BE1B00469AD1 /* TaskScheduler.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05D7908F1FC3BE1B00469AD1 /* TaskScheduler.swift */; };
@@ -481,6 +482,7 @@
 		05D05FDD1FD2A8D7002EB5A7 /* LongestWordinDictionary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongestWordinDictionary.swift; sourceTree = "<group>"; };
 		05D05FDF1FD4E7B7002EB5A7 /* RemoveKDigits.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemoveKDigits.swift; sourceTree = "<group>"; };
 		05D5F0C020157ADA00BC890B /* SplitLinkedListinParts.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SplitLinkedListinParts.swift; sourceTree = "<group>"; };
+		05D5F0C42016CAD800BC890B /* TotalHammingDistance.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TotalHammingDistance.swift; sourceTree = "<group>"; };
 		05D7902B1FC0803400469AD1 /* StringCompression.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StringCompression.swift; sourceTree = "<group>"; };
 		05D7902D1FC2755100469AD1 /* SelfDividingNumbers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SelfDividingNumbers.swift; sourceTree = "<group>"; };
 		05D7908F1FC3BE1B00469AD1 /* TaskScheduler.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaskScheduler.swift; sourceTree = "<group>"; };
@@ -973,6 +975,7 @@
 				05E6690E1FCDB83200452391 /* SingleNumberII.swift */,
 				425DE4CC1EF9273A0079F9B3 /* SingleNumberIII.swift */,
 				425DE4B41EF925470079F9B3 /* HammingDistance.swift */,
+				05D5F0C42016CAD800BC890B /* TotalHammingDistance.swift */,
 				054128371FA9A8CC00CFE81C /* CountingBits.swift */,
 				42880CC51EFA10A900869089 /* MissingNumber.swift */,
 			);
@@ -1408,6 +1411,7 @@
 				052B8B871FB2A2F0008A4058 /* IsSubsequence.swift in Sources */,
 				42E051AF1F1C5D7800D2516C /* LongestPalindromicSubsequence.swift in Sources */,
 				425DE3C41EF90D5F0079F9B3 /* WiggleSubsequence.swift in Sources */,
+				05D5F0C52016CAD800BC890B /* TotalHammingDistance.swift in Sources */,
 				425DE4271EF916B10079F9B3 /* LongestHarmoniousSubsequence.swift in Sources */,
 				425DE4D11EF9279B0079F9B3 /* TeemoAttacking.swift in Sources */,
 				425DE3B91EF90B740079F9B3 /* MyPow.swift in Sources */,

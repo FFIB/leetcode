@@ -32,13 +32,11 @@ import Foundation
  */
 extension Solution {
     func hammingDistance(_ x: Int, _ y: Int) -> Int {
-        var result = x^y
+        var xor = x^y
         var count = 0
-        while result > 0 {
-            if result % 2 == 1 {
-                count += 1
-            }
-            result /= 2
+        while xor != 0 {
+            xor = (xor - 1) & xor
+            count += 1
         }
         return count
     }
