@@ -316,6 +316,7 @@
 137	|[Single Number II](https://github.com/FFIB/leetcode/blob/master/leetcode/Bit%20Manipulation/SingleNumberII.swift) |Medium|
 260	|[Single Number III](https://github.com/FFIB/leetcode/blob/master/leetcode/Bit%20Manipulation/SingleNumberIII.swift) |Medium|
 371	|[Sum of Two Integers](https://github.com/FFIB/leetcode/blob/master/leetcode/Bit%20Manipulation/SumofTwoIntegers.swift) |Easy|
+477 [Total Hamming Distance](https://github.com/FFIB/leetcode/blob/master/leetcode/Bit%20Manipulation/TotalHammingDistance.swift) |Medium|
 
 # DFS
 \#        | Title                       | Difficulty     |
