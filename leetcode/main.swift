@@ -88,5 +88,5 @@ for num in nums {
     tmp = listNode
 }
 
-debugPrint(Solution().minimumDeleteSum("delete", "leet"))
+debugPrint(Solution().totalHammingDistance([10,14,2,1]))
 
