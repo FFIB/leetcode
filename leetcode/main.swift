@@ -88,5 +88,5 @@ for num in nums {
     tmp = listNode
 }
 
-debugPrint(Solution().totalHammingDistance([10,14,2,1]))
+debugPrint(Solution().fractionAddition("-1/2+1/2+1/3"))
 
