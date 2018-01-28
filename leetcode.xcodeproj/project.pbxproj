@@ -97,6 +97,8 @@
 		05886EB620045D9B00D40F11 /* ShortestCompletingWord.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05886EB520045D9B00D40F11 /* ShortestCompletingWord.swift */; };
 		05886EB82005AC2B00D40F11 /* MaximumLengthofRepeatedSubarray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05886EB72005AC2B00D40F11 /* MaximumLengthofRepeatedSubarray.swift */; };
 		058921C81FBE73F200AD0183 /* 1-bitand2-bitCharacters.swift in Sources */ = {isa = PBXBuildFile; fileRef = 058921C71FBE73F200AD0183 /* 1-bitand2-bitCharacters.swift */; };
+		058DC0DF20196E2700B53DE6 /* MaxChunksToMakeSortedI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 058DC0DE20196E2700B53DE6 /* MaxChunksToMakeSortedI.swift */; };
+		058DC0E12019824E00B53DE6 /* MaxChunksToMakeSortedII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 058DC0E02019824E00B53DE6 /* MaxChunksToMakeSortedII.swift */; };
 		0599AF3A1F3D46FF0090B9F4 /* VaildateIPAdress.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0599AF391F3D46FF0090B9F4 /* VaildateIPAdress.swift */; };
 		059E11631F3400D800EC13D4 /* FourSum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 059E11621F3400D800EC13D4 /* FourSum.swift */; };
 		059E11651F3595A600EC13D4 /* SubarraySumEqualsK.swift in Sources */ = {isa = PBXBuildFile; fileRef = 059E11641F3595A600EC13D4 /* SubarraySumEqualsK.swift */; };
@@ -454,6 +456,8 @@
 		05886EB520045D9B00D40F11 /* ShortestCompletingWord.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShortestCompletingWord.swift; sourceTree = "<group>"; };
 		05886EB72005AC2B00D40F11 /* MaximumLengthofRepeatedSubarray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumLengthofRepeatedSubarray.swift; sourceTree = "<group>"; };
 		058921C71FBE73F200AD0183 /* 1-bitand2-bitCharacters.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1-bitand2-bitCharacters.swift"; sourceTree = "<group>"; };
+		058DC0DE20196E2700B53DE6 /* MaxChunksToMakeSortedI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaxChunksToMakeSortedI.swift; sourceTree = "<group>"; };
+		058DC0E02019824E00B53DE6 /* MaxChunksToMakeSortedII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaxChunksToMakeSortedII.swift; sourceTree = "<group>"; };
 		0599AF391F3D46FF0090B9F4 /* VaildateIPAdress.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VaildateIPAdress.swift; sourceTree = "<group>"; };
 		059D17071F62553000B9C11C /* FractiontoRecurringDecimal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FractiontoRecurringDecimal.swift; sourceTree = "<group>"; };
 		059E11621F3400D800EC13D4 /* FourSum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FourSum.swift; sourceTree = "<group>"; };
@@ -1090,6 +1094,8 @@
 				0506F92C1FBBCDD70031842A /* FindPivotIndex.swift */,
 				058921C71FBE73F200AD0183 /* 1-bitand2-bitCharacters.swift */,
 				0564E69620085655005203D5 /* LargestNumberAtLeastTwiceofOthers.swift */,
+				058DC0DE20196E2700B53DE6 /* MaxChunksToMakeSortedI.swift */,
+				058DC0E02019824E00B53DE6 /* MaxChunksToMakeSortedII.swift */,
 			);
 			path = Array;
 			sourceTree = "<group>";
@@ -1375,6 +1381,7 @@
 				42BA2AF41F0B33E200608E06 /* DetectCapital.swift in Sources */,
 				42880CE21EFA122700869089 /* PowerofTwo.swift in Sources */,
 				425DE47D1EF921350079F9B3 /* ConvertaNumbertoHexadecimal.swift in Sources */,
+				058DC0DF20196E2700B53DE6 /* MaxChunksToMakeSortedI.swift in Sources */,
 				054863501FA2D9E900A39DA0 /* DecodeWays.swift in Sources */,
 				42880CF81EFA144A00869089 /* TwoSum.swift in Sources */,
 				42D43E981F2AD4A600252B02 /* CombinationSumII.swift in Sources */,
@@ -1527,6 +1534,7 @@
 				42880CDC1EFA11E800869089 /* PowerofThree.swift in Sources */,
 				4247BE151F1E0E5C0012C1F1 /* MinimumAbsoluteDifferenceinBST.swift in Sources */,
 				425DE43F1EF91A0B0079F9B3 /* SearchinRotatedSortedArray.swift in Sources */,
+				058DC0E12019824E00B53DE6 /* MaxChunksToMakeSortedII.swift in Sources */,
 				425DE4E11EF928A70079F9B3 /* RotateArray.swift in Sources */,
 				42880C961EFA0CA300869089 /* WordPattern.swift in Sources */,
 				05886EB420030B8800D40F11 /* PrintBinaryTree.swift in Sources */,

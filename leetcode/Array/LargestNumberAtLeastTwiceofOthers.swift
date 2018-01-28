@@ -32,7 +32,7 @@ import Foundation
 extension Solution {
     func dominantIndex(_ nums: [Int]) -> Int {
         guard !nums.isEmpty else { return -1 }
-        var max = nums.max()!
+        let max = nums.max()!
         var index = -1
         for (i, num) in nums.enumerated() where num * 2 > max {
             guard num != max else {

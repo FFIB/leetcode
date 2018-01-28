@@ -44,7 +44,7 @@ extension Solution {
             dict[s] = v
             return s
         }
-        find(root: root)
+        _ = find(root: root)
         return ans
     }
 }
