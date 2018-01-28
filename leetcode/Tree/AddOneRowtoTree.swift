@@ -78,8 +78,8 @@ extension Solution {
             tree.right = vRight
             return tree
         }
-        addOneRow(tree.left, v, d - 1)
-        addOneRow(tree.right, v, d - 1)
+        _ = addOneRow(tree.left, v, d - 1)
+        _ = addOneRow(tree.right, v, d - 1)
         return tree
     }
 }
