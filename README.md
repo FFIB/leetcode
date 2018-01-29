@@ -42,6 +42,8 @@
 119	|[Pascal's Triangle II](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/Pascal'sTriangleII.swift) |Easy|
 16	|[3Sum Closest](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/ThreeSumClosest.swift) |Medium|
 747 |[Largest Number At Least Twice of Others](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/LargestNumberAtLeastTwiceofOthers.swift) |Easy|
+769 |[Max Chunks To Make Sorted](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/MaxChunksToMakeSortedI.swift) |Medium|
+768 |[Max Chunks To Make Sorted II](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/MaxChunksToMakeSortedII.swift) |Hard|
 
 # String   
 
