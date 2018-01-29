@@ -88,5 +88,7 @@ for num in nums {
     tmp = listNode
 }
 
-debugPrint(Solution().maxChunksToSortedII([1,2,0,3]))
+print([2,1,3,4,4].sorted())
+var arr: [[Character]] = [["X","X","X","X"],["X","O","O","X"],["X","X","O","X"],["X","O","X","X"]]
+debugPrint(Solution().solve(&arr))
 

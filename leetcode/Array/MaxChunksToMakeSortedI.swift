@@ -34,12 +34,14 @@ import Foundation
  arr[i] will be a permutation of [0, 1, ..., arr.length - 1].
  */
 extension Solution {
-    guard !arr.isEmpty else { return 0 }
-    var ans = 1
-    for i in 1..<arr.count {
-        if arr[i..<arr.count].min()! > arr[0..<i].max()! {
-            ans += 1
+    func maxChunksToSortedI(_ arr: [Int]) -> Int {
+        guard !arr.isEmpty else { return 0 }
+        var ans = 1
+        for i in 1..<arr.count {
+            if arr[i..<arr.count].min()! > arr[0..<i].max()! {
+                ans += 1
+            }
         }
+        return ans
     }
-    return ans
 }
