@@ -127,6 +127,7 @@
 		05C752FA2014DC410026EBE2 /* FriendCircles.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05C752F92014DC410026EBE2 /* FriendCircles.swift */; };
 		05D05FDE1FD2A8D7002EB5A7 /* LongestWordinDictionary.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05D05FDD1FD2A8D7002EB5A7 /* LongestWordinDictionary.swift */; };
 		05D05FE01FD4E7B7002EB5A7 /* RemoveKDigits.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05D05FDF1FD4E7B7002EB5A7 /* RemoveKDigits.swift */; };
+		05D0D669201EB5A500B4B5B1 /* SurroundedRegions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05D0D668201EB5A500B4B5B1 /* SurroundedRegions.swift */; };
 		05D5F0C120157ADA00BC890B /* SplitLinkedListinParts.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05D5F0C020157ADA00BC890B /* SplitLinkedListinParts.swift */; };
 		05D5F0C52016CAD800BC890B /* TotalHammingDistance.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05D5F0C42016CAD800BC890B /* TotalHammingDistance.swift */; };
 		05D7902C1FC0803400469AD1 /* StringCompression.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05D7902B1FC0803400469AD1 /* StringCompression.swift */; };
@@ -487,6 +488,7 @@
 		05C752F92014DC410026EBE2 /* FriendCircles.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FriendCircles.swift; sourceTree = "<group>"; };
 		05D05FDD1FD2A8D7002EB5A7 /* LongestWordinDictionary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongestWordinDictionary.swift; sourceTree = "<group>"; };
 		05D05FDF1FD4E7B7002EB5A7 /* RemoveKDigits.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemoveKDigits.swift; sourceTree = "<group>"; };
+		05D0D668201EB5A500B4B5B1 /* SurroundedRegions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SurroundedRegions.swift; sourceTree = "<group>"; };
 		05D5F0C020157ADA00BC890B /* SplitLinkedListinParts.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SplitLinkedListinParts.swift; sourceTree = "<group>"; };
 		05D5F0C42016CAD800BC890B /* TotalHammingDistance.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TotalHammingDistance.swift; sourceTree = "<group>"; };
 		05D7902B1FC0803400469AD1 /* StringCompression.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StringCompression.swift; sourceTree = "<group>"; };
@@ -835,6 +837,14 @@
 			path = DataStructure;
 			sourceTree = "<group>";
 		};
+		05D0D66A201EB93F00B4B5B1 /* BFS */ = {
+			isa = PBXGroup;
+			children = (
+				05D0D668201EB5A500B4B5B1 /* SurroundedRegions.swift */,
+			);
+			path = BFS;
+			sourceTree = "<group>";
+		};
 		05D7908E1FC3BE0700469AD1 /* Queue */ = {
 			isa = PBXGroup;
 			children = (
@@ -1028,6 +1038,7 @@
 		425DE3A11EF906990079F9B3 /* leetcode */ = {
 			isa = PBXGroup;
 			children = (
+				05D0D66A201EB93F00B4B5B1 /* BFS */,
 				05E669101FCDB90600452391 /* Unknown */,
 				056F2AAF1FCF9C1700F3389A /* DFS */,
 				05E6690D1FCDB79500452391 /* Bit Manipulation */,
@@ -1365,6 +1376,7 @@
 				05E2EC761F57A84100D8EF6B /* SlidingWindowMaximum.swift in Sources */,
 				055E1C411F4D459E0000A25C /* ValidSquare.swift in Sources */,
 				425DE4971EF922FB0079F9B3 /* ReorderList.swift in Sources */,
+				05D0D669201EB5A500B4B5B1 /* SurroundedRegions.swift in Sources */,
 				05886EB22002360400D40F11 /* FindDuplicateSubtrees.swift in Sources */,
 				425DE4BD1EF925C40079F9B3 /* TopKFrequentElements.swift in Sources */,
 				0505B3521F7F296D009E4ED2 /* ImageSmoother.swift in Sources */,
