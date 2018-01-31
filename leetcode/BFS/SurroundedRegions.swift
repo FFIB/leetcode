@@ -42,7 +42,7 @@ extension Solution {
             bfs(x: 0, y: j)
             bfs(x: board.count - 1, y: j)
         }
-
+        
         for i in 1..<board.count - 1 {
             bfs(x: i, y: 0)
             bfs(x: i, y: board[0].count - 1)

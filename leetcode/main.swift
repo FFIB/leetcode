@@ -88,7 +88,5 @@ for num in nums {
     tmp = listNode
 }
 
-print([2,1,3,4,4].sorted())
-var arr: [[Character]] = [["X","X","X","X"],["X","O","O","X"],["X","X","O","X"],["X","O","X","X"]]
-debugPrint(Solution().solve(&arr))
+debugPrint(Solution().reachNumber(8))
 
