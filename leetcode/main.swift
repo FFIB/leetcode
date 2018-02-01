@@ -88,5 +88,5 @@ for num in nums {
     tmp = listNode
 }
 
-debugPrint(Solution().multiply("0", "0"))
+debugPrint(Solution().findMaxLength([0,1]))
 
