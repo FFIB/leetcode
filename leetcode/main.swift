@@ -88,5 +88,5 @@ for num in nums {
     tmp = listNode
 }
 
-debugPrint(Solution().reachNumber(8))
+debugPrint(Solution().multiply("0", "0"))
 

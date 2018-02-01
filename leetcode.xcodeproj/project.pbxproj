@@ -98,6 +98,7 @@
 		05886EB620045D9B00D40F11 /* ShortestCompletingWord.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05886EB520045D9B00D40F11 /* ShortestCompletingWord.swift */; };
 		05886EB82005AC2B00D40F11 /* MaximumLengthofRepeatedSubarray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05886EB72005AC2B00D40F11 /* MaximumLengthofRepeatedSubarray.swift */; };
 		058921C81FBE73F200AD0183 /* 1-bitand2-bitCharacters.swift in Sources */ = {isa = PBXBuildFile; fileRef = 058921C71FBE73F200AD0183 /* 1-bitand2-bitCharacters.swift */; };
+		058BCB252022ADC600FF0A97 /* MultiplyStrings.swift in Sources */ = {isa = PBXBuildFile; fileRef = 058BCB242022ADC600FF0A97 /* MultiplyStrings.swift */; };
 		058DC0DF20196E2700B53DE6 /* MaxChunksToMakeSortedI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 058DC0DE20196E2700B53DE6 /* MaxChunksToMakeSortedI.swift */; };
 		058DC0E12019824E00B53DE6 /* MaxChunksToMakeSortedII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 058DC0E02019824E00B53DE6 /* MaxChunksToMakeSortedII.swift */; };
 		0599AF3A1F3D46FF0090B9F4 /* VaildateIPAdress.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0599AF391F3D46FF0090B9F4 /* VaildateIPAdress.swift */; };
@@ -459,6 +460,7 @@
 		05886EB520045D9B00D40F11 /* ShortestCompletingWord.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShortestCompletingWord.swift; sourceTree = "<group>"; };
 		05886EB72005AC2B00D40F11 /* MaximumLengthofRepeatedSubarray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumLengthofRepeatedSubarray.swift; sourceTree = "<group>"; };
 		058921C71FBE73F200AD0183 /* 1-bitand2-bitCharacters.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1-bitand2-bitCharacters.swift"; sourceTree = "<group>"; };
+		058BCB242022ADC600FF0A97 /* MultiplyStrings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MultiplyStrings.swift; sourceTree = "<group>"; };
 		058DC0DE20196E2700B53DE6 /* MaxChunksToMakeSortedI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaxChunksToMakeSortedI.swift; sourceTree = "<group>"; };
 		058DC0E02019824E00B53DE6 /* MaxChunksToMakeSortedII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaxChunksToMakeSortedII.swift; sourceTree = "<group>"; };
 		0599AF391F3D46FF0090B9F4 /* VaildateIPAdress.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VaildateIPAdress.swift; sourceTree = "<group>"; };
@@ -1192,6 +1194,7 @@
 				05D7902D1FC2755100469AD1 /* SelfDividingNumbers.swift */,
 				05305F8120181C5900F14B74 /* FractionAdditionandSubtraction.swift */,
 				053F87F7202008AA00783A8F /* ReachANumber.swift */,
+				058BCB242022ADC600FF0A97 /* MultiplyStrings.swift */,
 			);
 			path = Math;
 			sourceTree = "<group>";
@@ -1367,6 +1370,7 @@
 				428B5C1A1F1715E70016F48B /* ZigZagConversion.swift in Sources */,
 				425DE4B31EF925200079F9B3 /* KthSmallestElementinSortedMatrix.swift in Sources */,
 				05A54CB31FEA670000CE33CC /* ConstructStringfromBinaryTree.swift in Sources */,
+				058BCB252022ADC600FF0A97 /* MultiplyStrings.swift in Sources */,
 				425DE4451EF91AB20079F9B3 /* DistributeCandies.swift in Sources */,
 				05A142151FC51B33000298AD /* BestTimetoBuyandSellStockIII.swift in Sources */,
 				053CB02A1FF33A6F00753A9F /* BinaryTreeInorderTraversal.swift in Sources */,
