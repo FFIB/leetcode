@@ -203,6 +203,7 @@
 592 |[Fraction Addition and Subtraction](https://github.com/FFIB/leetcode/blob/master/leetcode/Math/FractionAdditionandSubtraction.swift) |Medium|
 754 |[Reach a Number](https://github.com/FFIB/leetcode/blob/master/leetcode/Math/ReachANumber.swift) |Medium|
 43  |[Multiply Strings](https://github.com/FFIB/leetcode/blob/master/leetcode/Math/MultiplyStrings.swift) |Medium|
+313 |[Super Ugly Number](https://leetcode.com/problems/super-ugly-number/description/) |Medium|
 
 # Sort   
 
