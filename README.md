@@ -414,6 +414,8 @@
 336 |[Palindrome Pairs](https://github.com/FFIB/leetcode/blob/master/leetcode/Hash%20Table/PalindromePairs.swift) |Hard|
 720 |[Longest Word in Dictionary](https://github.com/FFIB/leetcode/blob/master/leetcode/Hash%20Table/LongestWordinDictionary.swift) |Easy|
 748 |[Shortest Completing Word](https://github.com/FFIB/leetcode/blob/master/leetcode/Hash%20Table/ShortestCompletingWord.swift) |Medium|
+525 |[Contiguous Array](https://github.com/FFIB/leetcode/blob/master/leetcode/Hash%20Table/ContiguousArray.swift) |Medium|
+
 
 # Unknown
 \#        | Title                       | Difficulty     |
