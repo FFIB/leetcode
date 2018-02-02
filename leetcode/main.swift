@@ -88,5 +88,5 @@ for num in nums {
     tmp = listNode
 }
 
-debugPrint(Solution().findMaxLength([0,1]))
+debugPrint(Solution().nthSuperUglyNumber(15, [2, 7, 13, 19]))
 
