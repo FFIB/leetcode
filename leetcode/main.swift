@@ -88,5 +88,5 @@ for num in nums {
     tmp = listNode
 }
 
-debugPrint(Solution().nthSuperUglyNumber(15, [2, 7, 13, 19]))
+debugPrint(Solution().nthUglyNumber(184))
 
