@@ -21,19 +21,13 @@ import Foundation
  */
 extension Solution {
     func isUgly(_ num: Int) -> Bool {
-        var number = num
-        if number < 1 {
-            return false
-        }
-        while number % 2 == 0  {
-            number /= 2
-        }
-        while number % 3 == 0 {
-            number /= 3
-        }
-        while number % 5 == 0 {
-            number /= 5
-        }
-        return number == 1
+        guard num > 0 else { return false }
+
+        if num == 1 { return true }
+        else if num % 2 == 0 { return isUgly(num / 2) }
+        else if num % 3 == 0 { return isUgly(num / 3) }
+        else if num % 5 == 0 { return isUgly(num / 5) }
+
+        return num == 1
     }
 }

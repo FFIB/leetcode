@@ -20,33 +20,37 @@ import Foundation
  Special thanks to @jianchao.li.fighter for adding this problem and creating all test cases.
  */
 extension Solution {
-    func nthUglyNumber(_ n: Int) -> Int {
-        if n <= 6 {
-            return n
+    class Solution {
+        func nthUglyNumber(_ n: Int) -> Int {
+            guard n > 6 else { return n }
+
+            var uglyNums = Array(repeating: 0, count: n)
+            uglyNums[0] = 1
+            var f2 = 2, f3 = 3, f5 = 5
+            var i2 = 0, i3 = 0, i5 = 0
+
+            for i in 1..<n {
+                let num = min(f2, f3, f5)
+                uglyNums[i] = num
+
+                if f2 == num {
+                    i2 += 1
+                    f2 = 2 * uglyNums[i2]
+                }
+
+                if f3 == num {
+                    i3 += 1
+                    f3 = 3 * uglyNums[i3]
+                }
+
+                if f5 == num {
+                    i5 += 1
+                    f5 = 5 * uglyNums[i5]
+                }
+            }
+
+            return uglyNums.last!
         }
-        var result = [1]
-        var num = n
-        var L1 = 0
-        var L2 = 0
-        var L3 = 0
-        
-        while num > 1 {
-            let m2 = result[L1] * 2
-            let m3 = result[L2] * 3
-            let m5 = result[L3] * 5
-            let mn = min(m2, m3, m5)
-            if mn == m2 {
-                L1 += 1
-            }
-            if mn == m3 {
-                L2 += 1
-            }
-            if mn == m5 {
-                L3 += 1
-            }
-            result.append(mn)
-            num -= 1
-        }
-        return result.last!
     }
+
 }
