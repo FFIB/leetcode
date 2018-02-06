@@ -23,7 +23,7 @@ import Foundation
  Note: Do not use the eval built-in library function.
  */
 extension Solution {
-    func calculate(_ s: String) -> Int {
+    func calculateI(_ s: String) -> Int {
         let arr = (s+"#").map{String($0)}
         var sign = 1
         var ans = 0

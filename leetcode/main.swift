@@ -88,5 +88,5 @@ for num in nums {
     tmp = listNode
 }
 
-debugPrint(Solution().nthUglyNumber(184))
+debugPrint(Solution().calculateII(" 0+8-1-2+8"))
 
