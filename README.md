@@ -77,6 +77,7 @@
 556 |[Next Greater Element III](https://github.com/FFIB/leetcode/blob/master/leetcode/String/NextGreaterElementIII.swift) |Medium|
 522 |[Longest Uncommon Subsequence II](https://github.com/FFIB/leetcode/blob/master/leetcode/String/LongestUncommonSubsequenceII.swift) |Medium|
 763 |[Partition Labels](https://github.com/FFIB/leetcode/edit/master/leetcode/String/PartitionLabels.swift) |Medium|
+227 |[Basic CalculatorII](https://github.com/FFIB/leetcode/blob/master/leetcode/String/BasicCalculatorII.swift) |Medium|
 
 # List   
 \#        | Title                       | Difficulty     |
