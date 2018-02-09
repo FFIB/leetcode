@@ -44,6 +44,7 @@
 747 |[Largest Number At Least Twice of Others](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/LargestNumberAtLeastTwiceofOthers.swift) |Easy|
 769 |[Max Chunks To Make Sorted](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/MaxChunksToMakeSortedI.swift) |Medium|
 768 |[Max Chunks To Make Sorted II](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/MaxChunksToMakeSortedII.swift) |Hard|
+766 |[Toeplitz Matrix](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/ToeplitzMatrix.swift) |Easy|
 
 # String   
 
@@ -77,7 +78,7 @@
 556 |[Next Greater Element III](https://github.com/FFIB/leetcode/blob/master/leetcode/String/NextGreaterElementIII.swift) |Medium|
 522 |[Longest Uncommon Subsequence II](https://github.com/FFIB/leetcode/blob/master/leetcode/String/LongestUncommonSubsequenceII.swift) |Medium|
 763 |[Partition Labels](https://github.com/FFIB/leetcode/edit/master/leetcode/String/PartitionLabels.swift) |Medium|
-227 |[Basic CalculatorII](https://github.com/FFIB/leetcode/blob/master/leetcode/String/BasicCalculatorII.swift) |Medium|
+
 
 # List   
 \#        | Title                       | Difficulty     |
@@ -132,6 +133,7 @@
 735 |[Asteroid Collision](https://github.com/FFIB/leetcode/blob/master/leetcode/Stack/AsteroidCollision.swift) |Medium|
 682 |[Baseball Game](https://github.com/FFIB/leetcode/blob/master/leetcode/Stack/BaseballGame.swift) |Easy|
 224 |[Basic Calculator](https://github.com/FFIB/leetcode/blob/master/leetcode/Stack/BasicCalculator.swift) |Hard|
+227 |[Basic CalculatorII](https://github.com/FFIB/leetcode/blob/master/leetcode/Stack/BasicCalculatorII.swift) |Medium|
 150 |[Evaluate Reverse Polish Notation](https://github.com/FFIB/leetcode/blob/master/leetcode/Stack/EvaluateReversePolishNotation.swift) |Medium|
 496	|[Next Greater Element I](https://github.com/FFIB/leetcode/blob/master/leetcode/Stack/NextGreaterElementI.swift) |Easy|
 503	|[Next Greater Element II](https://github.com/FFIB/leetcode/blob/master/leetcode/Stack/NextGreaterElementII.swift)  |Medium|
