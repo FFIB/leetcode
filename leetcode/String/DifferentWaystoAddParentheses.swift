@@ -32,7 +32,7 @@ import Foundation
  Output: [-34, -14, -10, -10, 10]
  */
 extension Solution {
-    
+
     func diffWaysToCompute(_ input: String) -> [Int] {
         if let num = Int(input) { return [num] }
 

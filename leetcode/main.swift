@@ -88,5 +88,5 @@ for num in nums {
     tmp = listNode
 }
 
-debugPrint(Solution().diffWaysToCompute("2*3-4*5"))
+debugPrint(Solution().shoppingOffers([2,5], [[3,0,5],[1,2,10]], [3,2]))
 
