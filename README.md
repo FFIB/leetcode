@@ -350,7 +350,7 @@
 114 |[Flatten Binary Tree to Linked List](https://github.com/FFIB/leetcode/blob/master/leetcode/DFS/FlattenBinaryTreetoLinkedList.swift) |Medium|
 98  |[Validate Binary Search Tree](https://github.com/FFIB/leetcode/blob/master/leetcode/DFS/ValidateBinarySearchTree.swift) |Medium|
 547 |[Friend Circles](https://github.com/FFIB/leetcode/blob/master/leetcode/DFS/FriendCircles.swift) |Medium|
-
+638 |[Shopping Offers](https://github.com/FFIB/leetcode/blob/master/leetcode/DFS/ShoppingOffers.swift) |Medium|
 
 # Divide and Conquer
 \#        | Title                       | Difficulty     |
