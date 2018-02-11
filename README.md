@@ -78,7 +78,7 @@
 556 |[Next Greater Element III](https://github.com/FFIB/leetcode/blob/master/leetcode/String/NextGreaterElementIII.swift) |Medium|
 522 |[Longest Uncommon Subsequence II](https://github.com/FFIB/leetcode/blob/master/leetcode/String/LongestUncommonSubsequenceII.swift) |Medium|
 763 |[Partition Labels](https://github.com/FFIB/leetcode/edit/master/leetcode/String/PartitionLabels.swift) |Medium|
-
+241 |[Different Ways to Add Parentheses](https://github.com/FFIB/leetcode/blob/master/leetcode/String/DifferentWaystoAddParentheses.swift) |Medium|
 
 # List   
 \#        | Title                       | Difficulty     |
@@ -350,7 +350,7 @@
 114 |[Flatten Binary Tree to Linked List](https://github.com/FFIB/leetcode/blob/master/leetcode/DFS/FlattenBinaryTreetoLinkedList.swift) |Medium|
 98  |[Validate Binary Search Tree](https://github.com/FFIB/leetcode/blob/master/leetcode/DFS/ValidateBinarySearchTree.swift) |Medium|
 547 |[Friend Circles](https://github.com/FFIB/leetcode/blob/master/leetcode/DFS/FriendCircles.swift) |Medium|
-
+638 |[Shopping Offers](https://github.com/FFIB/leetcode/blob/master/leetcode/DFS/ShoppingOffers.swift) |Medium|
 
 # Divide and Conquer
 \#        | Title                       | Difficulty     |
