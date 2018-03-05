@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		0505B3521F7F296D009E4ED2 /* ImageSmoother.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0505B3511F7F296D009E4ED2 /* ImageSmoother.swift */; };
+		05061FB2204CE579003250CC /* Dota2Senate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05061FB1204CE579003250CC /* Dota2Senate.swift */; };
 		0506F92D1FBBCDD70031842A /* FindPivotIndex.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0506F92C1FBBCDD70031842A /* FindPivotIndex.swift */; };
 		050F20641F94DB890020BE52 /* CountBinarySubstrings.swift in Sources */ = {isa = PBXBuildFile; fileRef = 050F20631F94DB890020BE52 /* CountBinarySubstrings.swift */; };
 		050F20661F959CB90020BE52 /* fourSumII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 050F20651F959CB90020BE52 /* fourSumII.swift */; };
@@ -378,6 +379,7 @@
 
 /* Begin PBXFileReference section */
 		0505B3511F7F296D009E4ED2 /* ImageSmoother.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageSmoother.swift; sourceTree = "<group>"; };
+		05061FB1204CE579003250CC /* Dota2Senate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Dota2Senate.swift; sourceTree = "<group>"; };
 		0506F92C1FBBCDD70031842A /* FindPivotIndex.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindPivotIndex.swift; sourceTree = "<group>"; };
 		050F20631F94DB890020BE52 /* CountBinarySubstrings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountBinarySubstrings.swift; sourceTree = "<group>"; };
 		050F20651F959CB90020BE52 /* fourSumII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = fourSumII.swift; sourceTree = "<group>"; };
@@ -947,6 +949,7 @@
 				056F2AC11FCFA9D600F3389A /* MinimumNumberofArrowstoBurstBalloons.swift */,
 				42880CAB1EFA0E6A00869089 /* BestTimetoBuyandSellStockII.swift */,
 				05C3C3A61FDA8DBF00BA4054 /* MonotoneIncreasingDigits .swift */,
+				05061FB1204CE579003250CC /* Dota2Senate.swift */,
 			);
 			path = Greedy;
 			sourceTree = "<group>";
@@ -1475,6 +1478,7 @@
 				425DE4711EF91FAB0079F9B3 /* IntegerBreak.swift in Sources */,
 				05886EAC1FFDBB0D00D40F11 /* ValidateBinarySearchTree.swift in Sources */,
 				425DE4851EF921C40079F9B3 /* AddStrings.swift in Sources */,
+				05061FB2204CE579003250CC /* Dota2Senate.swift in Sources */,
 				05663DA81F7B3D0B00C5C387 /* BasicCalculator.swift in Sources */,
 				053CB0261FF32BE900753A9F /* SumRoottoLeafNumbers.swift in Sources */,
 				4247BE1D1F1EF4CD0012C1F1 /* FindAllAnaframsInString.swift in Sources */,

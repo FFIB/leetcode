@@ -30,7 +30,7 @@ extension Solution {
         var ans = [String]()
         for (i, char) in chars.enumerated() {
             sum = (sum * 4 + dict[char]!) & 0xFFFFF
-            
+
             guard i >= 9 else { continue }
 
             valCount[sum] = (valCount[sum] ?? 0) + 1
