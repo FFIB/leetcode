@@ -35,7 +35,7 @@ extension Solution {
     func maxProfit(_ prices: [Int], _ fee: Int) -> Int {
         if prices.count < 2 { return 0 }
 
-        var sell = 0, gbuy = -prices[0]
+        var sell = 0, buy = -prices[0]
 
         for i in 1..<prices.count {
             sell = max(sell, buy + prices[i] - fee)
