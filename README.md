@@ -419,7 +419,7 @@
 720 |[Longest Word in Dictionary](https://github.com/FFIB/leetcode/blob/master/leetcode/Hash%20Table/LongestWordinDictionary.swift) |Easy|
 748 |[Shortest Completing Word](https://github.com/FFIB/leetcode/blob/master/leetcode/Hash%20Table/ShortestCompletingWord.swift) |Medium|
 525 |[Contiguous Array](https://github.com/FFIB/leetcode/blob/master/leetcode/Hash%20Table/ContiguousArray.swift) |Medium|
-
+187 |[Repeated DNA Sequences](https://github.com/FFIB/leetcode/blob/master/leetcode/Hash%20Table/RepeatedDNASequences.swift) |Medium|
 
 # Unknown
 \#        | Title                       | Difficulty     |
