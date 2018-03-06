@@ -88,5 +88,5 @@ for num in nums {
     tmp = listNode
 }
 
-debugPrint(Solution().predictPartyVictory("RDD"))
+debugPrint(Solution().isPossible([1,2,3,4,4,5]))
 
