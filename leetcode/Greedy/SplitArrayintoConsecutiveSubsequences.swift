@@ -53,6 +53,8 @@ extension Solution {
                 return false
             }
             dict[num]! -= 1
+            print(dict)
+            print(tail)
         }
         return true
     }

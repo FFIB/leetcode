@@ -88,5 +88,5 @@ for num in nums {
     tmp = listNode
 }
 
-debugPrint(Solution().isPossible([1,2,3,4,4,5]))
+debugPrint(Solution().numSubarrayBoundedMax([2,1,1,5,6], 2, 8))
 
