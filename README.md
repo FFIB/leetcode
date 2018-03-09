@@ -372,6 +372,7 @@
 376	|[Wiggle Subsequence](https://github.com/FFIB/leetcode/blob/master/leetcode/Greedy/WiggleSubsequence.swift) |Medium|
 738 |[Monotone Increasing Digits](https://github.com/FFIB/leetcode/blob/master/leetcode/Greedy/MonotoneIncreasingDigits%20.swift) |Medium|
 649 |[Dota2 Senate](https://github.com/FFIB/leetcode/blob/master/leetcode/Greedy/Dota2Senate.swift) |Medium|
+659 |[Split Array into Consecutive Subsequences](https://github.com/FFIB/leetcode/blob/master/leetcode/Greedy/SplitArrayintoConsecutiveSubsequences.swift) |Medium|
 
 # Map
 \#        | Title                       | Difficulty     |
