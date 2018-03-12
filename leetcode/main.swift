@@ -88,5 +88,5 @@ for num in nums {
     tmp = listNode
 }
 
-debugPrint(Solution().numSubarrayBoundedMax([2,1,1,5,6], 2, 8))
+debugPrint(Solution().findClosestElements([1,2,3,4,5], 4, -1))
 
