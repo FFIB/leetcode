@@ -77,6 +77,7 @@
 		0564E69720085655005203D5 /* LargestNumberAtLeastTwiceofOthers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0564E69620085655005203D5 /* LargestNumberAtLeastTwiceofOthers.swift */; };
 		0564FEF51FC667F000945971 /* BurstBalloons.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0564FEF41FC667F000945971 /* BurstBalloons.swift */; };
 		05663DA81F7B3D0B00C5C387 /* BasicCalculator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05663DA71F7B3D0B00C5C387 /* BasicCalculator.swift */; };
+		0567E0F72056199E0076E165 /* FindKClosestElements.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0567E0F62056199E0076E165 /* FindKClosestElements.swift */; };
 		056EAF521F3804AB00975950 /* SetMatrixZeroes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 056EAF511F3804AB00975950 /* SetMatrixZeroes.swift */; };
 		056F2AAD1FCE9B8600F3389A /* NextGreaterElementI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 056F2AAC1FCE9B8600F3389A /* NextGreaterElementI.swift */; };
 		056F2AAE1FCEBB5D00F3389A /* FractiontoRecurringDecimal.swift in Sources */ = {isa = PBXBuildFile; fileRef = 059D17071F62553000B9C11C /* FractiontoRecurringDecimal.swift */; };
@@ -450,6 +451,7 @@
 		0564E69620085655005203D5 /* LargestNumberAtLeastTwiceofOthers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LargestNumberAtLeastTwiceofOthers.swift; sourceTree = "<group>"; };
 		0564FEF41FC667F000945971 /* BurstBalloons.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BurstBalloons.swift; sourceTree = "<group>"; };
 		05663DA71F7B3D0B00C5C387 /* BasicCalculator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BasicCalculator.swift; sourceTree = "<group>"; };
+		0567E0F62056199E0076E165 /* FindKClosestElements.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindKClosestElements.swift; sourceTree = "<group>"; };
 		056EAF511F3804AB00975950 /* SetMatrixZeroes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SetMatrixZeroes.swift; sourceTree = "<group>"; };
 		056F2AAC1FCE9B8600F3389A /* NextGreaterElementI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NextGreaterElementI.swift; sourceTree = "<group>"; };
 		056F2AB01FCF9C1700F3389A /* MaxAreaofIsland.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MaxAreaofIsland.swift; sourceTree = "<group>"; };
@@ -988,6 +990,7 @@
 				425DE4CE1EF927590079F9B3 /* Heaters.swift */,
 				42880D071EFA1C9700869089 /* FindMinimuminRotatedSortedArray.swift */,
 				42880D091EFA214C00869089 /* FindMinimumRotatedSortedArrayII.swift */,
+				0567E0F62056199E0076E165 /* FindKClosestElements.swift */,
 			);
 			path = "Binary Search";
 			sourceTree = "<group>";
@@ -1651,6 +1654,7 @@
 				42880CFE1EFA148B00869089 /* AssignCookies.swift in Sources */,
 				05A461761F64223500D00745 /* BrickWall.swift in Sources */,
 				42880CC61EFA10A900869089 /* MissingNumber.swift in Sources */,
+				0567E0F72056199E0076E165 /* FindKClosestElements.swift in Sources */,
 				054128381FA9A8CC00CFE81C /* CountingBits.swift in Sources */,
 				425DE4571EF91C4A0079F9B3 /* StringtoInteger_atoi.swift in Sources */,
 				0564E69720085655005203D5 /* LargestNumberAtLeastTwiceofOthers.swift in Sources */,
