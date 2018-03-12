@@ -45,6 +45,7 @@
 769 |[Max Chunks To Make Sorted](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/MaxChunksToMakeSortedI.swift) |Medium|
 768 |[Max Chunks To Make Sorted II](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/MaxChunksToMakeSortedII.swift) |Hard|
 766 |[Toeplitz Matrix](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/ToeplitzMatrix.swift) |Easy|
+795 |[Number of Subarrays with Bounded Maximum](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/NumberofSubarrayswithBoundedMaximum.swift) |Medium|
 
 # String   
 
