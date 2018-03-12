@@ -309,6 +309,7 @@
 34	|[Search for a Range](https://github.com/FFIB/leetcode/blob/master/leetcode/Binary%20Search/SearchforRange.swift)|Medium|
 167|[Two Sum II - Input array is sorted](https://github.com/FFIB/leetcode/blob/master/leetcode/Binary%20Search/TwoSumII-Inputarrayissorted.swift) |Easy|
 367	|[Valid Perfect Square](https://github.com/FFIB/leetcode/blob/master/leetcode/Binary%20Search/ValidPerfectSquare.swift) |Easy|
+658 |[Find K Closest Elements](https://github.com/FFIB/leetcode/blob/master/leetcode/Binary%20Search/FindKClosestElements.swift) |Medium|
 
 # Bit Manipulation
 \#        | Title                       | Difficulty     |
