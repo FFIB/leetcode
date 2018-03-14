@@ -800,7 +800,6 @@
 				05A0E39E200B3E3E00F0B507 /* DeleteOperationforTwoStrings.swift */,
 				05C752F720118BE40026EBE2 /* MinimumASCIIDeleteSumforTwoStrings.swift */,
 				05290B51202FDCD400AFBCC7 /* BestTimetoBuyandSellStockwithTransactionFee.swift */,
-				0538C59E2058BB4A0059D413 /* CanIWin.swift */,
 			);
 			path = DP;
 			sourceTree = "<group>";
@@ -856,6 +855,7 @@
 				05886EAB1FFDBB0D00D40F11 /* ValidateBinarySearchTree.swift */,
 				05C752F92014DC410026EBE2 /* FriendCircles.swift */,
 				0587FC42202D52110079203D /* ShoppingOffers.swift */,
+				0538C59E2058BB4A0059D413 /* CanIWin.swift */,
 			);
 			path = DFS;
 			sourceTree = "<group>";
