@@ -78,15 +78,5 @@ public class TreeNode {
 }
 
 
-//MARK: test
-let nums = [1,2,3,3,4,4,5]
-var list = ListNode(0)
-var tmp = list
-for num in nums {
-    let listNode = ListNode(num)
-    tmp.next = listNode
-    tmp = listNode
-}
-
-debugPrint(Solution().canIWin(20, 210))
+debugPrint(Solution().nextGreatestLetter(["c","f","j"], "j"))
 
