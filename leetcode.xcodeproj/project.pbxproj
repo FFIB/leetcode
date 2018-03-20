@@ -30,6 +30,7 @@
 		051C4D901F56584B00935D43 /* InsertionSortList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 051C4D8F1F56584B00935D43 /* InsertionSortList.swift */; };
 		05205920204E2CF80049B1D0 /* SplitArrayintoConsecutiveSubsequences.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0520591F204E2CF80049B1D0 /* SplitArrayintoConsecutiveSubsequences.swift */; };
 		05234E111FFB1A0600E40DD7 /* MaximumWidthOfBinaryTree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05234E101FFB1A0600E40DD7 /* MaximumWidthOfBinaryTree.swift */; };
+		0526525A20609E1B0086AAA3 /* AccountsMerge.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0526525920609E1B0086AAA3 /* AccountsMerge.swift */; };
 		05290B52202FDCD400AFBCC7 /* BestTimetoBuyandSellStockwithTransactionFee.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05290B51202FDCD400AFBCC7 /* BestTimetoBuyandSellStockwithTransactionFee.swift */; };
 		052B8B871FB2A2F0008A4058 /* IsSubsequence.swift in Sources */ = {isa = PBXBuildFile; fileRef = 052B8B861FB2A2F0008A4058 /* IsSubsequence.swift */; };
 		052B9B851F519C44008F0824 /* ReplaceWords.swift in Sources */ = {isa = PBXBuildFile; fileRef = 052B9B841F519C44008F0824 /* ReplaceWords.swift */; };
@@ -406,6 +407,7 @@
 		051C4D8F1F56584B00935D43 /* InsertionSortList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InsertionSortList.swift; sourceTree = "<group>"; };
 		0520591F204E2CF80049B1D0 /* SplitArrayintoConsecutiveSubsequences.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SplitArrayintoConsecutiveSubsequences.swift; sourceTree = "<group>"; };
 		05234E101FFB1A0600E40DD7 /* MaximumWidthOfBinaryTree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumWidthOfBinaryTree.swift; sourceTree = "<group>"; };
+		0526525920609E1B0086AAA3 /* AccountsMerge.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AccountsMerge.swift; sourceTree = "<group>"; };
 		05290B51202FDCD400AFBCC7 /* BestTimetoBuyandSellStockwithTransactionFee.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BestTimetoBuyandSellStockwithTransactionFee.swift; sourceTree = "<group>"; };
 		052B8B861FB2A2F0008A4058 /* IsSubsequence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IsSubsequence.swift; sourceTree = "<group>"; };
 		052B9B841F519C44008F0824 /* ReplaceWords.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReplaceWords.swift; sourceTree = "<group>"; };
@@ -858,6 +860,7 @@
 				05C752F92014DC410026EBE2 /* FriendCircles.swift */,
 				0587FC42202D52110079203D /* ShoppingOffers.swift */,
 				0538C59E2058BB4A0059D413 /* CanIWin.swift */,
+				0526525920609E1B0086AAA3 /* AccountsMerge.swift */,
 			);
 			path = DFS;
 			sourceTree = "<group>";
@@ -1461,6 +1464,7 @@
 				42880CBA1EFA0F8500869089 /* ContainsDuplicateII.swift in Sources */,
 				425DE3B11EF909740079F9B3 /* ContainerWithMostWater.swift in Sources */,
 				05C3C3A11FD795BB00BA4054 /* LargestRectangleinHistogram.swift in Sources */,
+				0526525A20609E1B0086AAA3 /* AccountsMerge.swift in Sources */,
 				425DE4C51EF9267D0079F9B3 /* UglyNumberII.swift in Sources */,
 				42880CEE1EFA139D00869089 /* ReverseInteger.swift in Sources */,
 				0539DDA71FBD21E500BC6E2C /* MaximumProductSubarray.swift in Sources */,
