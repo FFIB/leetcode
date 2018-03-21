@@ -273,6 +273,7 @@
 \#        | Title                       | Difficulty     |
 --------------------|-------------------|-----------------------|
 130 |[Surrounded Regions](https://github.com/FFIB/leetcode/blob/master/leetcode/BFS/SurroundedRegions.swift) |Medium|
+752 |[Open the Lock](https://github.com/FFIB/leetcode/blob/master/leetcode/BFS/OpenTheLock.swift) |Medium|
 
 # Backtracking
 \#        | Title                       | Difficulty     |
