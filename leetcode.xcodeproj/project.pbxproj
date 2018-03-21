@@ -127,6 +127,7 @@
 		05A54CBE1FEC99F200CE33CC /* BinaryTreeZigzagLevelOrderTraversal.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05A54CBD1FEC99F200CE33CC /* BinaryTreeZigzagLevelOrderTraversal.swift */; };
 		05A72C58205B597F008385B5 /* KthSmallestElementinaBST.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05A72C57205B597F008385B5 /* KthSmallestElementinaBST.swift */; };
 		05AE6D242027EF4600F8D9EF /* BasicCalculatorII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05AE6D232027EF4600F8D9EF /* BasicCalculatorII.swift */; };
+		05B31A6F2061F02E00D0DC98 /* OpenTheLock.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05B31A6E2061F02E00D0DC98 /* OpenTheLock.swift */; };
 		05B4DBF41F6B713100CDFDEF /* Combinations.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05B4DBF31F6B713100CDFDEF /* Combinations.swift */; };
 		05B4DBF61F6D7DF400CDFDEF /* JudgeRouteCircle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05B4DBF51F6D7DF400CDFDEF /* JudgeRouteCircle.swift */; };
 		05B5555E1F6A1A4C00A84910 /* TrappingRainWater.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05B5555D1F6A1A4C00A84910 /* TrappingRainWater.swift */; };
@@ -504,6 +505,7 @@
 		05A54CBD1FEC99F200CE33CC /* BinaryTreeZigzagLevelOrderTraversal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BinaryTreeZigzagLevelOrderTraversal.swift; sourceTree = "<group>"; };
 		05A72C57205B597F008385B5 /* KthSmallestElementinaBST.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KthSmallestElementinaBST.swift; sourceTree = "<group>"; };
 		05AE6D232027EF4600F8D9EF /* BasicCalculatorII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BasicCalculatorII.swift; sourceTree = "<group>"; };
+		05B31A6E2061F02E00D0DC98 /* OpenTheLock.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OpenTheLock.swift; sourceTree = "<group>"; };
 		05B4DBF31F6B713100CDFDEF /* Combinations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Combinations.swift; sourceTree = "<group>"; };
 		05B4DBF51F6D7DF400CDFDEF /* JudgeRouteCircle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JudgeRouteCircle.swift; sourceTree = "<group>"; };
 		05B5555D1F6A1A4C00A84910 /* TrappingRainWater.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TrappingRainWater.swift; sourceTree = "<group>"; };
@@ -860,6 +862,7 @@
 				05C752F92014DC410026EBE2 /* FriendCircles.swift */,
 				0587FC42202D52110079203D /* ShoppingOffers.swift */,
 				0538C59E2058BB4A0059D413 /* CanIWin.swift */,
+				0526525920609E1B0086AAA3 /* AccountsMerge.swift */,
 			);
 			path = DFS;
 			sourceTree = "<group>";
@@ -868,6 +871,7 @@
 			isa = PBXGroup;
 			children = (
 				05D0D668201EB5A500B4B5B1 /* SurroundedRegions.swift */,
+				05B31A6E2061F02E00D0DC98 /* OpenTheLock.swift */,
 			);
 			path = BFS;
 			sourceTree = "<group>";
@@ -1461,6 +1465,7 @@
 				0556271B1F43E04400C718CE /* SuperPow.swift in Sources */,
 				052B9B891F5513BA008F0824 /* PartitionList.swift in Sources */,
 				425DE3D51EF90FAD0079F9B3 /* FindBottomLeftTreeValue.swift in Sources */,
+				05B31A6F2061F02E00D0DC98 /* OpenTheLock.swift in Sources */,
 				42880CBA1EFA0F8500869089 /* ContainsDuplicateII.swift in Sources */,
 				425DE3B11EF909740079F9B3 /* ContainerWithMostWater.swift in Sources */,
 				05C3C3A11FD795BB00BA4054 /* LargestRectangleinHistogram.swift in Sources */,
