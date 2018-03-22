@@ -267,6 +267,7 @@
 746|[Min Cost Climbing Stairs](https://github.com/FFIB/leetcode/blob/master/leetcode/DP/MinCostClimbingStairs.swift) |Easy|
 583|[Delete Operation for Two Strings](https://github.com/FFIB/leetcode/blob/master/leetcode/DP/DeleteOperationforTwoStrings.swift) |Medium|
 712|[Minimum ASCII Delete Sum for Two Strings](https://github.com/FFIB/leetcode/blob/master/leetcode/DP/MinimumASCIIDeleteSumforTwoStrings.swift) |Medium|
+698|[Partition to K Equal Sum Subsets](https://github.com/FFIB/leetcode/blob/master/leetcode/DP/PartitiontoKEqualSumSubsets.swift) |Medium|
 
 # BFS  
 
