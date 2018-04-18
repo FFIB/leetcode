@@ -27,7 +27,7 @@ extension Solution {
         func canPartition(k: Int, currentSum: Int, currentNum: Int, start: Int) -> Bool {
             if k == 1 { return true }
             if currentSum == target && currentNum > 0 {
-                return divide(k: k - 1, currentSum: 0, currentNum: 0, start: 0)
+                return canPartition(k: k - 1, currentSum: 0, currentNum: 0, start: 0)
             }
             for i in start..<nums.count {
                 if !visted[i] {
