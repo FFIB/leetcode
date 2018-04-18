@@ -127,6 +127,7 @@
 655 |[Print Binary Tree](https://github.com/FFIB/leetcode/blob/master/leetcode/Tree/PrintBinaryTree.swift) |Medium|
 230 |[Kth Smallest Element in a BST](https://github.com/FFIB/leetcode/blob/master/leetcode/Tree/KthSmallestElementinaBST.swift) |Medium|
 783 |[Minimum Distance Between BST Nodes](https://github.com/FFIB/leetcode/blob/master/leetcode/Tree/MinimumDistanceBetweenBSTNodes.swift) |Easy|
+814 |[Binary Tree Pruning](https://github.com/FFIB/leetcode/blob/master/leetcode/Tree/BinaryTreePruning.swift) |Medium|
 
 # Stack   
 
