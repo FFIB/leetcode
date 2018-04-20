@@ -48,12 +48,12 @@ extension Solution {
             }
             pre = tree.val
             if let right = tree.right {
-                minDiff(root: right, pre: &pre, dist: &dist)
+                minDiff(root: right)
             }
         }
 
         minDiff(root: root)
-        return ans
+        return dist
     }
 }
 
