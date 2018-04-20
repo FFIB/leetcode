@@ -62,7 +62,7 @@ extension Solution {
 
         let st = charCount(str: S)
         return words.reduce(0) { (res, word) -> Int in
-            return res + checkWord(dict: st, extendDict: charCount(str: word))
+            return res + checkWord(st: st, wt: charCount(str: word))
         }
     }
 }
