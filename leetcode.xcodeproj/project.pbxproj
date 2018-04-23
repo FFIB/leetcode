@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		0505B3521F7F296D009E4ED2 /* ImageSmoother.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0505B3511F7F296D009E4ED2 /* ImageSmoother.swift */; };
 		0505F750208D7CB2006FDC8D /* AllPathsFromSourcetoTarget.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0505F74F208D7CB2006FDC8D /* AllPathsFromSourcetoTarget.swift */; };
+		0505F752208D874C006FDC8D /* UniqueMorseCodeWords.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0505F751208D874C006FDC8D /* UniqueMorseCodeWords.swift */; };
 		05061FB2204CE579003250CC /* Dota2Senate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05061FB1204CE579003250CC /* Dota2Senate.swift */; };
 		0506F92D1FBBCDD70031842A /* FindPivotIndex.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0506F92C1FBBCDD70031842A /* FindPivotIndex.swift */; };
 		050F20641F94DB890020BE52 /* CountBinarySubstrings.swift in Sources */ = {isa = PBXBuildFile; fileRef = 050F20631F94DB890020BE52 /* CountBinarySubstrings.swift */; };
@@ -395,6 +396,7 @@
 /* Begin PBXFileReference section */
 		0505B3511F7F296D009E4ED2 /* ImageSmoother.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageSmoother.swift; sourceTree = "<group>"; };
 		0505F74F208D7CB2006FDC8D /* AllPathsFromSourcetoTarget.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AllPathsFromSourcetoTarget.swift; sourceTree = "<group>"; };
+		0505F751208D874C006FDC8D /* UniqueMorseCodeWords.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UniqueMorseCodeWords.swift; sourceTree = "<group>"; };
 		05061FB1204CE579003250CC /* Dota2Senate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Dota2Senate.swift; sourceTree = "<group>"; };
 		0506F92C1FBBCDD70031842A /* FindPivotIndex.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindPivotIndex.swift; sourceTree = "<group>"; };
 		050F20631F94DB890020BE52 /* CountBinarySubstrings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountBinarySubstrings.swift; sourceTree = "<group>"; };
@@ -1203,6 +1205,7 @@
 				0587FC3A202BEA5E0079203D /* DifferentWaystoAddParentheses.swift */,
 				058EB02A2064A30100E00297 /* RepeatedStringMatch.swift */,
 				0571A2F62089E7D900F8FE25 /* CustomSortStringswift.swift */,
+				0505F751208D874C006FDC8D /* UniqueMorseCodeWords.swift */,
 			);
 			path = String;
 			sourceTree = "<group>";
@@ -1717,6 +1720,7 @@
 				42880C9A1EFA0D0B00869089 /* ClimbingStairs.swift in Sources */,
 				42880CF01EFA13FB00869089 /* MaxConsecutiveOnes.swift in Sources */,
 				425C97321F0FE0AC00CAC4E2 /* LargestPalindromeProduct.swift in Sources */,
+				0505F752208D874C006FDC8D /* UniqueMorseCodeWords.swift in Sources */,
 				059E11651F3595A600EC13D4 /* SubarraySumEqualsK.swift in Sources */,
 				054C48801F99930C00869694 /* MaximumLengthofPairChain.swift in Sources */,
 				425DE4C91EF926D00079F9B3 /* BulbSwitcher.swift in Sources */,
