@@ -31,7 +31,7 @@ import Foundation
 extension Solution {
     func allPathsSourceTarget(_ graph: [[Int]]) -> [[Int]] {
         var ans = [[Int]]()
-        
+
         func dfs(list: [Int], path: [Int]) {
             for p in list {
                 var new = path
