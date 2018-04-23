@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		0505B3521F7F296D009E4ED2 /* ImageSmoother.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0505B3511F7F296D009E4ED2 /* ImageSmoother.swift */; };
+		0505F750208D7CB2006FDC8D /* AllPathsFromSourcetoTarget.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0505F74F208D7CB2006FDC8D /* AllPathsFromSourcetoTarget.swift */; };
 		05061FB2204CE579003250CC /* Dota2Senate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05061FB1204CE579003250CC /* Dota2Senate.swift */; };
 		0506F92D1FBBCDD70031842A /* FindPivotIndex.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0506F92C1FBBCDD70031842A /* FindPivotIndex.swift */; };
 		050F20641F94DB890020BE52 /* CountBinarySubstrings.swift in Sources */ = {isa = PBXBuildFile; fileRef = 050F20631F94DB890020BE52 /* CountBinarySubstrings.swift */; };
@@ -393,6 +394,7 @@
 
 /* Begin PBXFileReference section */
 		0505B3511F7F296D009E4ED2 /* ImageSmoother.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageSmoother.swift; sourceTree = "<group>"; };
+		0505F74F208D7CB2006FDC8D /* AllPathsFromSourcetoTarget.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AllPathsFromSourcetoTarget.swift; sourceTree = "<group>"; };
 		05061FB1204CE579003250CC /* Dota2Senate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Dota2Senate.swift; sourceTree = "<group>"; };
 		0506F92C1FBBCDD70031842A /* FindPivotIndex.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindPivotIndex.swift; sourceTree = "<group>"; };
 		050F20631F94DB890020BE52 /* CountBinarySubstrings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountBinarySubstrings.swift; sourceTree = "<group>"; };
@@ -877,6 +879,7 @@
 				05C752F92014DC410026EBE2 /* FriendCircles.swift */,
 				0587FC42202D52110079203D /* ShoppingOffers.swift */,
 				0538C59E2058BB4A0059D413 /* CanIWin.swift */,
+				0505F74F208D7CB2006FDC8D /* AllPathsFromSourcetoTarget.swift */,
 			);
 			path = DFS;
 			sourceTree = "<group>";
@@ -1610,6 +1613,7 @@
 				A677B3BF1FFA4F4B002A8613 /* BinaryTreeRightSideView.swift in Sources */,
 				050F80091FE8BA9C0006B2FE /* SecondMinimumNodeInaBinaryTree.swift in Sources */,
 				42880CE01EFA121300869089 /* HappyNumber.swift in Sources */,
+				0505F750208D7CB2006FDC8D /* AllPathsFromSourcetoTarget.swift in Sources */,
 				425DE4431EF91A5D0079F9B3 /* ReshapetheMatrix.swift in Sources */,
 				056F2AB81FCF9C1800F3389A /* BinaryTreePaths.swift in Sources */,
 				051F1AB22086F18B005ED238 /* BinaryTreePruning.swift in Sources */,

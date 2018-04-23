@@ -77,4 +77,4 @@ public class TreeNode {
     }
 }
 
-print(Solution().customSortString("cba", "abcd"))
+print(Solution().allPathsSourceTarget([[1,2], [3], [3], []]))
