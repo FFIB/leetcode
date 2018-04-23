@@ -77,5 +77,4 @@ public class TreeNode {
     }
 }
 
-print(Solution().expressiveWords("heeellooo"
-    ,["hello", "hi", "helo"]))
+print(Solution().customSortString("cba", "abcd"))
