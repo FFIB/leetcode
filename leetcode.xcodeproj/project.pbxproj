@@ -99,6 +99,7 @@
 		057097721FDE26DB00761710 /* FloodFill.swift in Sources */ = {isa = PBXBuildFile; fileRef = 057097711FDE26DB00761710 /* FloodFill.swift */; };
 		0571A2F32089B6F100F8FE25 /* ExpressiveWords.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0571A2F22089B6F100F8FE25 /* ExpressiveWords.swift */; };
 		0571A2F52089E02000F8FE25 /* MaxIncreasetoKeepCitySkyline.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0571A2F42089E02000F8FE25 /* MaxIncreasetoKeepCitySkyline.swift */; };
+		0571A2F72089E7D900F8FE25 /* CustomSortStringswift.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0571A2F62089E7D900F8FE25 /* CustomSortStringswift.swift */; };
 		057CE6AF1F429BB60084DF5F /* RectangleArea.swift in Sources */ = {isa = PBXBuildFile; fileRef = 057CE6AE1F429BB60084DF5F /* RectangleArea.swift */; };
 		0587FC24202A9C210079203D /* ToeplitzMatrix.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0587FC23202A9C210079203D /* ToeplitzMatrix.swift */; };
 		0587FC3B202BEA5E0079203D /* DifferentWaystoAddParentheses.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0587FC3A202BEA5E0079203D /* DifferentWaystoAddParentheses.swift */; };
@@ -482,6 +483,7 @@
 		057097711FDE26DB00761710 /* FloodFill.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FloodFill.swift; sourceTree = "<group>"; };
 		0571A2F22089B6F100F8FE25 /* ExpressiveWords.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExpressiveWords.swift; sourceTree = "<group>"; };
 		0571A2F42089E02000F8FE25 /* MaxIncreasetoKeepCitySkyline.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaxIncreasetoKeepCitySkyline.swift; sourceTree = "<group>"; };
+		0571A2F62089E7D900F8FE25 /* CustomSortStringswift.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomSortStringswift.swift; sourceTree = "<group>"; };
 		057CE6AE1F429BB60084DF5F /* RectangleArea.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RectangleArea.swift; sourceTree = "<group>"; };
 		0587FC23202A9C210079203D /* ToeplitzMatrix.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToeplitzMatrix.swift; sourceTree = "<group>"; };
 		0587FC3A202BEA5E0079203D /* DifferentWaystoAddParentheses.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DifferentWaystoAddParentheses.swift; sourceTree = "<group>"; };
@@ -1197,6 +1199,7 @@
 				05C752F3200EE29B0026EBE2 /* PartitionLabels.swift */,
 				0587FC3A202BEA5E0079203D /* DifferentWaystoAddParentheses.swift */,
 				058EB02A2064A30100E00297 /* RepeatedStringMatch.swift */,
+				0571A2F62089E7D900F8FE25 /* CustomSortStringswift.swift */,
 			);
 			path = String;
 			sourceTree = "<group>";
@@ -1464,6 +1467,7 @@
 				42880CE21EFA122700869089 /* PowerofTwo.swift in Sources */,
 				425DE47D1EF921350079F9B3 /* ConvertaNumbertoHexadecimal.swift in Sources */,
 				058DC0DF20196E2700B53DE6 /* MaxChunksToMakeSortedI.swift in Sources */,
+				0571A2F72089E7D900F8FE25 /* CustomSortStringswift.swift in Sources */,
 				054863501FA2D9E900A39DA0 /* DecodeWays.swift in Sources */,
 				42880CF81EFA144A00869089 /* TwoSum.swift in Sources */,
 				42D43E981F2AD4A600252B02 /* CombinationSumII.swift in Sources */,
