@@ -82,6 +82,7 @@
 241 |[Different Ways to Add Parentheses](https://github.com/FFIB/leetcode/blob/master/leetcode/String/DifferentWaystoAddParentheses.swift) |Medium|
 809 |[Expressive Words](https://github.com/FFIB/leetcode/blob/master/leetcode/String/ExpressiveWords.swift) |Medium|
 791 |[Custom Sort String](https://github.com/FFIB/leetcode/blob/master/leetcode/String/CustomSortStringswift.swift) |Medium|
+804 |[Unique Morse Code Words](https://github.com/FFIB/leetcode/blob/master/leetcode/String/UniqueMorseCodeWords.swift) |Easy|
 
 # List   
 \#        | Title                       | Difficulty     |
