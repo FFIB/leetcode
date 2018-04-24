@@ -102,6 +102,8 @@
 86  |[Partition List](https://github.com/FFIB/leetcode/blob/master/leetcode/Linked%20List/PartitionList.swift) |Medium|
 82  |[Remove Duplicates from Sorted List II](https://github.com/FFIB/leetcode/blob/master/leetcode/Linked%20List/RemoveDuplicatesfromSortedListII.swift) |Medium|
 725 |[Split Linked List in Parts](https://github.com/FFIB/leetcode/blob/master/leetcode/Linked%20List/SplitLinkedListinParts.swift) |Medium|
+817 |[Linked List Components](https://github.com/FFIB/leetcode/blob/master/leetcode/Linked%20List/LinkedListComponents.swift) |Medium|
+
 
 # Tree   
 
@@ -434,6 +436,7 @@
 748 |[Shortest Completing Word](https://github.com/FFIB/leetcode/blob/master/leetcode/Hash%20Table/ShortestCompletingWord.swift) |Medium|
 525 |[Contiguous Array](https://github.com/FFIB/leetcode/blob/master/leetcode/Hash%20Table/ContiguousArray.swift) |Medium|
 187 |[Repeated DNA Sequences](https://github.com/FFIB/leetcode/blob/master/leetcode/Hash%20Table/RepeatedDNASequences.swift) |Medium|
+781 |[Rabbits in Forest](https://github.com/FFIB/leetcode/blob/master/leetcode/Hash%20Table/RabbitsinForest.swift) |Medium|
 
 # Unknown
 \#        | Title                       | Difficulty     |
