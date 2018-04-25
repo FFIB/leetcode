@@ -216,6 +216,7 @@
 754 |[Reach a Number](https://github.com/FFIB/leetcode/blob/master/leetcode/Math/ReachANumber.swift) |Medium|
 43  |[Multiply Strings](https://github.com/FFIB/leetcode/blob/master/leetcode/Math/MultiplyStrings.swift) |Medium|
 313 |[Super Ugly Number](https://leetcode.com/problems/super-ugly-number/description/) |Medium|
+812 |[Largest Triangle Area](https://github.com/FFIB/leetcode/blob/master/leetcode/Math/LargestTriangleArea.swift) |Easy|
 
 # Sort   
 
@@ -437,6 +438,7 @@
 525 |[Contiguous Array](https://github.com/FFIB/leetcode/blob/master/leetcode/Hash%20Table/ContiguousArray.swift) |Medium|
 187 |[Repeated DNA Sequences](https://github.com/FFIB/leetcode/blob/master/leetcode/Hash%20Table/RepeatedDNASequences.swift) |Medium|
 781 |[Rabbits in Forest](https://github.com/FFIB/leetcode/blob/master/leetcode/Hash%20Table/RabbitsinForest.swift) |Medium|
+811 |[Subdomain Visit Count](https://github.com/FFIB/leetcode/blob/master/leetcode/Hash%20Table/SubdomainVisitCount.swift) |Easy|
 
 # Unknown
 \#        | Title                       | Difficulty     |
