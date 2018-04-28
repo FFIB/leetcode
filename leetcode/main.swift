@@ -77,4 +77,4 @@ public class TreeNode {
     }
 }
 
-print(Solution().largestTriangleArea([[0,0],[0,1],[1,0],[0,2],[2,0]]))
+print(Solution().shortestToChar("abaa", "b"))
