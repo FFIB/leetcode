@@ -77,4 +77,7 @@ public class TreeNode {
     }
 }
 
-print(Solution().shortestToChar("abaa", "b"))
+print(Solution().updateBoard([["E", "E", "E", "E", "E"],
+                              ["E", "E", "M", "E", "E"],
+                              ["E", "E", "E", "E", "E"],
+                              ["E", "E", "E", "E", "E"]], [3,0]))
