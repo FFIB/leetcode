@@ -143,6 +143,7 @@
 		05A54CBE1FEC99F200CE33CC /* BinaryTreeZigzagLevelOrderTraversal.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05A54CBD1FEC99F200CE33CC /* BinaryTreeZigzagLevelOrderTraversal.swift */; };
 		05A72C58205B597F008385B5 /* KthSmallestElementinaBST.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05A72C57205B597F008385B5 /* KthSmallestElementinaBST.swift */; };
 		05AA2DF0209C0E3D00BF9B23 /* PredicttheWinner.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05AA2DEF209C0E3D00BF9B23 /* PredicttheWinner.swift */; };
+		05AA2DF2209C39FB00BF9B23 /* LongestRepeatingCharacterReplacement.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05AA2DF1209C39FB00BF9B23 /* LongestRepeatingCharacterReplacement.swift */; };
 		05AE6D242027EF4600F8D9EF /* BasicCalculatorII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05AE6D232027EF4600F8D9EF /* BasicCalculatorII.swift */; };
 		05B31A6F2061F02E00D0DC98 /* OpenTheLock.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05B31A6E2061F02E00D0DC98 /* OpenTheLock.swift */; };
 		05B4DBF41F6B713100CDFDEF /* Combinations.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05B4DBF31F6B713100CDFDEF /* Combinations.swift */; };
@@ -538,6 +539,7 @@
 		05A54CBD1FEC99F200CE33CC /* BinaryTreeZigzagLevelOrderTraversal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BinaryTreeZigzagLevelOrderTraversal.swift; sourceTree = "<group>"; };
 		05A72C57205B597F008385B5 /* KthSmallestElementinaBST.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KthSmallestElementinaBST.swift; sourceTree = "<group>"; };
 		05AA2DEF209C0E3D00BF9B23 /* PredicttheWinner.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PredicttheWinner.swift; sourceTree = "<group>"; };
+		05AA2DF1209C39FB00BF9B23 /* LongestRepeatingCharacterReplacement.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongestRepeatingCharacterReplacement.swift; sourceTree = "<group>"; };
 		05AE6D232027EF4600F8D9EF /* BasicCalculatorII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BasicCalculatorII.swift; sourceTree = "<group>"; };
 		05B31A6E2061F02E00D0DC98 /* OpenTheLock.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OpenTheLock.swift; sourceTree = "<group>"; };
 		05B4DBF31F6B713100CDFDEF /* Combinations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Combinations.swift; sourceTree = "<group>"; };
@@ -1134,6 +1136,7 @@
 				425DE3B41EF90A8D0079F9B3 /* String */,
 				425DE3AD1EF909280079F9B3 /* Array */,
 				425DE3A21EF906990079F9B3 /* main.swift */,
+				05AA2DF1209C39FB00BF9B23 /* LongestRepeatingCharacterReplacement.swift */,
 			);
 			path = leetcode;
 			sourceTree = "<group>";
@@ -1501,6 +1504,7 @@
 				425DE47D1EF921350079F9B3 /* ConvertaNumbertoHexadecimal.swift in Sources */,
 				058DC0DF20196E2700B53DE6 /* MaxChunksToMakeSortedI.swift in Sources */,
 				0571A2F72089E7D900F8FE25 /* CustomSortStringswift.swift in Sources */,
+				05AA2DF2209C39FB00BF9B23 /* LongestRepeatingCharacterReplacement.swift in Sources */,
 				054863501FA2D9E900A39DA0 /* DecodeWays.swift in Sources */,
 				42880CF81EFA144A00869089 /* TwoSum.swift in Sources */,
 				42D43E981F2AD4A600252B02 /* CombinationSumII.swift in Sources */,
