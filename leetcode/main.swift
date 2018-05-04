@@ -77,7 +77,4 @@ public class TreeNode {
     }
 }
 
-print(Solution().updateBoard([["E", "E", "E", "E", "E"],
-                              ["E", "E", "M", "E", "E"],
-                              ["E", "E", "E", "E", "E"],
-                              ["E", "E", "E", "E", "E"]], [3,0]))
+print(Solution().characterReplacement("AABABBA", 3))
