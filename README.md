@@ -84,6 +84,8 @@
 791 |[Custom Sort String](https://github.com/FFIB/leetcode/blob/master/leetcode/String/CustomSortStringswift.swift) |Medium|
 804 |[Unique Morse Code Words](https://github.com/FFIB/leetcode/blob/master/leetcode/String/UniqueMorseCodeWords.swift) |Easy|
 821 |[Shortest Distance to a Character](https://github.com/FFIB/leetcode/blob/master/leetcode/String/ShortestDistancetoaCharacter.swift) |Easy|
+831 |[Masking Personal Information](https://github.com/FFIB/leetcode/blob/73c89840926f47cb35591f1836e4d4a069ff5f9d/leetcode/String/PositionsofLargeGroups.swift) |Easy|
+424 |[Longest Repeating Character Replacement](https://github.com/FFIB/leetcode/blob/0052c05e878f755b3518978ea28a711b329c5f6a/leetcode/String/LongestRepeatingCharacterReplacement.swift) |Medium|
 
 # List   
 \#        | Title                       | Difficulty     |
@@ -218,6 +220,9 @@
 43  |[Multiply Strings](https://github.com/FFIB/leetcode/blob/master/leetcode/Math/MultiplyStrings.swift) |Medium|
 313 |[Super Ugly Number](https://leetcode.com/problems/super-ugly-number/description/) |Medium|
 812 |[Largest Triangle Area](https://github.com/FFIB/leetcode/blob/master/leetcode/Math/LargestTriangleArea.swift) |Easy|
+829 |[Consecutive Numbers Sum](https://github.com/FFIB/leetcode/blob/58ce64e93e8b8d44582d622c9ba33a3310e490fb/leetcode/Math/ConsecutiveNumbersSum.swift) |Medium|
+830 |[Positions of Large Groups](https://github.com/FFIB/leetcode/blob/73c89840926f47cb35591f1836e4d4a069ff5f9d/leetcode/String/PositionsofLargeGroups.swift) |Medium|
+789 |[Escape The Ghosts](https://github.com/FFIB/leetcode/blob/55696d4c6961d0196a871d96faf323cbda915964/leetcode/Math/EscapeTheGhosts.swift) |Medium|
 
 # Sort   
 
@@ -231,8 +236,8 @@
 215	|[Kth Largest Element in an Array](https://github.com/FFIB/leetcode/blob/master/leetcode/Sort/KthLargestElementinanArray.swift)  |Medium|
 524	|[Longest Word in Dictionary through Deleting](https://github.com/FFIB/leetcode/blob/master/leetcode/Sort/LongestWordinDictionarythroughDeleting.swift) |Medium|
 56  |[Merge Intervals](https://github.com/FFIB/leetcode/blob/master/leetcode/Sort/MergeIntervals.swift) |Medium|
-
-
+825 |[Friends Of Appropriate Ages](https://github.com/FFIB/leetcode/blob/703e281e7ab8bf70b25202766a74dd0ed89219ba/leetcode/Array/FriendsOfAppropriateAges.swift) |Medium|
+826 |[Most Profit Assigning Work](https://github.com/FFIB/leetcode/blob/139667e90ebbf23e5153f14ba951542e9b217f21/leetcode/Array/MostProfitAssigningWork.swift) |Medium|
 # DP
 
 \#        | Title                       | Difficulty     |
