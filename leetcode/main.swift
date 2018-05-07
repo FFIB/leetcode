@@ -77,4 +77,4 @@ public class TreeNode {
     }
 }
 
-print(Solution().characterReplacement("AABABBA", 3))
+print(Solution().maskPII("86-(10)12345678"))
