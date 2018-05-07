@@ -19,6 +19,7 @@
 		0506F92D1FBBCDD70031842A /* FindPivotIndex.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0506F92C1FBBCDD70031842A /* FindPivotIndex.swift */; };
 		050A41E8209FE74A0004243F /* MaskingPersonalInformation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 050A41E7209FE74A0004243F /* MaskingPersonalInformation.swift */; };
 		050A41EA209FEF7F0004243F /* PositionsofLargeGroups.swift in Sources */ = {isa = PBXBuildFile; fileRef = 050A41E9209FEF7F0004243F /* PositionsofLargeGroups.swift */; };
+		050A41EC209FF6A20004243F /* ConsecutiveNumbersSum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 050A41EB209FF6A20004243F /* ConsecutiveNumbersSum.swift */; };
 		050F20641F94DB890020BE52 /* CountBinarySubstrings.swift in Sources */ = {isa = PBXBuildFile; fileRef = 050F20631F94DB890020BE52 /* CountBinarySubstrings.swift */; };
 		050F20661F959CB90020BE52 /* fourSumII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 050F20651F959CB90020BE52 /* fourSumII.swift */; };
 		050F5D0E1FB92E0E00A053D0 /* 2KeysKeyboard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 050F5D0D1FB92E0E00A053D0 /* 2KeysKeyboard.swift */; };
@@ -417,6 +418,7 @@
 		0506F92C1FBBCDD70031842A /* FindPivotIndex.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindPivotIndex.swift; sourceTree = "<group>"; };
 		050A41E7209FE74A0004243F /* MaskingPersonalInformation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaskingPersonalInformation.swift; sourceTree = "<group>"; };
 		050A41E9209FEF7F0004243F /* PositionsofLargeGroups.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PositionsofLargeGroups.swift; sourceTree = "<group>"; };
+		050A41EB209FF6A20004243F /* ConsecutiveNumbersSum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConsecutiveNumbersSum.swift; sourceTree = "<group>"; };
 		050F20631F94DB890020BE52 /* CountBinarySubstrings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountBinarySubstrings.swift; sourceTree = "<group>"; };
 		050F20651F959CB90020BE52 /* fourSumII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = fourSumII.swift; sourceTree = "<group>"; };
 		050F5D0D1FB92E0E00A053D0 /* 2KeysKeyboard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 2KeysKeyboard.swift; sourceTree = "<group>"; };
@@ -1288,6 +1290,7 @@
 				058BCB2A2024029B00FF0A97 /* SuperUglyNumber.swift */,
 				0505F75F2090274B006FDC8D /* LargestTriangleArea.swift */,
 				059BE77C209AC5180016F04E /* EscapeTheGhosts.swift */,
+				050A41EB209FF6A20004243F /* ConsecutiveNumbersSum.swift */,
 			);
 			path = Math;
 			sourceTree = "<group>";
@@ -1564,6 +1567,7 @@
 				425DE4551EF91C190079F9B3 /* ArrayPartitionI.swift in Sources */,
 				425DE4A91EF924700079F9B3 /* KthLargestElementinanArray.swift in Sources */,
 				056EAF521F3804AB00975950 /* SetMatrixZeroes.swift in Sources */,
+				050A41EC209FF6A20004243F /* ConsecutiveNumbersSum.swift in Sources */,
 				054128401FAAC16400CFE81C /* WordBreakII.swift in Sources */,
 				42880CA41EFA0DFC00869089 /* IntersectionofTwoArraysII.swift in Sources */,
 				425DE4711EF91FAB0079F9B3 /* IntegerBreak.swift in Sources */,
