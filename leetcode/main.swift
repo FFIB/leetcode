@@ -77,4 +77,4 @@ public class TreeNode {
     }
 }
 
-print(Solution().maskPII("86-(10)12345678"))
+print(Solution().maxProfitAssignment([2,4,6,8,10], [10,20,30,40,50], [4,5,6,7]))
