@@ -18,6 +18,7 @@
 		05061FB2204CE579003250CC /* Dota2Senate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05061FB1204CE579003250CC /* Dota2Senate.swift */; };
 		0506F92D1FBBCDD70031842A /* FindPivotIndex.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0506F92C1FBBCDD70031842A /* FindPivotIndex.swift */; };
 		050A41E8209FE74A0004243F /* MaskingPersonalInformation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 050A41E7209FE74A0004243F /* MaskingPersonalInformation.swift */; };
+		050A41EA209FEF7F0004243F /* PositionsofLargeGroups.swift in Sources */ = {isa = PBXBuildFile; fileRef = 050A41E9209FEF7F0004243F /* PositionsofLargeGroups.swift */; };
 		050F20641F94DB890020BE52 /* CountBinarySubstrings.swift in Sources */ = {isa = PBXBuildFile; fileRef = 050F20631F94DB890020BE52 /* CountBinarySubstrings.swift */; };
 		050F20661F959CB90020BE52 /* fourSumII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 050F20651F959CB90020BE52 /* fourSumII.swift */; };
 		050F5D0E1FB92E0E00A053D0 /* 2KeysKeyboard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 050F5D0D1FB92E0E00A053D0 /* 2KeysKeyboard.swift */; };
@@ -415,6 +416,7 @@
 		05061FB1204CE579003250CC /* Dota2Senate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Dota2Senate.swift; sourceTree = "<group>"; };
 		0506F92C1FBBCDD70031842A /* FindPivotIndex.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindPivotIndex.swift; sourceTree = "<group>"; };
 		050A41E7209FE74A0004243F /* MaskingPersonalInformation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaskingPersonalInformation.swift; sourceTree = "<group>"; };
+		050A41E9209FEF7F0004243F /* PositionsofLargeGroups.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PositionsofLargeGroups.swift; sourceTree = "<group>"; };
 		050F20631F94DB890020BE52 /* CountBinarySubstrings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountBinarySubstrings.swift; sourceTree = "<group>"; };
 		050F20651F959CB90020BE52 /* fourSumII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = fourSumII.swift; sourceTree = "<group>"; };
 		050F5D0D1FB92E0E00A053D0 /* 2KeysKeyboard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 2KeysKeyboard.swift; sourceTree = "<group>"; };
@@ -1233,6 +1235,7 @@
 				0505F751208D874C006FDC8D /* UniqueMorseCodeWords.swift */,
 				0505F761209419C2006FDC8D /* ShortestDistancetoaCharacter.swift */,
 				050A41E7209FE74A0004243F /* MaskingPersonalInformation.swift */,
+				050A41E9209FEF7F0004243F /* PositionsofLargeGroups.swift */,
 			);
 			path = String;
 			sourceTree = "<group>";
@@ -1619,6 +1622,7 @@
 				050A41E8209FE74A0004243F /* MaskingPersonalInformation.swift in Sources */,
 				42880CFC1EFA147500869089 /* IntersectionofTwoArrays.swift in Sources */,
 				050F7F7C1FE64D200006B2FE /* MaximumBinaryTree.swift in Sources */,
+				050A41EA209FEF7F0004243F /* PositionsofLargeGroups.swift in Sources */,
 				42880CA81EFA0E3A00869089 /* BaseSeven.swift in Sources */,
 				05AA2DF0209C0E3D00BF9B23 /* PredicttheWinner.swift in Sources */,
 				05D790901FC3BE1B00469AD1 /* TaskScheduler.swift in Sources */,
