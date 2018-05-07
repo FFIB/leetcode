@@ -21,6 +21,7 @@
 		050A41EA209FEF7F0004243F /* PositionsofLargeGroups.swift in Sources */ = {isa = PBXBuildFile; fileRef = 050A41E9209FEF7F0004243F /* PositionsofLargeGroups.swift */; };
 		050A41EC209FF6A20004243F /* ConsecutiveNumbersSum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 050A41EB209FF6A20004243F /* ConsecutiveNumbersSum.swift */; };
 		050A41EE20A004D20004243F /* MostProfitAssigningWork.swift in Sources */ = {isa = PBXBuildFile; fileRef = 050A41ED20A004D20004243F /* MostProfitAssigningWork.swift */; };
+		050A41F020A01EB70004243F /* FriendsOfAppropriateAges.swift in Sources */ = {isa = PBXBuildFile; fileRef = 050A41EF20A01EB70004243F /* FriendsOfAppropriateAges.swift */; };
 		050F20641F94DB890020BE52 /* CountBinarySubstrings.swift in Sources */ = {isa = PBXBuildFile; fileRef = 050F20631F94DB890020BE52 /* CountBinarySubstrings.swift */; };
 		050F20661F959CB90020BE52 /* fourSumII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 050F20651F959CB90020BE52 /* fourSumII.swift */; };
 		050F5D0E1FB92E0E00A053D0 /* 2KeysKeyboard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 050F5D0D1FB92E0E00A053D0 /* 2KeysKeyboard.swift */; };
@@ -421,6 +422,7 @@
 		050A41E9209FEF7F0004243F /* PositionsofLargeGroups.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PositionsofLargeGroups.swift; sourceTree = "<group>"; };
 		050A41EB209FF6A20004243F /* ConsecutiveNumbersSum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConsecutiveNumbersSum.swift; sourceTree = "<group>"; };
 		050A41ED20A004D20004243F /* MostProfitAssigningWork.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MostProfitAssigningWork.swift; sourceTree = "<group>"; };
+		050A41EF20A01EB70004243F /* FriendsOfAppropriateAges.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FriendsOfAppropriateAges.swift; sourceTree = "<group>"; };
 		050F20631F94DB890020BE52 /* CountBinarySubstrings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountBinarySubstrings.swift; sourceTree = "<group>"; };
 		050F20651F959CB90020BE52 /* fourSumII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = fourSumII.swift; sourceTree = "<group>"; };
 		050F5D0D1FB92E0E00A053D0 /* 2KeysKeyboard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 2KeysKeyboard.swift; sourceTree = "<group>"; };
@@ -1197,6 +1199,7 @@
 				05332C3420521FAD00DAAE32 /* NumberofSubarrayswithBoundedMaximum.swift */,
 				0571A2F42089E02000F8FE25 /* MaxIncreasetoKeepCitySkyline.swift */,
 				050A41ED20A004D20004243F /* MostProfitAssigningWork.swift */,
+				050A41EF20A01EB70004243F /* FriendsOfAppropriateAges.swift */,
 			);
 			path = Array;
 			sourceTree = "<group>";
@@ -1565,6 +1568,7 @@
 				425DE3B91EF90B740079F9B3 /* MyPow.swift in Sources */,
 				425DE3A31EF906990079F9B3 /* main.swift in Sources */,
 				42B47B1F1F1A76BA00560E5D /* Permutations.swift in Sources */,
+				050A41F020A01EB70004243F /* FriendsOfAppropriateAges.swift in Sources */,
 				422FF9CF1EFB672E0016B7B6 /* IncreasingTripletSubsequence.swift in Sources */,
 				425DE4E31EF928BA0079F9B3 /* MergeSortedArray.swift in Sources */,
 				425DE4551EF91C190079F9B3 /* ArrayPartitionI.swift in Sources */,
