@@ -39,19 +39,21 @@ import Foundation
  */
 extension Solution {
     func characterReplacement(_ s: String, _ k: Int) -> Int {
-        var dict = [Character: Int]()
+        var dict = Array(repeating: 0, count: 26)
         var ans = 0
-        var p1 = 0, p2 = 0
-        var chars = Array(s)
-        while p2 < chars.count {
-            dict[chars[p2]] = (dict[chars[p2]] ?? 0) + 1
-            p2 += 1
-            while p2 - p1 - dict.values.max()! > k {
-                dict[chars[p1]] = (dict[chars[p1]] ?? 0) - 1
-                p1 += 1
+        var l = 0
+        var chars = Array(s.unicodeScalars)
+        var maxCount = 0
+        for (r, char) in chars.enumerated() {
+            let ascii = Int(char.value) - 65
+            dict[ascii] += 1
+            maxCount = max(maxCount, dict[ascii])
+
+            while r - l + 1 - dict[Int(chars[l].value) - 65] > k {
+                dict[Int(chars[l].value) - 65] -= 1
+                l += 1
             }
-            ans = max(ans, p2 - p1)
         }
-        return ans
+        return min(chars.count, maxCount + k)
     }
 }
