@@ -77,4 +77,4 @@ public class TreeNode {
     }
 }
 
-print(Solution().characterReplacement("AABABBA", 1))
+print(Solution().mostCommonWord("Bob hit a ball, the hit BALL flew far after it was hit.", ["hit"]))

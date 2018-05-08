@@ -50,6 +50,6 @@ extension Solution {
             if !same.contains(front){ ans = min(ans, front) }
             if !same.contains(back) { ans = min(ans, back) }
         }
-        return ans == Int.max ？ 0 : ans
+        return ans == Int.max ? 0 : ans
     }
 }
