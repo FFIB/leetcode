@@ -77,4 +77,4 @@ public class TreeNode {
     }
 }
 
-print(Solution().numFriendRequests([108,115,5,24,82]))
+print(Solution().characterReplacement("AABABBA", 1))
