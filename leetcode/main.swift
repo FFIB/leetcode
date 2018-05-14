@@ -77,4 +77,5 @@ public class TreeNode {
     }
 }
 
-print(Solution().mostCommonWord("Bob hit a ball, the hit BALL flew far after it was hit.", ["hit"]))
+print(Solution().numFactoredBinaryTrees([2, 4, 5, 10]))
+//print(Solution().minimumLengthEncoding(["time", "me", "bell"]))
