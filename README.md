@@ -47,7 +47,7 @@
 766 |[Toeplitz Matrix](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/ToeplitzMatrix.swift) |Easy|
 795 |[Number of Subarrays with Bounded Maximum](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/NumberofSubarrayswithBoundedMaximum.swift) |Medium|
 822 |[Card Flipping Game](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/CardFlippingGame.swift) |Medium|
-
+832 |[Flipping an Image](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/FlippinganImage.swift) |Easy|
 # String   
 
 \#        | Title                       | Difficulty     |
@@ -88,6 +88,9 @@
 831 |[Masking Personal Information](https://github.com/FFIB/leetcode/blob/73c89840926f47cb35591f1836e4d4a069ff5f9d/leetcode/String/PositionsofLargeGroups.swift) |Easy|
 424 |[Longest Repeating Character Replacement](https://github.com/FFIB/leetcode/blob/0052c05e878f755b3518978ea28a711b329c5f6a/leetcode/String/LongestRepeatingCharacterReplacement.swift) |Medium|
 819 |[Most Common Word](https://github.com/FFIB/leetcode/blob/master/leetcode/String/MostCommonWord.swift) |Easy|
+833 |[Find And Replace in String](https://github.com/FFIB/leetcode/blob/master/leetcode/String/FindAndReplaceinString.swift) |Medium|
+824 |[Goat Latin](https://github.com/FFIB/leetcode/blob/master/leetcode/String/GoatLatin.swift) |Easy|
+820 |[Short Encoding of Words](https://github.com/FFIB/leetcode/blob/master/leetcode/String/ShortEncodingofWords.swift) |Medium|
 
 # List   
 \#        | Title                       | Difficulty     |
@@ -284,6 +287,7 @@
 583|[Delete Operation for Two Strings](https://github.com/FFIB/leetcode/blob/master/leetcode/DP/DeleteOperationforTwoStrings.swift) |Medium|
 712|[Minimum ASCII Delete Sum for Two Strings](https://github.com/FFIB/leetcode/blob/master/leetcode/DP/MinimumASCIIDeleteSumforTwoStrings.swift) |Medium|
 698|[Partition to K Equal Sum Subsets](https://github.com/FFIB/leetcode/blob/master/leetcode/DP/PartitiontoKEqualSumSubsets.swift) |Medium|
+823|[Binary Trees With Factors](https://github.com/FFIB/leetcode/blob/master/leetcode/DP/BinaryTreesWithFactors.swift) |Medium|
 
 # BFS  
 
