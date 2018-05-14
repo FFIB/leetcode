@@ -82,6 +82,7 @@
 		0548205420A92DE000EE8CD3 /* FindAndReplaceinString.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0548205320A92DE000EE8CD3 /* FindAndReplaceinString.swift */; };
 		0548205620A939BB00EE8CD3 /* FlippinganImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0548205520A939BB00EE8CD3 /* FlippinganImage.swift */; };
 		0548205A20A97F4A00EE8CD3 /* BinaryTreesWithFactors.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0548205920A97F4A00EE8CD3 /* BinaryTreesWithFactors.swift */; };
+		0548205C20A98BB600EE8CD3 /* GoatLatin.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0548205B20A98BB600EE8CD3 /* GoatLatin.swift */; };
 		054863501FA2D9E900A39DA0 /* DecodeWays.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0548634F1FA2D9E900A39DA0 /* DecodeWays.swift */; };
 		054AA8D31F40A4A80000C49E /* LargestDivisibleSubset.swift in Sources */ = {isa = PBXBuildFile; fileRef = 054AA8D21F40A4A80000C49E /* LargestDivisibleSubset.swift */; };
 		054ACE481F96F0FE00599323 /* BaseballGame.swift in Sources */ = {isa = PBXBuildFile; fileRef = 054ACE471F96F0FE00599323 /* BaseballGame.swift */; };
@@ -488,6 +489,7 @@
 		0548205320A92DE000EE8CD3 /* FindAndReplaceinString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindAndReplaceinString.swift; sourceTree = "<group>"; };
 		0548205520A939BB00EE8CD3 /* FlippinganImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FlippinganImage.swift; sourceTree = "<group>"; };
 		0548205920A97F4A00EE8CD3 /* BinaryTreesWithFactors.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BinaryTreesWithFactors.swift; sourceTree = "<group>"; };
+		0548205B20A98BB600EE8CD3 /* GoatLatin.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GoatLatin.swift; sourceTree = "<group>"; };
 		0548634F1FA2D9E900A39DA0 /* DecodeWays.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DecodeWays.swift; sourceTree = "<group>"; };
 		054AA8D21F40A4A80000C49E /* LargestDivisibleSubset.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LargestDivisibleSubset.swift; sourceTree = "<group>"; };
 		054ACE471F96F0FE00599323 /* BaseballGame.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BaseballGame.swift; sourceTree = "<group>"; };
@@ -1259,6 +1261,7 @@
 				050A41E9209FEF7F0004243F /* PositionsofLargeGroups.swift */,
 				050E0E5320A14B4C002925EB /* MostCommonWord.swift */,
 				0548205320A92DE000EE8CD3 /* FindAndReplaceinString.swift */,
+				0548205B20A98BB600EE8CD3 /* GoatLatin.swift */,
 			);
 			path = String;
 			sourceTree = "<group>";
@@ -1498,6 +1501,7 @@
 				058BCB252022ADC600FF0A97 /* MultiplyStrings.swift in Sources */,
 				425DE4451EF91AB20079F9B3 /* DistributeCandies.swift in Sources */,
 				05A142151FC51B33000298AD /* BestTimetoBuyandSellStockIII.swift in Sources */,
+				0548205C20A98BB600EE8CD3 /* GoatLatin.swift in Sources */,
 				053CB02A1FF33A6F00753A9F /* BinaryTreeInorderTraversal.swift in Sources */,
 				425DE4CB1EF926FB0079F9B3 /* ProductofArrayExceptSelf.swift in Sources */,
 				425DE4531EF91BE80079F9B3 /* RemoveDuplicatesfromSortedArrayII.swift in Sources */,
