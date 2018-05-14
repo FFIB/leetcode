@@ -46,6 +46,7 @@
 768 |[Max Chunks To Make Sorted II](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/MaxChunksToMakeSortedII.swift) |Hard|
 766 |[Toeplitz Matrix](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/ToeplitzMatrix.swift) |Easy|
 795 |[Number of Subarrays with Bounded Maximum](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/NumberofSubarrayswithBoundedMaximum.swift) |Medium|
+822 |[Card Flipping Game](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/CardFlippingGame.swift) |Medium|
 
 # String   
 
@@ -86,6 +87,7 @@
 821 |[Shortest Distance to a Character](https://github.com/FFIB/leetcode/blob/master/leetcode/String/ShortestDistancetoaCharacter.swift) |Easy|
 831 |[Masking Personal Information](https://github.com/FFIB/leetcode/blob/73c89840926f47cb35591f1836e4d4a069ff5f9d/leetcode/String/PositionsofLargeGroups.swift) |Easy|
 424 |[Longest Repeating Character Replacement](https://github.com/FFIB/leetcode/blob/0052c05e878f755b3518978ea28a711b329c5f6a/leetcode/String/LongestRepeatingCharacterReplacement.swift) |Medium|
+819 |[Most Common Word](https://github.com/FFIB/leetcode/blob/master/leetcode/String/MostCommonWord.swift) |Easy|
 
 # List   
 \#        | Title                       | Difficulty     |
