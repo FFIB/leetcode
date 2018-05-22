@@ -172,6 +172,7 @@
 		05C752F4200EE29B0026EBE2 /* PartitionLabels.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05C752F3200EE29B0026EBE2 /* PartitionLabels.swift */; };
 		05C752F820118BE40026EBE2 /* MinimumASCIIDeleteSumforTwoStrings.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05C752F720118BE40026EBE2 /* MinimumASCIIDeleteSumforTwoStrings.swift */; };
 		05C752FA2014DC410026EBE2 /* FriendCircles.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05C752F92014DC410026EBE2 /* FriendCircles.swift */; };
+		05CD08E320B3C0B20020AA13 /* AmbiguousCoordinates.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05CD08E220B3C0B20020AA13 /* AmbiguousCoordinates.swift */; };
 		05D05FDE1FD2A8D7002EB5A7 /* LongestWordinDictionary.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05D05FDD1FD2A8D7002EB5A7 /* LongestWordinDictionary.swift */; };
 		05D05FE01FD4E7B7002EB5A7 /* RemoveKDigits.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05D05FDF1FD4E7B7002EB5A7 /* RemoveKDigits.swift */; };
 		05D0D669201EB5A500B4B5B1 /* SurroundedRegions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05D0D668201EB5A500B4B5B1 /* SurroundedRegions.swift */; };
@@ -580,6 +581,7 @@
 		05C752F3200EE29B0026EBE2 /* PartitionLabels.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PartitionLabels.swift; sourceTree = "<group>"; };
 		05C752F720118BE40026EBE2 /* MinimumASCIIDeleteSumforTwoStrings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumASCIIDeleteSumforTwoStrings.swift; sourceTree = "<group>"; };
 		05C752F92014DC410026EBE2 /* FriendCircles.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FriendCircles.swift; sourceTree = "<group>"; };
+		05CD08E220B3C0B20020AA13 /* AmbiguousCoordinates.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AmbiguousCoordinates.swift; sourceTree = "<group>"; };
 		05D05FDD1FD2A8D7002EB5A7 /* LongestWordinDictionary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongestWordinDictionary.swift; sourceTree = "<group>"; };
 		05D05FDF1FD4E7B7002EB5A7 /* RemoveKDigits.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemoveKDigits.swift; sourceTree = "<group>"; };
 		05D0D668201EB5A500B4B5B1 /* SurroundedRegions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SurroundedRegions.swift; sourceTree = "<group>"; };
@@ -1265,6 +1267,7 @@
 				0548205320A92DE000EE8CD3 /* FindAndReplaceinString.swift */,
 				0548205B20A98BB600EE8CD3 /* GoatLatin.swift */,
 				0548205D20A9925500EE8CD3 /* ShortEncodingofWords.swift */,
+				05CD08E220B3C0B20020AA13 /* AmbiguousCoordinates.swift */,
 			);
 			path = String;
 			sourceTree = "<group>";
@@ -1515,6 +1518,7 @@
 				050F20661F959CB90020BE52 /* fourSumII.swift in Sources */,
 				0505F762209419C2006FDC8D /* ShortestDistancetoaCharacter.swift in Sources */,
 				05E2EC761F57A84100D8EF6B /* SlidingWindowMaximum.swift in Sources */,
+				05CD08E320B3C0B20020AA13 /* AmbiguousCoordinates.swift in Sources */,
 				055E1C411F4D459E0000A25C /* ValidSquare.swift in Sources */,
 				425DE4971EF922FB0079F9B3 /* ReorderList.swift in Sources */,
 				05D0D669201EB5A500B4B5B1 /* SurroundedRegions.swift in Sources */,

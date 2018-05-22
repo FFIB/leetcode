@@ -77,5 +77,5 @@ public class TreeNode {
     }
 }
 
-print(Solution().numFactoredBinaryTrees([2, 4, 5, 10]))
+print(Solution().ambiguousCoordinates("(100)"))
 //print(Solution().minimumLengthEncoding(["time", "me", "bell"]))
