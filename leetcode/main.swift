@@ -77,5 +77,5 @@ public class TreeNode {
     }
 }
 
-print(Solution().ambiguousCoordinates("(100)"))
+print(Solution().largestSumOfAverages([9,1,2,3,9], 3))
 //print(Solution().minimumLengthEncoding(["time", "me", "bell"]))
