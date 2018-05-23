@@ -35,7 +35,8 @@
 674 |[Longest Continuous Increasing Subsequence](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/LongestContinuousIncreasingSubsequence.swift) |Easy|
 661 |[Image Smoother](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/ImageSmoother.swift) |Easy|
 697 |[Degree of an Array](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/DegreeofanArray.swift) |Easy|
-724 |[Find Pivot Index](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/FindPivotIndex.swift) |Medium|
+724 |[Find Pivot Index](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/Fin
+ivotIndex.swift) |Medium|
 717	|[1-bit and 2-bit Characters](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/1-bitand2-bitCharacters.swift) |Medium|
 713 |[Subarray Product Less Than K](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/SubarrayProductLessThanK.swift) |Medium|
 118	|[Pascal's Triangle](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/Pascal'sTriangle.swift) |Easy|
@@ -48,6 +49,8 @@
 795 |[Number of Subarrays with Bounded Maximum](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/NumberofSubarrayswithBoundedMaximum.swift) |Medium|
 822 |[Card Flipping Game](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/CardFlippingGame.swift) |Medium|
 832 |[Flipping an Image](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/FlippinganImage.swift) |Easy|
+806 |[Number of Lines To Write String](https://github.com/FFIB/leetcode/blob/master/leetcode/Array/NumberofLinesToWriteString.swift) |Easy|
+
 # String   
 
 \#        | Title                       | Difficulty     |
@@ -91,7 +94,8 @@
 833 |[Find And Replace in String](https://github.com/FFIB/leetcode/blob/master/leetcode/String/FindAndReplaceinString.swift) |Medium|
 824 |[Goat Latin](https://github.com/FFIB/leetcode/blob/master/leetcode/String/GoatLatin.swift) |Easy|
 820 |[Short Encoding of Words](https://github.com/FFIB/leetcode/blob/master/leetcode/String/ShortEncodingofWords.swift) |Medium|
-
+816 |[Ambiguous Coordinates](https://github.com/FFIB/leetcode/blob/master/leetcode/String/AmbiguousCoordinates.swift) |Medium|
+796 |[Rotate String](https://github.com/FFIB/leetcode/blob/master/leetcode/String/RotateString.swift) |Easy|
 # List   
 \#        | Title                       | Difficulty     |
 --------------------|-------------------|-----------------------|
@@ -288,7 +292,8 @@
 712|[Minimum ASCII Delete Sum for Two Strings](https://github.com/FFIB/leetcode/blob/master/leetcode/DP/MinimumASCIIDeleteSumforTwoStrings.swift) |Medium|
 698|[Partition to K Equal Sum Subsets](https://github.com/FFIB/leetcode/blob/master/leetcode/DP/PartitiontoKEqualSumSubsets.swift) |Medium|
 823|[Binary Trees With Factors](https://github.com/FFIB/leetcode/blob/master/leetcode/DP/BinaryTreesWithFactors.swift) |Medium|
-
+813 |[Largest Sum of Averages](https://github.com/FFIB/leetcode/blob/master/leetcode/DP/LargestSumofAverages.swift) |Medium|
+801 |[Minimum Swaps To Make Sequences Increasing](https://github.com/FFIB/leetcode/blob/master/leetcode/DP/MinimumSwapsToMakeSequencesIncreasing.swift) |Medium|
 # BFS  
 
 \#        | Title                       | Difficulty     |
