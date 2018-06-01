@@ -79,4 +79,6 @@ public class TreeNode {
 
 print("".contains(""))
 
-print(Solution().rotateString("", ""))
+print(Solution().numMagicSquaresInside([[4,3,8,4],
+                                        [9,5,1,9],
+                                        [2,7,6,2]]))
