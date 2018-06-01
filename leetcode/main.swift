@@ -79,6 +79,4 @@ public class TreeNode {
 
 print("".contains(""))
 
-print(Solution().numMagicSquaresInside([[4,3,8,4],
-                                        [9,5,1,9],
-                                        [2,7,6,2]]))
+print(Solution().canVisitAllRooms([[1,3],[3,0,1],[2],[0]]))

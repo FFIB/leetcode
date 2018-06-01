@@ -196,6 +196,7 @@
 		05E669051FCD014500452391 /* PermutationsII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05E669041FCD014500452391 /* PermutationsII.swift */; };
 		05E6690F1FCDB83200452391 /* SingleNumberII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05E6690E1FCDB83200452391 /* SingleNumberII.swift */; };
 		05ED8F6620C132010023F87F /* MagicSquaresInGrid.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05ED8F6520C132010023F87F /* MagicSquaresInGrid.swift */; };
+		05ED8F6820C141B90023F87F /* KeysandRooms.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05ED8F6720C141B90023F87F /* KeysandRooms.swift */; };
 		05EDB4BD1F935C6400AB5544 /* DegreeofanArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05EDB4BC1F935C6400AB5544 /* DegreeofanArray.swift */; };
 		420CAF0A1F2EC92F0020B842 /* SetMismatch.swift in Sources */ = {isa = PBXBuildFile; fileRef = 420CAF091F2EC92F0020B842 /* SetMismatch.swift */; };
 		420FF8671F3028FE00E6DBF6 /* ThreeSum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 420FF8661F3028FE00E6DBF6 /* ThreeSum.swift */; };
@@ -610,6 +611,7 @@
 		05E669041FCD014500452391 /* PermutationsII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PermutationsII.swift; sourceTree = "<group>"; };
 		05E6690E1FCDB83200452391 /* SingleNumberII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SingleNumberII.swift; sourceTree = "<group>"; };
 		05ED8F6520C132010023F87F /* MagicSquaresInGrid.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MagicSquaresInGrid.swift; sourceTree = "<group>"; };
+		05ED8F6720C141B90023F87F /* KeysandRooms.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KeysandRooms.swift; sourceTree = "<group>"; };
 		05EDB4BC1F935C6400AB5544 /* DegreeofanArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DegreeofanArray.swift; sourceTree = "<group>"; };
 		420CAF091F2EC92F0020B842 /* SetMismatch.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SetMismatch.swift; sourceTree = "<group>"; };
 		420FF8661F3028FE00E6DBF6 /* ThreeSum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThreeSum.swift; sourceTree = "<group>"; };
@@ -940,6 +942,7 @@
 				0587FC42202D52110079203D /* ShoppingOffers.swift */,
 				0538C59E2058BB4A0059D413 /* CanIWin.swift */,
 				0505F74F208D7CB2006FDC8D /* AllPathsFromSourcetoTarget.swift */,
+				05ED8F6720C141B90023F87F /* KeysandRooms.swift */,
 			);
 			path = DFS;
 			sourceTree = "<group>";
@@ -1481,6 +1484,7 @@
 				0538ED841FD57180008338B9 /* RemoveDuplicateLetters.swift in Sources */,
 				0516CE331F768C0600E1459A /* MaximumSwap.swift in Sources */,
 				425DE4A11EF923B10079F9B3 /* RemoveLinkedListElements.swift in Sources */,
+				05ED8F6820C141B90023F87F /* KeysandRooms.swift in Sources */,
 				42E051A71F1B93BB00D2516C /* NextPermutation.swift in Sources */,
 				052B9B851F519C44008F0824 /* ReplaceWords.swift in Sources */,
 				425DE49B1EF9233D0079F9B3 /* RemoveNthNodeFromEndofList.swift in Sources */,
