@@ -197,6 +197,7 @@
 		05E6690F1FCDB83200452391 /* SingleNumberII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05E6690E1FCDB83200452391 /* SingleNumberII.swift */; };
 		05ED8F6620C132010023F87F /* MagicSquaresInGrid.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05ED8F6520C132010023F87F /* MagicSquaresInGrid.swift */; };
 		05ED8F6820C141B90023F87F /* KeysandRooms.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05ED8F6720C141B90023F87F /* KeysandRooms.swift */; };
+		05ED8F6C20C1553E0023F87F /* RectangleOverlap.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05ED8F6B20C1553E0023F87F /* RectangleOverlap.swift */; };
 		05EDB4BD1F935C6400AB5544 /* DegreeofanArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05EDB4BC1F935C6400AB5544 /* DegreeofanArray.swift */; };
 		420CAF0A1F2EC92F0020B842 /* SetMismatch.swift in Sources */ = {isa = PBXBuildFile; fileRef = 420CAF091F2EC92F0020B842 /* SetMismatch.swift */; };
 		420FF8671F3028FE00E6DBF6 /* ThreeSum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 420FF8661F3028FE00E6DBF6 /* ThreeSum.swift */; };
@@ -612,6 +613,7 @@
 		05E6690E1FCDB83200452391 /* SingleNumberII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SingleNumberII.swift; sourceTree = "<group>"; };
 		05ED8F6520C132010023F87F /* MagicSquaresInGrid.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MagicSquaresInGrid.swift; sourceTree = "<group>"; };
 		05ED8F6720C141B90023F87F /* KeysandRooms.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KeysandRooms.swift; sourceTree = "<group>"; };
+		05ED8F6B20C1553E0023F87F /* RectangleOverlap.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RectangleOverlap.swift; sourceTree = "<group>"; };
 		05EDB4BC1F935C6400AB5544 /* DegreeofanArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DegreeofanArray.swift; sourceTree = "<group>"; };
 		420CAF091F2EC92F0020B842 /* SetMismatch.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SetMismatch.swift; sourceTree = "<group>"; };
 		420FF8661F3028FE00E6DBF6 /* ThreeSum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThreeSum.swift; sourceTree = "<group>"; };
@@ -1339,6 +1341,7 @@
 				0505F75F2090274B006FDC8D /* LargestTriangleArea.swift */,
 				059BE77C209AC5180016F04E /* EscapeTheGhosts.swift */,
 				050A41EB209FF6A20004243F /* ConsecutiveNumbersSum.swift */,
+				05ED8F6B20C1553E0023F87F /* RectangleOverlap.swift */,
 			);
 			path = Math;
 			sourceTree = "<group>";
@@ -1781,6 +1784,7 @@
 				425DE4811EF921800079F9B3 /* PlusOne.swift in Sources */,
 				05234E111FFB1A0600E40DD7 /* MaximumWidthOfBinaryTree.swift in Sources */,
 				054E9D8B1F3AC22E00D6B1DF /* PalindromicSubstrings.swift in Sources */,
+				05ED8F6C20C1553E0023F87F /* RectangleOverlap.swift in Sources */,
 				425DE46F1EF91F840079F9B3 /* GenerateParentheses.swift in Sources */,
 				425DE4471EF91AC80079F9B3 /* BalancedBinaryTree.swift in Sources */,
 				051F1AB02086DBB6005ED238 /* MinimumDistanceBetweenBSTNodes.swift in Sources */,
