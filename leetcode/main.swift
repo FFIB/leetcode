@@ -79,4 +79,4 @@ public class TreeNode {
 
 print("".contains(""))
 
-print(Solution().canVisitAllRooms([[1,3],[3,0,1],[2],[0]]))
+print(Solution().pushDominoes(".L.R...LR..L.."))

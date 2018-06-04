@@ -49,7 +49,7 @@ extension Solution {
             flags[i] = true
             for key in rooms[i] {
                 if flags[key] { continue }
-                dfs(i: key)
+                _canVisitAllRooms(i: key)
             }
         }
         _canVisitAllRooms(i: 0)
