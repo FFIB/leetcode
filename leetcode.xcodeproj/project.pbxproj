@@ -64,6 +64,7 @@
 		0538ED841FD57180008338B9 /* RemoveDuplicateLetters.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0538ED831FD57180008338B9 /* RemoveDuplicateLetters.swift */; };
 		0539DDA71FBD21E500BC6E2C /* MaximumProductSubarray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0539DDA61FBD21E500BC6E2C /* MaximumProductSubarray.swift */; };
 		053A545B20D0BE06002E9CEB /* LongestMountaininArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 053A545A20D0BE06002E9CEB /* LongestMountaininArray.swift */; };
+		053A545D20D0E61E002E9CEB /* HandofStraights.swift in Sources */ = {isa = PBXBuildFile; fileRef = 053A545C20D0E61E002E9CEB /* HandofStraights.swift */; };
 		053A918E1F791288002E5B0D /* SolvetheEquation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 053A918D1F791288002E5B0D /* SolvetheEquation.swift */; };
 		053A91901F79ECE6002E5B0D /* BulbSwitcherII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 053A918F1F79ECE6002E5B0D /* BulbSwitcherII.swift */; };
 		053C864A1F9CA6EC00CB5D49 /* SubarrayProductLessThanK.swift in Sources */ = {isa = PBXBuildFile; fileRef = 053C86491F9CA6EC00CB5D49 /* SubarrayProductLessThanK.swift */; };
@@ -483,6 +484,7 @@
 		0538ED831FD57180008338B9 /* RemoveDuplicateLetters.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemoveDuplicateLetters.swift; sourceTree = "<group>"; };
 		0539DDA61FBD21E500BC6E2C /* MaximumProductSubarray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumProductSubarray.swift; sourceTree = "<group>"; };
 		053A545A20D0BE06002E9CEB /* LongestMountaininArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongestMountaininArray.swift; sourceTree = "<group>"; };
+		053A545C20D0E61E002E9CEB /* HandofStraights.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HandofStraights.swift; sourceTree = "<group>"; };
 		053A918D1F791288002E5B0D /* SolvetheEquation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SolvetheEquation.swift; sourceTree = "<group>"; };
 		053A918F1F79ECE6002E5B0D /* BulbSwitcherII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BulbSwitcherII.swift; sourceTree = "<group>"; };
 		053C86491F9CA6EC00CB5D49 /* SubarrayProductLessThanK.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SubarrayProductLessThanK.swift; sourceTree = "<group>"; };
@@ -1112,6 +1114,7 @@
 			isa = PBXGroup;
 			children = (
 				059E11641F3595A600EC13D4 /* SubarraySumEqualsK.swift */,
+				053A545C20D0E61E002E9CEB /* HandofStraights.swift */,
 			);
 			path = Map;
 			sourceTree = "<group>";
@@ -1741,6 +1744,7 @@
 				A677B3BF1FFA4F4B002A8613 /* BinaryTreeRightSideView.swift in Sources */,
 				050F80091FE8BA9C0006B2FE /* SecondMinimumNodeInaBinaryTree.swift in Sources */,
 				42880CE01EFA121300869089 /* HappyNumber.swift in Sources */,
+				053A545D20D0E61E002E9CEB /* HandofStraights.swift in Sources */,
 				0505F750208D7CB2006FDC8D /* AllPathsFromSourcetoTarget.swift in Sources */,
 				425DE4431EF91A5D0079F9B3 /* ReshapetheMatrix.swift in Sources */,
 				056F2AB81FCF9C1800F3389A /* BinaryTreePaths.swift in Sources */,
