@@ -79,4 +79,4 @@ public class TreeNode {
 
 print("".contains(""))
 
-print(Solution().pushDominoes(".L.R...LR..L.."))
+print(Solution().backspaceCompare("a##c", "#a#c"))
