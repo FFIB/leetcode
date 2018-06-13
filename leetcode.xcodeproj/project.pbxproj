@@ -63,6 +63,7 @@
 		0538C59F2058BB4A0059D413 /* CanIWin.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0538C59E2058BB4A0059D413 /* CanIWin.swift */; };
 		0538ED841FD57180008338B9 /* RemoveDuplicateLetters.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0538ED831FD57180008338B9 /* RemoveDuplicateLetters.swift */; };
 		0539DDA71FBD21E500BC6E2C /* MaximumProductSubarray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0539DDA61FBD21E500BC6E2C /* MaximumProductSubarray.swift */; };
+		053A545B20D0BE06002E9CEB /* LongestMountaininArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 053A545A20D0BE06002E9CEB /* LongestMountaininArray.swift */; };
 		053A918E1F791288002E5B0D /* SolvetheEquation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 053A918D1F791288002E5B0D /* SolvetheEquation.swift */; };
 		053A91901F79ECE6002E5B0D /* BulbSwitcherII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 053A918F1F79ECE6002E5B0D /* BulbSwitcherII.swift */; };
 		053C864A1F9CA6EC00CB5D49 /* SubarrayProductLessThanK.swift in Sources */ = {isa = PBXBuildFile; fileRef = 053C86491F9CA6EC00CB5D49 /* SubarrayProductLessThanK.swift */; };
@@ -481,6 +482,7 @@
 		0538C59E2058BB4A0059D413 /* CanIWin.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CanIWin.swift; sourceTree = "<group>"; };
 		0538ED831FD57180008338B9 /* RemoveDuplicateLetters.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemoveDuplicateLetters.swift; sourceTree = "<group>"; };
 		0539DDA61FBD21E500BC6E2C /* MaximumProductSubarray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumProductSubarray.swift; sourceTree = "<group>"; };
+		053A545A20D0BE06002E9CEB /* LongestMountaininArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongestMountaininArray.swift; sourceTree = "<group>"; };
 		053A918D1F791288002E5B0D /* SolvetheEquation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SolvetheEquation.swift; sourceTree = "<group>"; };
 		053A918F1F79ECE6002E5B0D /* BulbSwitcherII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BulbSwitcherII.swift; sourceTree = "<group>"; };
 		053C86491F9CA6EC00CB5D49 /* SubarrayProductLessThanK.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SubarrayProductLessThanK.swift; sourceTree = "<group>"; };
@@ -896,6 +898,14 @@
 			path = DP;
 			sourceTree = "<group>";
 		};
+		053A545920D0BDF3002E9CEB /* Two Point */ = {
+			isa = PBXGroup;
+			children = (
+				053A545A20D0BE06002E9CEB /* LongestMountaininArray.swift */,
+			);
+			path = "Two Point";
+			sourceTree = "<group>";
+		};
 		054751701F9EDFFE0091FFDF /* Stack */ = {
 			isa = PBXGroup;
 			children = (
@@ -1166,6 +1176,7 @@
 		425DE3A11EF906990079F9B3 /* leetcode */ = {
 			isa = PBXGroup;
 			children = (
+				053A545920D0BDF3002E9CEB /* Two Point */,
 				05D0D66A201EB93F00B4B5B1 /* BFS */,
 				05E669101FCDB90600452391 /* Unknown */,
 				056F2AAF1FCF9C1700F3389A /* DFS */,
@@ -1517,6 +1528,7 @@
 				425DE3CD1EF90E9C0079F9B3 /* ConvertBSTtoGreaterTree.swift in Sources */,
 				42A8F9B41F00A3AD00D9863C /* GroupAnagrams.swift in Sources */,
 				05B4DBF41F6B713100CDFDEF /* Combinations.swift in Sources */,
+				053A545B20D0BE06002E9CEB /* LongestMountaininArray.swift in Sources */,
 				42880CAA1EFA0E4F00869089 /* NimGame.swift in Sources */,
 				425DE4831EF921A40079F9B3 /* NumberofSegmentsinString.swift in Sources */,
 				42880CB21EFA0EBD00869089 /* FactorialTrailingZeroes.swift in Sources */,
