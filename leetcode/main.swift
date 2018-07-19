@@ -77,6 +77,6 @@ public class TreeNode {
     }
 }
 
-print("".contains(""))
 
-print(Solution().isNStraightHand([5,1], 2))
+print(Solution().advantageCount([12,24,8,32]
+    , [13,25,32,11]))

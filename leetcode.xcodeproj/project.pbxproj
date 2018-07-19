@@ -85,6 +85,7 @@
 		054406D71FA81721002D3302 /* KnightProbabilityinChessboard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 054406D61FA81721002D3302 /* KnightProbabilityinChessboard.swift */; };
 		0544CFBB1F372E6E000B1918 /* JumpGame.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0544CFBA1F372E6E000B1918 /* JumpGame.swift */; };
 		054751721F9EE01A0091FFDF /* ExclusiveTimeofFunctions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 054751711F9EE01A0091FFDF /* ExclusiveTimeofFunctions.swift */; };
+		0547ADD32100744B006276D2 /* AdvantageShuffle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0547ADD22100744B006276D2 /* AdvantageShuffle.swift */; };
 		0548205420A92DE000EE8CD3 /* FindAndReplaceinString.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0548205320A92DE000EE8CD3 /* FindAndReplaceinString.swift */; };
 		0548205620A939BB00EE8CD3 /* FlippinganImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0548205520A939BB00EE8CD3 /* FlippinganImage.swift */; };
 		0548205A20A97F4A00EE8CD3 /* BinaryTreesWithFactors.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0548205920A97F4A00EE8CD3 /* BinaryTreesWithFactors.swift */; };
@@ -505,6 +506,7 @@
 		054406D61FA81721002D3302 /* KnightProbabilityinChessboard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KnightProbabilityinChessboard.swift; sourceTree = "<group>"; };
 		0544CFBA1F372E6E000B1918 /* JumpGame.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JumpGame.swift; sourceTree = "<group>"; };
 		054751711F9EE01A0091FFDF /* ExclusiveTimeofFunctions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExclusiveTimeofFunctions.swift; sourceTree = "<group>"; };
+		0547ADD22100744B006276D2 /* AdvantageShuffle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AdvantageShuffle.swift; sourceTree = "<group>"; };
 		0548205320A92DE000EE8CD3 /* FindAndReplaceinString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindAndReplaceinString.swift; sourceTree = "<group>"; };
 		0548205520A939BB00EE8CD3 /* FlippinganImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FlippinganImage.swift; sourceTree = "<group>"; };
 		0548205920A97F4A00EE8CD3 /* BinaryTreesWithFactors.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BinaryTreesWithFactors.swift; sourceTree = "<group>"; };
@@ -1071,6 +1073,7 @@
 				05C3C3A61FDA8DBF00BA4054 /* MonotoneIncreasingDigits .swift */,
 				05061FB1204CE579003250CC /* Dota2Senate.swift */,
 				0520591F204E2CF80049B1D0 /* SplitArrayintoConsecutiveSubsequences.swift */,
+				0547ADD22100744B006276D2 /* AdvantageShuffle.swift */,
 			);
 			path = Greedy;
 			sourceTree = "<group>";
@@ -1716,6 +1719,7 @@
 				425DE3C01EF90C900079F9B3 /* WiggleSortII.swift in Sources */,
 				42880CF41EFA142000869089 /* FizzBuzz.swift in Sources */,
 				425DE3BD1EF90C4C0079F9B3 /* WordSearch.swift in Sources */,
+				0547ADD32100744B006276D2 /* AdvantageShuffle.swift in Sources */,
 				425DE43B1EF919550079F9B3 /* SearchinRotatedSortedArrayII.swift in Sources */,
 				425DE4771EF920CD0079F9B3 /* PerfectNumber.swift in Sources */,
 				425DE3D31EF90F840079F9B3 /* ArrayNesting.swift in Sources */,
