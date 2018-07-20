@@ -91,4 +91,4 @@ func isPrime(x: Int) -> Bool {
 
 print(isPrime(x: 202))
 
-print(Solution().primePalindrome(102))
+print(Solution().searchBST(TreeNode(2), 2))

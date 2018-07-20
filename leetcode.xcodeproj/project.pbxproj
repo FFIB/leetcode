@@ -85,6 +85,8 @@
 		054406D71FA81721002D3302 /* KnightProbabilityinChessboard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 054406D61FA81721002D3302 /* KnightProbabilityinChessboard.swift */; };
 		0544CFBB1F372E6E000B1918 /* JumpGame.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0544CFBA1F372E6E000B1918 /* JumpGame.swift */; };
 		0545A1E02101827500C3A9A5 /* SmallestSubtreewithalltheDeepestNodes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0545A1DF2101827500C3A9A5 /* SmallestSubtreewithalltheDeepestNodes.swift */; };
+		0545A1E221018AB900C3A9A5 /* AllNodesDistanceKinBinaryTree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0545A1E121018AB900C3A9A5 /* AllNodesDistanceKinBinaryTree.swift */; };
+		0545A1E421018E6F00C3A9A5 /* SearchinaBinarySearchTree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0545A1E321018E6F00C3A9A5 /* SearchinaBinarySearchTree.swift */; };
 		054751721F9EE01A0091FFDF /* ExclusiveTimeofFunctions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 054751711F9EE01A0091FFDF /* ExclusiveTimeofFunctions.swift */; };
 		0547ADD32100744B006276D2 /* AdvantageShuffle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0547ADD22100744B006276D2 /* AdvantageShuffle.swift */; };
 		0547ADD7210088BA006276D2 /* PrimePalindrome.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0547ADD6210088BA006276D2 /* PrimePalindrome.swift */; };
@@ -508,6 +510,8 @@
 		054406D61FA81721002D3302 /* KnightProbabilityinChessboard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KnightProbabilityinChessboard.swift; sourceTree = "<group>"; };
 		0544CFBA1F372E6E000B1918 /* JumpGame.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JumpGame.swift; sourceTree = "<group>"; };
 		0545A1DF2101827500C3A9A5 /* SmallestSubtreewithalltheDeepestNodes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SmallestSubtreewithalltheDeepestNodes.swift; sourceTree = "<group>"; };
+		0545A1E121018AB900C3A9A5 /* AllNodesDistanceKinBinaryTree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AllNodesDistanceKinBinaryTree.swift; sourceTree = "<group>"; };
+		0545A1E321018E6F00C3A9A5 /* SearchinaBinarySearchTree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchinaBinarySearchTree.swift; sourceTree = "<group>"; };
 		054751711F9EE01A0091FFDF /* ExclusiveTimeofFunctions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExclusiveTimeofFunctions.swift; sourceTree = "<group>"; };
 		0547ADD22100744B006276D2 /* AdvantageShuffle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AdvantageShuffle.swift; sourceTree = "<group>"; };
 		0547ADD6210088BA006276D2 /* PrimePalindrome.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PrimePalindrome.swift; sourceTree = "<group>"; };
@@ -1418,6 +1422,8 @@
 				051F1AAF2086DBB6005ED238 /* MinimumDistanceBetweenBSTNodes.swift */,
 				051F1AB12086F18B005ED238 /* BinaryTreePruning.swift */,
 				0545A1DF2101827500C3A9A5 /* SmallestSubtreewithalltheDeepestNodes.swift */,
+				0545A1E321018E6F00C3A9A5 /* SearchinaBinarySearchTree.swift */,
+				0545A1E121018AB900C3A9A5 /* AllNodesDistanceKinBinaryTree.swift */,
 			);
 			path = Tree;
 			sourceTree = "<group>";
@@ -1599,6 +1605,7 @@
 				425DE47D1EF921350079F9B3 /* ConvertaNumbertoHexadecimal.swift in Sources */,
 				058DC0DF20196E2700B53DE6 /* MaxChunksToMakeSortedI.swift in Sources */,
 				0571A2F72089E7D900F8FE25 /* CustomSortStringswift.swift in Sources */,
+				0545A1E421018E6F00C3A9A5 /* SearchinaBinarySearchTree.swift in Sources */,
 				05AA2DF2209C39FB00BF9B23 /* LongestRepeatingCharacterReplacement.swift in Sources */,
 				054863501FA2D9E900A39DA0 /* DecodeWays.swift in Sources */,
 				42880CF81EFA144A00869089 /* TwoSum.swift in Sources */,
@@ -1846,6 +1853,7 @@
 				425DE4E91EF9298A0079F9B3 /* LengthofLastWord.swift in Sources */,
 				050F7F821FE759410006B2FE /* AverageofLevelsinBinaryTree.swift in Sources */,
 				050F7F801FE6A57E0006B2FE /* TrimaBinarySearchTree.swift in Sources */,
+				0545A1E221018AB900C3A9A5 /* AllNodesDistanceKinBinaryTree.swift in Sources */,
 				428B5C1E1F18628C0016F48B /* LongestSubstringWithoutRepeatingCharacters.swift in Sources */,
 				05886EAA1FFC6DD200D40F11 /* FlattenBinaryTreetoLinkedList.swift in Sources */,
 				050F20641F94DB890020BE52 /* CountBinarySubstrings.swift in Sources */,
