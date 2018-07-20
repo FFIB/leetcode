@@ -85,8 +85,8 @@
 		054406D71FA81721002D3302 /* KnightProbabilityinChessboard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 054406D61FA81721002D3302 /* KnightProbabilityinChessboard.swift */; };
 		0544CFBB1F372E6E000B1918 /* JumpGame.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0544CFBA1F372E6E000B1918 /* JumpGame.swift */; };
 		0545A1E02101827500C3A9A5 /* SmallestSubtreewithalltheDeepestNodes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0545A1DF2101827500C3A9A5 /* SmallestSubtreewithalltheDeepestNodes.swift */; };
-		0545A1E221018AB900C3A9A5 /* AllNodesDistanceKinBinaryTree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0545A1E121018AB900C3A9A5 /* AllNodesDistanceKinBinaryTree.swift */; };
 		0545A1E421018E6F00C3A9A5 /* SearchinaBinarySearchTree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0545A1E321018E6F00C3A9A5 /* SearchinaBinarySearchTree.swift */; };
+		0545A1E62101B8CE00C3A9A5 /* ValidSudoku.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0545A1E52101B8CE00C3A9A5 /* ValidSudoku.swift */; };
 		054751721F9EE01A0091FFDF /* ExclusiveTimeofFunctions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 054751711F9EE01A0091FFDF /* ExclusiveTimeofFunctions.swift */; };
 		0547ADD32100744B006276D2 /* AdvantageShuffle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0547ADD22100744B006276D2 /* AdvantageShuffle.swift */; };
 		0547ADD7210088BA006276D2 /* PrimePalindrome.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0547ADD6210088BA006276D2 /* PrimePalindrome.swift */; };
@@ -510,8 +510,8 @@
 		054406D61FA81721002D3302 /* KnightProbabilityinChessboard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KnightProbabilityinChessboard.swift; sourceTree = "<group>"; };
 		0544CFBA1F372E6E000B1918 /* JumpGame.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JumpGame.swift; sourceTree = "<group>"; };
 		0545A1DF2101827500C3A9A5 /* SmallestSubtreewithalltheDeepestNodes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SmallestSubtreewithalltheDeepestNodes.swift; sourceTree = "<group>"; };
-		0545A1E121018AB900C3A9A5 /* AllNodesDistanceKinBinaryTree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AllNodesDistanceKinBinaryTree.swift; sourceTree = "<group>"; };
 		0545A1E321018E6F00C3A9A5 /* SearchinaBinarySearchTree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchinaBinarySearchTree.swift; sourceTree = "<group>"; };
+		0545A1E52101B8CE00C3A9A5 /* ValidSudoku.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ValidSudoku.swift; sourceTree = "<group>"; };
 		054751711F9EE01A0091FFDF /* ExclusiveTimeofFunctions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExclusiveTimeofFunctions.swift; sourceTree = "<group>"; };
 		0547ADD22100744B006276D2 /* AdvantageShuffle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AdvantageShuffle.swift; sourceTree = "<group>"; };
 		0547ADD6210088BA006276D2 /* PrimePalindrome.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PrimePalindrome.swift; sourceTree = "<group>"; };
@@ -1063,6 +1063,7 @@
 				058E2E512048EAA900ED8909 /* RepeatedDNASequences.swift */,
 				0505F753208EC43C006FDC8D /* RabbitsinForest.swift */,
 				0505F75D20901E4F006FDC8D /* SubdomainVisitCount.swift */,
+				0545A1E52101B8CE00C3A9A5 /* ValidSudoku.swift */,
 			);
 			path = "Hash Table";
 			sourceTree = "<group>";
@@ -1423,7 +1424,6 @@
 				051F1AB12086F18B005ED238 /* BinaryTreePruning.swift */,
 				0545A1DF2101827500C3A9A5 /* SmallestSubtreewithalltheDeepestNodes.swift */,
 				0545A1E321018E6F00C3A9A5 /* SearchinaBinarySearchTree.swift */,
-				0545A1E121018AB900C3A9A5 /* AllNodesDistanceKinBinaryTree.swift */,
 			);
 			path = Tree;
 			sourceTree = "<group>";
@@ -1785,6 +1785,7 @@
 				4247BE151F1E0E5C0012C1F1 /* MinimumAbsoluteDifferenceinBST.swift in Sources */,
 				425DE43F1EF91A0B0079F9B3 /* SearchinRotatedSortedArray.swift in Sources */,
 				058DC0E12019824E00B53DE6 /* MaxChunksToMakeSortedII.swift in Sources */,
+				0545A1E62101B8CE00C3A9A5 /* ValidSudoku.swift in Sources */,
 				425DE4E11EF928A70079F9B3 /* RotateArray.swift in Sources */,
 				0587FC43202D52110079203D /* ShoppingOffers.swift in Sources */,
 				42880C961EFA0CA300869089 /* WordPattern.swift in Sources */,
@@ -1853,7 +1854,6 @@
 				425DE4E91EF9298A0079F9B3 /* LengthofLastWord.swift in Sources */,
 				050F7F821FE759410006B2FE /* AverageofLevelsinBinaryTree.swift in Sources */,
 				050F7F801FE6A57E0006B2FE /* TrimaBinarySearchTree.swift in Sources */,
-				0545A1E221018AB900C3A9A5 /* AllNodesDistanceKinBinaryTree.swift in Sources */,
 				428B5C1E1F18628C0016F48B /* LongestSubstringWithoutRepeatingCharacters.swift in Sources */,
 				05886EAA1FFC6DD200D40F11 /* FlattenBinaryTreetoLinkedList.swift in Sources */,
 				050F20641F94DB890020BE52 /* CountBinarySubstrings.swift in Sources */,
