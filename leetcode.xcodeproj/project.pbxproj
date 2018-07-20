@@ -84,6 +84,7 @@
 		054275081FEF81800079882F /* HouseRobberIII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 054275071FEF81800079882F /* HouseRobberIII.swift */; };
 		054406D71FA81721002D3302 /* KnightProbabilityinChessboard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 054406D61FA81721002D3302 /* KnightProbabilityinChessboard.swift */; };
 		0544CFBB1F372E6E000B1918 /* JumpGame.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0544CFBA1F372E6E000B1918 /* JumpGame.swift */; };
+		0545A1E02101827500C3A9A5 /* SmallestSubtreewithalltheDeepestNodes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0545A1DF2101827500C3A9A5 /* SmallestSubtreewithalltheDeepestNodes.swift */; };
 		054751721F9EE01A0091FFDF /* ExclusiveTimeofFunctions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 054751711F9EE01A0091FFDF /* ExclusiveTimeofFunctions.swift */; };
 		0547ADD32100744B006276D2 /* AdvantageShuffle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0547ADD22100744B006276D2 /* AdvantageShuffle.swift */; };
 		0547ADD7210088BA006276D2 /* PrimePalindrome.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0547ADD6210088BA006276D2 /* PrimePalindrome.swift */; };
@@ -506,6 +507,7 @@
 		054275071FEF81800079882F /* HouseRobberIII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HouseRobberIII.swift; sourceTree = "<group>"; };
 		054406D61FA81721002D3302 /* KnightProbabilityinChessboard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KnightProbabilityinChessboard.swift; sourceTree = "<group>"; };
 		0544CFBA1F372E6E000B1918 /* JumpGame.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JumpGame.swift; sourceTree = "<group>"; };
+		0545A1DF2101827500C3A9A5 /* SmallestSubtreewithalltheDeepestNodes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SmallestSubtreewithalltheDeepestNodes.swift; sourceTree = "<group>"; };
 		054751711F9EE01A0091FFDF /* ExclusiveTimeofFunctions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExclusiveTimeofFunctions.swift; sourceTree = "<group>"; };
 		0547ADD22100744B006276D2 /* AdvantageShuffle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AdvantageShuffle.swift; sourceTree = "<group>"; };
 		0547ADD6210088BA006276D2 /* PrimePalindrome.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PrimePalindrome.swift; sourceTree = "<group>"; };
@@ -1415,6 +1417,7 @@
 				05A72C57205B597F008385B5 /* KthSmallestElementinaBST.swift */,
 				051F1AAF2086DBB6005ED238 /* MinimumDistanceBetweenBSTNodes.swift */,
 				051F1AB12086F18B005ED238 /* BinaryTreePruning.swift */,
+				0545A1DF2101827500C3A9A5 /* SmallestSubtreewithalltheDeepestNodes.swift */,
 			);
 			path = Tree;
 			sourceTree = "<group>";
@@ -1515,6 +1518,7 @@
 				425DE4A11EF923B10079F9B3 /* RemoveLinkedListElements.swift in Sources */,
 				05ED8F6820C141B90023F87F /* KeysandRooms.swift in Sources */,
 				42E051A71F1B93BB00D2516C /* NextPermutation.swift in Sources */,
+				0545A1E02101827500C3A9A5 /* SmallestSubtreewithalltheDeepestNodes.swift in Sources */,
 				052B9B851F519C44008F0824 /* ReplaceWords.swift in Sources */,
 				425DE49B1EF9233D0079F9B3 /* RemoveNthNodeFromEndofList.swift in Sources */,
 				0541283E1FAAB1CA00CFE81C /* WordBreak.swift in Sources */,
