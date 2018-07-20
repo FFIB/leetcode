@@ -78,5 +78,17 @@ public class TreeNode {
 }
 
 
-print(Solution().advantageCount([12,24,8,32]
-    , [13,25,32,11]))
+
+func isPrime(x: Int) -> Bool {
+    var i = 3
+    while i * i <= x {
+        if x % i == 0 { return false }
+        i += 2
+    }
+    return true
+
+}
+
+print(isPrime(x: 202))
+
+print(Solution().primePalindrome(102))

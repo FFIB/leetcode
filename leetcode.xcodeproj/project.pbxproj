@@ -86,6 +86,7 @@
 		0544CFBB1F372E6E000B1918 /* JumpGame.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0544CFBA1F372E6E000B1918 /* JumpGame.swift */; };
 		054751721F9EE01A0091FFDF /* ExclusiveTimeofFunctions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 054751711F9EE01A0091FFDF /* ExclusiveTimeofFunctions.swift */; };
 		0547ADD32100744B006276D2 /* AdvantageShuffle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0547ADD22100744B006276D2 /* AdvantageShuffle.swift */; };
+		0547ADD7210088BA006276D2 /* PrimePalindrome.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0547ADD6210088BA006276D2 /* PrimePalindrome.swift */; };
 		0548205420A92DE000EE8CD3 /* FindAndReplaceinString.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0548205320A92DE000EE8CD3 /* FindAndReplaceinString.swift */; };
 		0548205620A939BB00EE8CD3 /* FlippinganImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0548205520A939BB00EE8CD3 /* FlippinganImage.swift */; };
 		0548205A20A97F4A00EE8CD3 /* BinaryTreesWithFactors.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0548205920A97F4A00EE8CD3 /* BinaryTreesWithFactors.swift */; };
@@ -507,6 +508,7 @@
 		0544CFBA1F372E6E000B1918 /* JumpGame.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JumpGame.swift; sourceTree = "<group>"; };
 		054751711F9EE01A0091FFDF /* ExclusiveTimeofFunctions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExclusiveTimeofFunctions.swift; sourceTree = "<group>"; };
 		0547ADD22100744B006276D2 /* AdvantageShuffle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AdvantageShuffle.swift; sourceTree = "<group>"; };
+		0547ADD6210088BA006276D2 /* PrimePalindrome.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PrimePalindrome.swift; sourceTree = "<group>"; };
 		0548205320A92DE000EE8CD3 /* FindAndReplaceinString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindAndReplaceinString.swift; sourceTree = "<group>"; };
 		0548205520A939BB00EE8CD3 /* FlippinganImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FlippinganImage.swift; sourceTree = "<group>"; };
 		0548205920A97F4A00EE8CD3 /* BinaryTreesWithFactors.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BinaryTreesWithFactors.swift; sourceTree = "<group>"; };
@@ -1365,6 +1367,7 @@
 				059BE77C209AC5180016F04E /* EscapeTheGhosts.swift */,
 				050A41EB209FF6A20004243F /* ConsecutiveNumbersSum.swift */,
 				05ED8F6B20C1553E0023F87F /* RectangleOverlap.swift */,
+				0547ADD6210088BA006276D2 /* PrimePalindrome.swift */,
 			);
 			path = Math;
 			sourceTree = "<group>";
@@ -1764,6 +1767,7 @@
 				053CB01C1FF097A500753A9F /* HouseRobberII.swift in Sources */,
 				050E0E5220A14341002925EB /* CardFlippingGame.swift in Sources */,
 				05A54CBE1FEC99F200CE33CC /* BinaryTreeZigzagLevelOrderTraversal.swift in Sources */,
+				0547ADD7210088BA006276D2 /* PrimePalindrome.swift in Sources */,
 				056F2ABD1FCF9C1800F3389A /* SameTree.swift in Sources */,
 				0516CE291F7358EC00E1459A /* SimplifyPath.swift in Sources */,
 				42880CDC1EFA11E800869089 /* PowerofThree.swift in Sources */,
