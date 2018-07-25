@@ -91,5 +91,4 @@ func isPrime(x: Int) -> Bool {
 
 print(isPrime(x: 202))
 
-print(Solution().robotSim([7,-2,-2,7,5],
-    [[-3,2],[-2,1],[0,1],[-2,4],[-1,0],[-2,-3],[0,-3],[4,4],[-3,3],[2,2]]))
+print(Solution().lemonadeChange([5,5,10,20,5,5,5,5,5,5,5,5,5,10,5,5,20,5,20,5]))
