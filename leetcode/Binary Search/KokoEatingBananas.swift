@@ -61,7 +61,6 @@ extension Solution {
                 r = m - 1
                 ans = min(ans, m)
             }
-
         }
         return ans
     }
