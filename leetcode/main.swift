@@ -91,4 +91,4 @@ func isPrime(x: Int) -> Bool {
 
 print(isPrime(x: 202))
 
-print(Solution().binaryGap(5))
+print(Solution().scoreOfParentheses("(()(()))"))

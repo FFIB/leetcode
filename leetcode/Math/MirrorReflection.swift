@@ -38,7 +38,7 @@ extension Solution {
             return gcd(a: b % a, b: a)
         }
 
-        let g = gcd(a: a, b: b)
+        let g = gcd(a: p, b: q)
         var p = p / g
         var q = q / g
         p %= 2
