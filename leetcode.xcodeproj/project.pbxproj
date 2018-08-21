@@ -43,6 +43,7 @@
 		0517C3681F68CBCD0035FE45 /* PalindromePairs.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0517C3671F68CBCD0035FE45 /* PalindromePairs.swift */; };
 		051AFDE420D0B4350063D355 /* BackspaceStringCompare.swift in Sources */ = {isa = PBXBuildFile; fileRef = 051AFDE320D0B4350063D355 /* BackspaceStringCompare.swift */; };
 		051C4D901F56584B00935D43 /* InsertionSortList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 051C4D8F1F56584B00935D43 /* InsertionSortList.swift */; };
+		051D1CAA210F193600412A89 /* FindEventualSafeStates.swift in Sources */ = {isa = PBXBuildFile; fileRef = 051D1CA9210F193600412A89 /* FindEventualSafeStates.swift */; };
 		051F1AB02086DBB6005ED238 /* MinimumDistanceBetweenBSTNodes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 051F1AAF2086DBB6005ED238 /* MinimumDistanceBetweenBSTNodes.swift */; };
 		051F1AB22086F18B005ED238 /* BinaryTreePruning.swift in Sources */ = {isa = PBXBuildFile; fileRef = 051F1AB12086F18B005ED238 /* BinaryTreePruning.swift */; };
 		05205920204E2CF80049B1D0 /* SplitArrayintoConsecutiveSubsequences.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0520591F204E2CF80049B1D0 /* SplitArrayintoConsecutiveSubsequences.swift */; };
@@ -478,6 +479,7 @@
 		0517C3671F68CBCD0035FE45 /* PalindromePairs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PalindromePairs.swift; sourceTree = "<group>"; };
 		051AFDE320D0B4350063D355 /* BackspaceStringCompare.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackspaceStringCompare.swift; sourceTree = "<group>"; };
 		051C4D8F1F56584B00935D43 /* InsertionSortList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InsertionSortList.swift; sourceTree = "<group>"; };
+		051D1CA9210F193600412A89 /* FindEventualSafeStates.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindEventualSafeStates.swift; sourceTree = "<group>"; };
 		051F1AAF2086DBB6005ED238 /* MinimumDistanceBetweenBSTNodes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumDistanceBetweenBSTNodes.swift; sourceTree = "<group>"; };
 		051F1AB12086F18B005ED238 /* BinaryTreePruning.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BinaryTreePruning.swift; sourceTree = "<group>"; wrapsLines = 0; };
 		0520591F204E2CF80049B1D0 /* SplitArrayintoConsecutiveSubsequences.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SplitArrayintoConsecutiveSubsequences.swift; sourceTree = "<group>"; };
@@ -994,6 +996,7 @@
 				0538C59E2058BB4A0059D413 /* CanIWin.swift */,
 				0505F74F208D7CB2006FDC8D /* AllPathsFromSourcetoTarget.swift */,
 				05ED8F6720C141B90023F87F /* KeysandRooms.swift */,
+				051D1CA9210F193600412A89 /* FindEventualSafeStates.swift */,
 			);
 			path = DFS;
 			sourceTree = "<group>";
@@ -1926,6 +1929,7 @@
 				4247BE1B1F1E127D0012C1F1 /* AddTwoNumberI.swift in Sources */,
 				0505F75A208EDBC5006FDC8D /* LinkedListComponents.swift in Sources */,
 				42880D041EFA152100869089 /* FindAllNumbersDisappearedInArray.swift in Sources */,
+				051D1CAA210F193600412A89 /* FindEventualSafeStates.swift in Sources */,
 				425DE44B1EF91B150079F9B3 /* ConvertSortedArraytoBinarySearchTree.swift in Sources */,
 				05332C3520521FAD00DAAE32 /* NumberofSubarrayswithBoundedMaximum.swift in Sources */,
 				4293D0691F09EFE80034747E /* MinimumIndexSumofTwoLists .swift in Sources */,

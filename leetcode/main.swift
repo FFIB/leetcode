@@ -89,6 +89,5 @@ func isPrime(x: Int) -> Bool {
 
 }
 
-print(isPrime(x: 202))
 
-print(Solution().scoreOfParentheses("(()(()))"))
+print(Solution().eventualSafeNodes([[1,2],[2,3],[5],[0],[5],[],[]]))
