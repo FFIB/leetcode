@@ -181,6 +181,7 @@
 		05ADF32E210AC0D9006BFB91 /* ScoreofParentheses.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05ADF32D210AC0D9006BFB91 /* ScoreofParentheses.swift */; };
 		05AE6D242027EF4600F8D9EF /* BasicCalculatorII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05AE6D232027EF4600F8D9EF /* BasicCalculatorII.swift */; };
 		05B31A6F2061F02E00D0DC98 /* OpenTheLock.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05B31A6E2061F02E00D0DC98 /* OpenTheLock.swift */; };
+		05B4C437212BB30300949555 /* FindandReplacePattern.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05B4C436212BB30300949555 /* FindandReplacePattern.swift */; };
 		05B4DBF41F6B713100CDFDEF /* Combinations.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05B4DBF31F6B713100CDFDEF /* Combinations.swift */; };
 		05B4DBF61F6D7DF400CDFDEF /* JudgeRouteCircle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05B4DBF51F6D7DF400CDFDEF /* JudgeRouteCircle.swift */; };
 		05B5555E1F6A1A4C00A84910 /* TrappingRainWater.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05B5555D1F6A1A4C00A84910 /* TrappingRainWater.swift */; };
@@ -617,6 +618,7 @@
 		05ADF32D210AC0D9006BFB91 /* ScoreofParentheses.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScoreofParentheses.swift; sourceTree = "<group>"; };
 		05AE6D232027EF4600F8D9EF /* BasicCalculatorII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BasicCalculatorII.swift; sourceTree = "<group>"; };
 		05B31A6E2061F02E00D0DC98 /* OpenTheLock.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OpenTheLock.swift; sourceTree = "<group>"; };
+		05B4C436212BB30300949555 /* FindandReplacePattern.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindandReplacePattern.swift; sourceTree = "<group>"; };
 		05B4DBF31F6B713100CDFDEF /* Combinations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Combinations.swift; sourceTree = "<group>"; };
 		05B4DBF51F6D7DF400CDFDEF /* JudgeRouteCircle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JudgeRouteCircle.swift; sourceTree = "<group>"; };
 		05B5555D1F6A1A4C00A84910 /* TrappingRainWater.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TrappingRainWater.swift; sourceTree = "<group>"; };
@@ -1347,6 +1349,7 @@
 				05CD08E220B3C0B20020AA13 /* AmbiguousCoordinates.swift */,
 				052B0A9120B531D000CC73C0 /* RotateString.swift */,
 				055C8BCB2105F7C800D203DC /* BuddyStrings.swift */,
+				05B4C436212BB30300949555 /* FindandReplacePattern.swift */,
 			);
 			path = String;
 			sourceTree = "<group>";
@@ -1873,6 +1876,7 @@
 				055C8BD021080EC100D203DC /* LemonadeChange.swift in Sources */,
 				425DE46F1EF91F840079F9B3 /* GenerateParentheses.swift in Sources */,
 				425DE4471EF91AC80079F9B3 /* BalancedBinaryTree.swift in Sources */,
+				05B4C437212BB30300949555 /* FindandReplacePattern.swift in Sources */,
 				051F1AB02086DBB6005ED238 /* MinimumDistanceBetweenBSTNodes.swift in Sources */,
 				425DE44F1EF91B7E0079F9B3 /* ValidNumber.swift in Sources */,
 				42880CCA1EFA10DA00869089 /* MinimumMovestoEqualArrayElements.swift in Sources */,

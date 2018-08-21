@@ -90,4 +90,5 @@ func isPrime(x: Int) -> Bool {
 }
 
 
-print(Solution().eventualSafeNodes([[1,2],[2,3],[5],[0],[5],[],[]]))
+print(Solution().findAndReplacePattern(["abc","deq","mee","aqq","dkd","ccc"]
+    , "abb"))
