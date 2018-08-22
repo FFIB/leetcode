@@ -158,6 +158,7 @@
 		058E2E522048EAA900ED8909 /* RepeatedDNASequences.swift in Sources */ = {isa = PBXBuildFile; fileRef = 058E2E512048EAA900ED8909 /* RepeatedDNASequences.swift */; };
 		058EB0292063441400E00297 /* PartitiontoKEqualSumSubsets.swift in Sources */ = {isa = PBXBuildFile; fileRef = 058EB0282063441400E00297 /* PartitiontoKEqualSumSubsets.swift */; };
 		058EB02B2064A30100E00297 /* RepeatedStringMatch.swift in Sources */ = {isa = PBXBuildFile; fileRef = 058EB02A2064A30100E00297 /* RepeatedStringMatch.swift */; };
+		0591A981212CFDCC00DA2B74 /* MiddleoftheLinkedList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0591A980212CFDCC00DA2B74 /* MiddleoftheLinkedList.swift */; };
 		0599AF3A1F3D46FF0090B9F4 /* VaildateIPAdress.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0599AF391F3D46FF0090B9F4 /* VaildateIPAdress.swift */; };
 		059BE77B209AA1230016F04E /* Minesweeper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 059BE77A209AA1230016F04E /* Minesweeper.swift */; };
 		059BE77D209AC5180016F04E /* EscapeTheGhosts.swift in Sources */ = {isa = PBXBuildFile; fileRef = 059BE77C209AC5180016F04E /* EscapeTheGhosts.swift */; };
@@ -594,6 +595,7 @@
 		058E2E512048EAA900ED8909 /* RepeatedDNASequences.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RepeatedDNASequences.swift; sourceTree = "<group>"; };
 		058EB0282063441400E00297 /* PartitiontoKEqualSumSubsets.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PartitiontoKEqualSumSubsets.swift; sourceTree = "<group>"; };
 		058EB02A2064A30100E00297 /* RepeatedStringMatch.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RepeatedStringMatch.swift; sourceTree = "<group>"; };
+		0591A980212CFDCC00DA2B74 /* MiddleoftheLinkedList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MiddleoftheLinkedList.swift; sourceTree = "<group>"; };
 		0599AF391F3D46FF0090B9F4 /* VaildateIPAdress.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VaildateIPAdress.swift; sourceTree = "<group>"; };
 		059BE77A209AA1230016F04E /* Minesweeper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Minesweeper.swift; sourceTree = "<group>"; };
 		059BE77C209AC5180016F04E /* EscapeTheGhosts.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EscapeTheGhosts.swift; sourceTree = "<group>"; };
@@ -1483,6 +1485,7 @@
 				056F2AC51FD0E74200F3389A /* RemoveDuplicatesfromSortedListII.swift */,
 				05D5F0C020157ADA00BC890B /* SplitLinkedListinParts.swift */,
 				0505F759208EDBC5006FDC8D /* LinkedListComponents.swift */,
+				0591A980212CFDCC00DA2B74 /* MiddleoftheLinkedList.swift */,
 			);
 			path = "Linked List";
 			sourceTree = "<group>";
@@ -1932,6 +1935,7 @@
 				425C43441F2DCD300042DC46 /* CombinationSumIV.swift in Sources */,
 				4247BE1B1F1E127D0012C1F1 /* AddTwoNumberI.swift in Sources */,
 				0505F75A208EDBC5006FDC8D /* LinkedListComponents.swift in Sources */,
+				0591A981212CFDCC00DA2B74 /* MiddleoftheLinkedList.swift in Sources */,
 				42880D041EFA152100869089 /* FindAllNumbersDisappearedInArray.swift in Sources */,
 				051D1CAA210F193600412A89 /* FindEventualSafeStates.swift in Sources */,
 				425DE44B1EF91B150079F9B3 /* ConvertSortedArraytoBinarySearchTree.swift in Sources */,
